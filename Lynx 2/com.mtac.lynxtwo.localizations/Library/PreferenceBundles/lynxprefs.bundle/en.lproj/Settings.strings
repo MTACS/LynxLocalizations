@@ -1,0 +1,18 @@
+"APPLE_ID" = "Apple ID";
+"USE_CUSTOM_FIRST_NAME" = "Use Custom First Name";
+"FIRST_NAME" = "First Name";
+"USE_CUSTOM_LAST_NAME" = "Use Custom Last Name";
+"LAST_NAME" = "Last Name";
+"ICONS" = "Icons";
+"HIDE_CELL_ICONS" = "Hide Cell Icons";
+"USE_ROUND_CELL_ICONS" = "Use Round Cell Icons";
+"CHEVRONS" = "Chevrons";
+"HIDE_DISCLOSURE_ARROW" = "Hide Disclosure Arrow";
+"SECTIONS" = "Sections";
+"HIDE_THIRD_PARTY" = "Hide 3rd Party Apps";
+"HIDE_EXPOSURE_NOTIFICATIONS" = "Hide Exposure Notifications";
+"NETWORK" = "Network";
+"WIFI_SECTION" = "WiFi Section";
+"WIFI_SECTION_SUBTITLE" = "Display current IP Address";
+"SETTINGS" = "Settings";
+
