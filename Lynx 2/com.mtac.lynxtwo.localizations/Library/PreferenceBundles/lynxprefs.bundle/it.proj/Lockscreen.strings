@@ -42,7 +42,7 @@
 "PULL_TO_CLEAR" = "Trascina per cancellare";
 "USE_MODERN_ICONS" = "Usa icone Moderne";
 "ICON_SIZE_SUBTITLE" = "Aumenta dimensione icone e aggiungi ombre";
-"HIDE_SWIPE_SEPARATORS" = "NAscondi separatori di scorrimento";
+"HIDE_SWIPE_SEPARATORS" = "Nascondi separatori di scorrimento";
 "SWIPE_SEPARATORS_SUBTITLE" = "Nasocndi linee verticali tra i pulsanti";
 "USE_SMOOTH_SWIPING" = "Usa scorrimento omogeneo";
 "NOTIFICATIONS_LIST_WARNING" = "Valori positivi muovono le notifiche verso il basso, negativi verso l'alto. Default è 0";
