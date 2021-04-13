@@ -37,7 +37,8 @@
 "OUTER_SHADOW_SUBTITLE" = "May affect SpringBoard performance";
 "SHADOW_COLOR" = "Shadow Color";
 "ICONS" = "Icons";
-
+"DOWNLOADS" = "Downloads";
+"SHOW_PROGRESS" = "Show Progress %";
 
 
 
