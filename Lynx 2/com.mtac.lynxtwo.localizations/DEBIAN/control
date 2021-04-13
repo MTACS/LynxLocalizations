@@ -6,4 +6,4 @@ Maintainer: MTAC
 Author: MTAC
 Section: Tweaks
 Depends: mobilesubstrate, firmware (>= 14.0)
-Version: 1.0.2
+Version: 1.0.3
