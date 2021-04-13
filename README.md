@@ -7,7 +7,7 @@ Fork this repository, and make a copy of the ```en.lproj``` folder located in at
 
 # Updating strings
 
-Please use the following video to find the changed strings and update the appropriate language .strings file accordingly using a pull request.
+Please use the following guide to find the changed strings and update the appropriate language .strings file accordingly using a pull request.
 
 ![Localization](https://mtac.app/assets/images/localization.gif)
 
