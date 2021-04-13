@@ -9,7 +9,9 @@ Fork this repository, and make a copy of the ```en.lproj``` folder located in at
 
 Please use the following video to find the changed strings and update the appropriate language .strings file accordingly using a pull request.
 
-https://user-images.githubusercontent.com/13209789/114492441-9b95c800-9be6-11eb-9341-a6ff4c5b0587.mov
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://user-images.githubusercontent.com/13209789/114492441-9b95c800-9be6-11eb-9341-a6ff4c5b0587.mov)
+
+
 
 # Updates
 
