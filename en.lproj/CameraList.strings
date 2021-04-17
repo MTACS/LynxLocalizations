@@ -5,3 +5,6 @@
 "SHUTTER_SOUND" = "Shutter Sound";
 "DISABLE_SHUTTER_SOUND" = "Disable Shutter Sound";
 "CAMERA" = "Camera";
+"VIEWFINDER" = "View Finder";
+"DOUBLE_TAP_FLIP" = "Double Tap";
+"DOUBLE_TAP_FLIP_SUBTITLE" = "Tap Twice to Flip";
