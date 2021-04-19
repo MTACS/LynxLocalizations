@@ -88,7 +88,8 @@
 "UNLOCK_ANIMATION" = " Unlock Animation";
 "DISABLE_ICON_ANIMATION" = "Disable Fly In Animation";
 "LOCKSCREEN" = "Lockscreen";
-
+"AUTO_EXPAND" = "Auto Expand";
+"AUTO_EXPAND_SUBTITLE" = "Always show Banner content";
 
 
 
