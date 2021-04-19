@@ -16,4 +16,5 @@
 "HOMESCREEN_ICON_LAYOUT" = "Homescreen Icon Layout";
 "HOMESCREEN_ICON_LAYOUT_SUBTITLE" = "Sorts icons alphabetically";
 "EXPERIMENTAL" = "Experimental";
-
+"USE_FLUID_UI" = "Use Fluid UI";
+"USE_FLUID_UI_SUBTITLE" = "iPhone X style gestures";
