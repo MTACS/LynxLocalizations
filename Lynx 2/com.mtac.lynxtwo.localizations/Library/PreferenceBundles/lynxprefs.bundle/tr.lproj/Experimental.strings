@@ -16,4 +16,5 @@
 "HOMESCREEN_ICON_LAYOUT" = "Ana Ekran Simge Düzeni";
 "HOMESCREEN_ICON_LAYOUT_SUBTITLE" = "Alfabetik Sıralama";
 "EXPERIMENTAL" = "Daha Fazla";
-
+"USE_FLUID_UI" = "Fluid kullanıcı arayüzünü kullan";
+"USE_FLUID_UI_SUBTITLE" = "iPhone X tarzı hareketler";
