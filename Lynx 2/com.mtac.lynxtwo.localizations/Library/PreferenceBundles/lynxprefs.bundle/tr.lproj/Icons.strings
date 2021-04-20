@@ -37,10 +37,7 @@
 "OUTER_SHADOW_SUBTITLE" = "Cihaz performansını etkileyebilir";
 "SHADOW_COLOR" = "Gölge Rengi";
 "ICONS" = "Simgeler";
-
-
-
-
-
-
-
+"SHOW_PROGRESS" = "İlerleme Yüzdesini Göster";
+"HIDING" = "Uygulama Gizleme";
+"SELECT_HIDDEN_APPS" = "Gizli Uygulamaları Seçin";
+"APPLY" = "Uygula";
