@@ -1,0 +1,17 @@
+"SYSTEM_WIDE" = "System Wide";
+"LOCKSCREEN" = "Lockscreen";
+"STATUS_BAR" = "Status Bar";
+"WIDGETS" = "Widgets";
+"ICONS" = "Icons";
+"APP_SWITCHER" = "App Switcher";
+"CONTROL_CENTER" = "Control Center";
+"SETTINGS" = "Settings";
+"MUSIC" = "Music";
+"APP_STORE" = "App Store";
+"CAMERA" = "Camera";
+"PHONE" = "Phone";
+"PHOTOS" = "Photos";
+"MESSAGES" = "Messages";
+"THIRD_PARTY_APPS" = "Third Party Apps";
+"EXPERIMENTAL" = "Experimental";
+"MORE" = "More";
