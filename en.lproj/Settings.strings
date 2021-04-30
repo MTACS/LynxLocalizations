@@ -15,4 +15,5 @@
 "WIFI_SECTION" = "WiFi Section";
 "WIFI_SECTION_SUBTITLE" = "Display current IP Address";
 "SETTINGS" = "Settings";
-
+"ETHERNET_SECTION" = "Ethernet Section";
+"ETHERNET_SECTION_SUBTITLE" = "Show Ethernet Section";
