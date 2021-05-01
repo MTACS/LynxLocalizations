@@ -15,4 +15,5 @@
 "WIFI_SECTION" = "WiFi-Bereich";
 "WIFI_SECTION_SUBTITLE" = "Aktuelle IP-Adresse anzeigen";
 "SETTINGS" = "Einstellungen";
-
+"ETHERNET_SECTION" = "Ethernet-Schnittstelle";
+"ETHERNET_SECTION_SUBTITLE" = "Ethernet-Schnittstelle anzeigen";
