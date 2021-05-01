@@ -12,7 +12,7 @@
 "HIDE_THIRD_PARTY" = "Apps von Drittanbietern ausblenden";
 "HIDE_EXPOSURE_NOTIFICATIONS" = "Begegnungsmitteilungen ausblenden";
 "NETWORK" = "Netzwerk";
-"WIFI_SECTION" = "WiFi-Bereich";
+"WIFI_SECTION" = "WLAN-Bereich";
 "WIFI_SECTION_SUBTITLE" = "Aktuelle IP-Adresse anzeigen";
 "SETTINGS" = "Einstellungen";
 "ETHERNET_SECTION" = "Ethernet-Schnittstelle";
