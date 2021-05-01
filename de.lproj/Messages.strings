@@ -1,10 +1,9 @@
-"PINNED_CONVERSATIONS" = "Pinned Conversations";
-"HIDE_CONTACT_IMAGE_GLOW" = "Hide Contact Image Glow";
-"USE_CUSTOM_BUBBLE_COLOR" = "Use Custom Bubble Color";
-"USE_CUSTOM_LABEL_COLOR" = "Use Custom Label Color";
-"LABEL_COLOR" = "Label Color";
-"CONVERSATIONS" = "Conversations";
-"HIDE_SEPARATORS" = "Hide Separators";
-"OTHER_TWEAKS" = "Other Tweaks";
-"MESSAGES" = "Messages";
-
+"PINNED_CONVERSATIONS" = "Angepinnte Unterhaltungen";
+"HIDE_CONTACT_IMAGE_GLOW" = "Kontaktbild-Leuchten ausblenden";
+"USE_CUSTOM_BUBBLE_COLOR" = "Eigene Blasen-Farbe benutzen";
+"USE_CUSTOM_LABEL_COLOR" = "Eigene Label-Farbe benutzen";
+"LABEL_COLOR" = "Label-Farbe";
+"CONVERSATIONS" = "Unterhaltungen";
+"HIDE_SEPARATORS" = "Trennlinien ausblenden";
+"OTHER_TWEAKS" = "Andere Tweaks";
+"MESSAGES" = "Nachrichten";
