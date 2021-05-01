@@ -36,20 +36,16 @@
 "HIDE_COLORED_VIEW" = "Hide Colored View";
 "HIDE_PULSING_VIEW" = "Hide Pulsing View";
 "STATUS_PILL_WARNING" = "Enabling 'Hide Colored View' affects Location Services, Hotspot and Screen Recording on iPhone X or newer";
-"CARRIER" = "Carrier";
-"USE_WIFI_ADDRESS" = "Use WiFi Address";
-"USE_CUSTOM_CARRIER" = "Use Custom Carrier";
-"NO_SIM_TEXT" = "Override 'No SIM' Text";
-"NO_SERVICE_TEXT" = "Override 'No Service' Text";
-"ENTER_CUSTOM_CARRIER_TEXT" = "Enter custom carrier text";
-"USE_DATE_AS_CARRIER" = "Use Date as Carrier";
-"CARRIER_DATE_PLACEHOLDER" = "yyyy-MM-dd";
-"VIEW_MORE_DATE_FORMATS" = "View More Date Formats";
-"CLOCK" = "Clock";
-"USE_CUSTOM_TIME_FORMAT" = "Use Custom Time Format";
-"CUSTOM_TIME_FORMAT_PLACEHOLDER" = "h:mm a";
-"STATUS_BAR" = "Status Bar";
-
-
-
-
+"CARRIER" = "Netzbetreiber";
+"USE_WIFI_ADDRESS" = "WLAN Adresse verwenden";
+"USE_CUSTOM_CARRIER" = "Eigenen Netzbetreiber verwenden";
+"NO_SIM_TEXT" = "'Keine SIM'-Text überschreiben";
+"NO_SERVICE_TEXT" = "'Kein Dienst'-Text überschreiben";
+"ENTER_CUSTOM_CARRIER_TEXT" = "Eigenen Netzbetreiber-Text eingeben";
+"USE_DATE_AS_CARRIER" = "Datum statt Netzbetreiber verwenden";
+"CARRIER_DATE_PLACEHOLDER" = "dd-MM-yyyy";
+"VIEW_MORE_DATE_FORMATS" = "Weitere Datumsformate anzeigen";
+"CLOCK" = "Uhr";
+"USE_CUSTOM_TIME_FORMAT" = "Eigenes Zeitformat verwenden";
+"CUSTOM_TIME_FORMAT_PLACEHOLDER" = "h:mm";
+"STATUS_BAR" = "Statusleiste";
