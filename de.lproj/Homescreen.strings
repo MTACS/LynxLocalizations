@@ -1,23 +1,18 @@
-"HOMESCREEN_EDITING" = "Homescreen editing";
-"QUICK_SETTINGS" = "Quick Settings";
-"QUICK_SETTINGS_SUBTITLE" = "Tap on 'Add Widget' button for more";
-"HOMESCREEN" = "Homescreen";
-"HS_ROWS_SUBTITLE" = "Default: 6";
-"CUSTOM_HOMESCREEN_ROWS" = "Custom Homescreen Rows";
-"CUSTOM_HOMESCREEN_COLUMNS" = "Custom Homescreen Columns";
-"CUSTOM_HOMESCREEN_COLUMNS_SUBTITLE" = "Default: 4";
-"FOLDERS" = "Folders";
-"CUSTOM_FOLDER_ROWS" = "Custom Folder Rows";
-"CUSTOM_FOLDER_ROWS_SUBTITLE" = "Default: 3";
-"CUSTOM_FOLDER_COLUMNS" = "Custom Folder Columns";
-"CUSTOM_FOLDER_COLUMNS_SUBTITLE" = "Default: 3";
+"HOMESCREEN_EDITING" = "Home-Bildschirm Bearbeitung";
+"QUICK_SETTINGS" = "Schnell-Einstellungen";
+"QUICK_SETTINGS_SUBTITLE" = "Auf 'Widget hinzufügen' tippen für mehr.";
+"HOMESCREEN" = "Home-Bildschirm";
+"HS_ROWS_SUBTITLE" = "Standard: 6";
+"CUSTOM_HOMESCREEN_ROWS" = "Eigene Home-Bildschirm Zeilenanzahl";
+"CUSTOM_HOMESCREEN_COLUMNS" = "Eigene Home-Bildschirm Spaltenanzahl";
+"CUSTOM_HOMESCREEN_COLUMNS_SUBTITLE" = "Standard: 4";
+"FOLDERS" = "Ordner";
+"CUSTOM_FOLDER_ROWS" = "Eigene Ordner-Zeilenanzahl";
+"CUSTOM_FOLDER_ROWS_SUBTITLE" = "Standard: 3";
+"CUSTOM_FOLDER_COLUMNS" = "Eigene Ordner-Spaltenanzahl";
+"CUSTOM_FOLDER_COLUMNS_SUBTITLE" = "Standard: 3";
 "DOCK" = "Dock";
-"CUSTOM_DOCK_ICONS" = "Custom Dock Icons";
-"CUSTOM_DOCK_ICONS_SUBTITLE" = "Default: 4";
-"APPLY" = "Apply";
-"HOMESCREEN" = "Homescreen";
-
-
-
-
-
+"CUSTOM_DOCK_ICONS" = "Eigene Dock-Iconanzahl";
+"CUSTOM_DOCK_ICONS_SUBTITLE" = "Standard: 4";
+"APPLY" = "Bestätigen";
+"HOMESCREEN" = "Home-Bildschirm";
