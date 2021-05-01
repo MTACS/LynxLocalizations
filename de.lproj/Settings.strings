@@ -6,8 +6,8 @@
 "ICONS" = "Icons";
 "HIDE_CELL_ICONS" = "Symbole ausblenden";
 "USE_ROUND_CELL_ICONS" = "Runde Symbole verwenden";
-"CHEVRONS" = "Chevrons";
-"HIDE_DISCLOSURE_ARROW" = "Zurück-Pfeil ausblenden";
+"CHEVRONS" = "Richtungspfeile";
+"HIDE_DISCLOSURE_ARROW" = "Richtungspfeile ausblenden";
 "SECTIONS" = "Abschnitte";
 "HIDE_THIRD_PARTY" = "Apps von Drittanbietern ausblenden";
 "HIDE_EXPOSURE_NOTIFICATIONS" = "Begegnungsmitteilungen ausblenden";
