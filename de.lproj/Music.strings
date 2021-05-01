@@ -1,10 +1,7 @@
-"UP_NEXT_POPUP" = "'Up Next' Popup";
-"HIDE_QUEUE_POPUP" = "Hide Queue Popup";
-"RECENTLY_ADDED" = "Recently Added";
-"SHOW_ALL_SONGS" = "Show All Songs";
-"MUSIC_LIBRARY_LAYOUT" = "Music Library Layout";
-"THREE_COLUMNS" = "Use 3 Column Layout";
-"MUSIC" = "Music";
-
-
-
+"UP_NEXT_POPUP" = "'Nächter Titel'-Popup";
+"HIDE_QUEUE_POPUP" = "Warteschlangen-Popup ausblenden";
+"RECENTLY_ADDED" = "Kürzlich hinzugefügt";
+"SHOW_ALL_SONGS" = "Alle Songs anzeigen";
+"MUSIC_LIBRARY_LAYOUT" = "Musikbibliotheken-Layout";
+"THREE_COLUMNS" = "3-Spalten-Layout verwenden";
+"MUSIC" = "Musik";
