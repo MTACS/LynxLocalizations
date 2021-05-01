@@ -1,16 +1,16 @@
-"APP_INTERFACE_STYLE" = "App Interface Style";
-"SELECT_DARK_APPS" = "Select Dark Apps";
-"SELECT_LIGHT_APPS" = "Select Light Apps";
-"APP_TINT" = "App Tint";
-"SELECT_TINTED_APPS" = "Select Tinted Apps";
-"TINT" = "Tint";
-"TINTS_CURRENT_WINDOW_ELEMENTS" = "Tints current window elements";
-"BADGES" = "Badges";
-"TINTS_TAB_BAR_BADGES" = "Tints tab bar badges";
-"BADGE_TINT" = "Badge Tint";
-"ALL_VIEWS" = "All Views";
-"TINTS_ALL_ELGIBILE_VIEWS" = "Tints all elgibile views";
-"VIEW_TINT" = "View Tint";
+"APP_INTERFACE_STYLE" = "App-Oberflächenstil";
+"SELECT_DARK_APPS" = "Dunkelmodus-Apps auswählen";
+"SELECT_LIGHT_APPS" = "Hellmodus-Apps auswählen";
+"APP_TINT" = "App-Farbton";
+"SELECT_TINTED_APPS" = "Apps auswählen";
+"TINT" = "Farbton";
+"TINTS_CURRENT_WINDOW_ELEMENTS" = "Färbt aktuelle Fensterelemente";
+"BADGES" = "App-Kennzeichen";
+"TINTS_TAB_BAR_BADGES" = "Färbt Registerkarten-Kennzeichen";
+"BADGE_TINT" = "Kennzeichen-Farbton";
+"ALL_VIEWS" = "Alle Ansichten";
+"TINTS_ALL_ELGIBILE_VIEWS" = "Färbt alle berechtigten Ansichten";
+"VIEW_TINT" = "Ansichten-Farbton";
 "ALERT_BANNERS" = "Alert Banners (Paste & Devices)";
 "HIDE_ALERT_BANNERS" = "Hide Alert Banners";
 "POWER" = "Power";
@@ -82,7 +82,4 @@
 "DISABLE_SOUND" = "Disable Sound";
 "DRAG_DROP" = "Drag & Drop";
 "ENABLE_EVERYWHERE" = "Enable Everywhere";
-"SYSTEM_WIDE" = "System Wide";
-
-
-
+"SYSTEM_WIDE" = "System";
