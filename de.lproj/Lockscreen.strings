@@ -62,37 +62,31 @@
 "HIDE_ENTER_PASSCODE" = "Text 'Code eingeben' ausblenden";
 "USE_CUSTOM_PASSCODE_TEXT" = "Eigenen Passcode-Text verwenden";
 "ENTER_PASSCODE_PLACEHOLDER" = "Passcode-Text eingeben";
-
-
-
-
-
-
-"QUICK_ACTION_BUTTONS" = "Quick Action Buttons";
-"HIDE_BUTTON_IMAGES" = "Hide Button Images";
-"HIDE_BOTH" = "Hide Both";
-"HIDE_FLASHLIGHT_BUTTON" = "Hide Flashlight Button";
-"HIDE_CAMERA_BUTTON" = "Hide Camera Button";
-"HIDE_BUTTON_BACKGROUND" = "Hide Button Background";
-"CAMERA" = "Camera";
-"DISABLE_CAMERA_SWIPE" = "Disable Camera Swipe";
-"FORCE_ENABLE_CAMERA" = "Force Enable Camera";
-"FORCE_ENABLE_CAMERA_SUBTITLE" = "Works best with swipe disabled";
-"MUSIC_PLAYER" = "Music Player";
-"HIDE_ON_LOCKSCREEN" = "Hide on Lockscreen";
-"DEFAULT" = "Default";
-"SIMPLE" = "Simple";
-"HIDE_VOLUME_SLIDER" = "Hide Volume Slider";
-"HIDE_PROGRESS_VIEW" = "Hide Progress View";
-"HIDE_MEDIA_CONTROLS" = "Hide Media Controls";
-"HIDE_AUDIO_SOURCE_BUTTON" = "Hide Audio Source Button";
-"HIDE_NOW_PLAYING_APP_ICON" = "Hide Now Playing App Icon";
-"OLDER_NOTIFICATIONS" = "Older Notifications";
-"HIDE_NO_NOTIFICATIONS" = "Hide 'No Older Notifications'";
-"NOTIFICATION_CENTER_TEXT" = "Notification Center Text";
-"USE_NUMBER_OF_NOTIFICATIONS" = "Use Number of Notifications";
-"UNLOCK_ANIMATION" = " Unlock Animation";
-"DISABLE_ICON_ANIMATION" = "Disable Fly In Animation";
-"LOCKSCREEN" = "Lockscreen";
-"AUTO_EXPAND" = "Auto Expand";
-"AUTO_EXPAND_SUBTITLE" = "Always show Banner content";
+"QUICK_ACTION_BUTTONS" = "Schnelle Aktionstasten";
+"HIDE_BUTTON_IMAGES" = "Nur Icons ausblenden";
+"HIDE_BOTH" = "Beide verstecken";
+"HIDE_FLASHLIGHT_BUTTON" = "Taschenlampe ausblenden";
+"HIDE_CAMERA_BUTTON" = "Kamera ausblenden";
+"HIDE_BUTTON_BACKGROUND" = "Tasten-Hintergrund ausblenden";
+"CAMERA" = "Kamera";
+"DISABLE_CAMERA_SWIPE" = "Kamera-Wischen deaktivieren";
+"FORCE_ENABLE_CAMERA" = "Kamera aktivieren erzwingen";
+"FORCE_ENABLE_CAMERA_SUBTITLE" = "Funktioniert am besten mit deaktivierte Wischgeste.";
+"MUSIC_PLAYER" = "Musik Player";
+"HIDE_ON_LOCKSCREEN" = "Auf Sperr-Bildschirm ausblenden";
+"DEFAULT" = "Standard";
+"SIMPLE" = "Einfach";
+"HIDE_VOLUME_SLIDER" = "Lautstärke-Regler ausblenden";
+"HIDE_PROGRESS_VIEW" = "Fortschritts-Ansicht ausblenden";
+"HIDE_MEDIA_CONTROLS" = "Medien-Steuerelemente ausblenden";
+"HIDE_AUDIO_SOURCE_BUTTON" = "Audioquellen-Taste ausblenden";
+"HIDE_NOW_PLAYING_APP_ICON" = "Wird gerade gespielt App-Icon ausblenden";
+"OLDER_NOTIFICATIONS" = "Ältere Benachrichtigungen";
+"HIDE_NO_NOTIFICATIONS" = "'Keine älteren Benachrichtigungen' ausblenden";
+"NOTIFICATION_CENTER_TEXT" = "Benachrichtigungszentrum-Text";
+"USE_NUMBER_OF_NOTIFICATIONS" = "Anzahl der Benachrichtigungen verwenden";
+"UNLOCK_ANIMATION" = "Entsperr-Animation";
+"DISABLE_ICON_ANIMATION" = "Fly-In Animation deaktivieren";
+"LOCKSCREEN" = "Sperr-Bildschirm";
+"AUTO_EXPAND" = "AAutomatisch erweitern";
+"AUTO_EXPAND_SUBTITLE" = "Bannerinhalt immer anzeigen";
