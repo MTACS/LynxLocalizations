@@ -13,7 +13,7 @@
 "HIDE_EXPOSURE_NOTIFICATIONS" = "Begegnungsmitteilungen ausblenden";
 "NETWORK" = "Netzwerk";
 "WIFI_SECTION" = "WLAN-Bereich";
-"WIFI_SECTION_SUBTITLE" = "Aktuelle IP-Adresse anzeigen";
+"WIFI_SECTION_SUBTITLE" = "Aktuelle IP-Adresse anzeigen.";
 "SETTINGS" = "Einstellungen";
 "ETHERNET_SECTION" = "Ethernet-Schnittstelle";
 "ETHERNET_SECTION_SUBTITLE" = "Ethernet-Schnittstelle anzeigen";
