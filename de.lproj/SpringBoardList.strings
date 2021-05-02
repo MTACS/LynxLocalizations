@@ -19,7 +19,7 @@
 "PLACE_FACE_DOWN_TO_LOCK" = "Auf Bildschirm legen zum Sperren";
 "DOCK" = "Dock";
 "BACKGROUND" = "Hintergrund";
-"HIDE_BLURRED_BACKGROUND" = "Unscharfen Hintergrund ausblenden";
+"HIDE_BLURRED_BACKGROUND" = "Unscharfen Hintergrund ausblenden.";
 "DIVIDER" = "Abgrenzung";
 "IPAD_DIVIDER" = "iPadOS-Dock Abgrenzung ausblenden.";
 "SPRINGBOARD" = "SpringBoard";
