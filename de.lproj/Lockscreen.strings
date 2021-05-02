@@ -1,6 +1,6 @@
 "MAGSAFE" = "MagSafe";
 "NATIVE_ANIMATION" = "Native Animation";
-"MAGSAFE_SUBTITLE" = "Zeigt beim Laden den MagSafe-Ring an";
+"MAGSAFE_SUBTITLE" = "Zeigt beim Laden den MagSafe-Ring an.";
 "CLOCK" = "Uhr";
 "HIDE_TIME_LABEL" = "Uhrzeit ausblenden";
 "TIME_LABEL_PLACEHOLDER" = "Uhrzeit Alpha: 1.0";
@@ -31,7 +31,7 @@
 "USE_CUSTOM_TEXT" = "Eigenen Text verwenden";
 "LYNX_PLACEHOLDER" = "Lynx 2";
 "SHOW_IMMEDIATELY" = "Sofort anzeigen";
-"UNLOCK_SUBTITLE" = "Entsperrtext immer anzeigen";
+"UNLOCK_SUBTITLE" = "Entsperrtext immer anzeigen.";
 "HIDING" = "Ausblenden";
 "HIDE_PAGE_DOTS" = "Seitenpunkte ausblenden";
 "PAGE_DOT_SUBTITLE" = "Nützlich für nicht Geräte ohne Notch.";
