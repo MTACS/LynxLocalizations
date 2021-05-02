@@ -73,7 +73,7 @@
 "FORCE_ENABLE_CAMERA" = "Kamera aktivieren erzwingen";
 "FORCE_ENABLE_CAMERA_SUBTITLE" = "Funktioniert am besten mit deaktivierte Wischgeste.";
 "MUSIC_PLAYER" = "Musik Player";
-"HIDE_ON_LOCKSCREEN" = "Auf Sperr-Bildschirm ausblenden";
+"HIDE_ON_LOCKSCREEN" = "Auf Sperrbildschirm ausblenden";
 "DEFAULT" = "Standard";
 "SIMPLE" = "Einfach";
 "HIDE_VOLUME_SLIDER" = "Lautstärke-Regler ausblenden";
@@ -87,6 +87,6 @@
 "USE_NUMBER_OF_NOTIFICATIONS" = "Anzahl verwenden";
 "UNLOCK_ANIMATION" = "Entsperr-Animation";
 "DISABLE_ICON_ANIMATION" = "Fly-In Animation deaktivieren";
-"LOCKSCREEN" = "Sperr-Bildschirm";
+"LOCKSCREEN" = "Sperrbildschirm";
 "AUTO_EXPAND" = "Automatisch erweitern";
 "AUTO_EXPAND_SUBTITLE" = "Bannerinhalt immer anzeigen";
