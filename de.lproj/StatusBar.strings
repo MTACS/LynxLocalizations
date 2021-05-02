@@ -22,7 +22,7 @@
 "HIDE_CARRIER_TEXT" = "Netzbetreiber-Text ausblenden";
 "HIDE_LOCATION_ARROW" = "Ortungsdienste-Pfeil ausblenden";
 "HIDE_ROTATION_LOCK" = "Ausrichtungssperre ausblenden";
-"HIDE_DO_NOT_DISTURB_MOON" = "'Nicht stören' Mond ausblenden";
+"HIDE_DO_NOT_DISTURB_MOON" = "'Nicht stören'-Mond ausblenden";
 "HIDE_BLUETOOTH_ICON" = "Bluetooth-Symbol ausblenden";
 "HIDE_ALARM_BELL" = "Alarmglocke ausblenden";
 "HIDE_AIRPLANE_MODE" = "Flugmodus ausblenden";
