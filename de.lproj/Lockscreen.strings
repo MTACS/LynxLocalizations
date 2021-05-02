@@ -25,7 +25,7 @@
 "BATTERY_VIEW" = "Batterieansicht";
 "BATTERY_SUBTITLE" = "Batterie-Popup beim Laden ausblenden.";
 "STYLE" = "Stil";
-"ALWAYS_DND" = "Immer Nicht-stören Dunkel-Modus verwenden";
+"ALWAYS_DND" = "Nicht-stören Dunkelmodus";
 "UNLOCK_TEXT" = "Entsperrtext";
 "HIDE_SWIPE_PRESS" = "Entsperrtext ausblenden";
 "USE_CUSTOM_TEXT" = "Eigenen Text verwenden";
@@ -37,13 +37,13 @@
 "PAGE_DOT_SUBTITLE" = "Nützlich für nicht Geräte ohne Notch.";
 "DO_NOT_DISTURB" = "Nicht stören";
 "HIDE_BANNER" = "Banner";
-"HIDE_BANNER_SUBTITLE" = "Nicht stören-Banner auf Sperr-Bildschirm ausblenden.";
+"HIDE_BANNER_SUBTITLE" = "Nicht stören-Banner ausblenden.";
 "NOTIFICATION_LIST" = "Benachrichtigungsliste";
 "PULL_TO_CLEAR" = "Zum Löschen ziehen";
 "USE_MODERN_ICONS" = "Moderne Symbole verwenden";
 "ICON_SIZE_SUBTITLE" = "Erhöht die Symbolgröße und fügt Schatten hinzu.";
 "HIDE_SWIPE_SEPARATORS" = "Wisch-Trennlinien ausblenden";
-"SWIPE_SEPARATORS_SUBTITLE" = "Vertikale Linien zwischen den Schaltflächen ausblenden.";
+"SWIPE_SEPARATORS_SUBTITLE" = "Vertikale Linien ausblenden.";
 "USE_SMOOTH_SWIPING" = "Smooth Swiping verwenden";
 "NOTIFICATIONS_LIST_WARNING" = "Positive Werte verschieben Benachrichtigungen nach unten, negative Werte verschieben Benachrichtigungen nach oben. Standard ist 0.";
 "NOTIFICATIONS_AND_BANNERS" = "Benachrichtigungen & Banner";
@@ -57,7 +57,7 @@
 "HIDE_CANCEL_BUTTON" = "Abbrechen-Taste ausblenden";
 "HIDE_EMERGENCY_BUTTON" = "Notruf-Taste ausblenden";
 "HIDE_BACKSPACE_BUTTON" = "Rück-Taste ausblenden";
-"HIDE_NUMBER_BUTTON_BACKGROUND" = "Hintergrund der Zahlentaste ausblenden";
+"HIDE_NUMBER_BUTTON_BACKGROUND" = "Hintergrund der Ziffern ausblenden";
 "USE_HAPTIC_FEEDBACK" = "Haptisches Feedback verwenden";
 "HIDE_ENTER_PASSCODE" = "Text 'Code eingeben' ausblenden";
 "USE_CUSTOM_PASSCODE_TEXT" = "Eigenen Passcode-Text verwenden";
@@ -80,11 +80,11 @@
 "HIDE_PROGRESS_VIEW" = "Fortschritts-Ansicht ausblenden";
 "HIDE_MEDIA_CONTROLS" = "Medien-Steuerelemente ausblenden";
 "HIDE_AUDIO_SOURCE_BUTTON" = "Audioquellen-Taste ausblenden";
-"HIDE_NOW_PLAYING_APP_ICON" = "Wird gerade gespielt App-Icon ausblenden";
+"HIDE_NOW_PLAYING_APP_ICON" = "Gerade gespielt App-Icon ausblenden";
 "OLDER_NOTIFICATIONS" = "Ältere Benachrichtigungen";
 "HIDE_NO_NOTIFICATIONS" = "Text ausblenden";
 "NOTIFICATION_CENTER_TEXT" = "Benachrichtigungszentrum-Text";
-"USE_NUMBER_OF_NOTIFICATIONS" = "Anzahl der Benachrichtigungen verwenden";
+"USE_NUMBER_OF_NOTIFICATIONS" = "Anzahl verwenden";
 "UNLOCK_ANIMATION" = "Entsperr-Animation";
 "DISABLE_ICON_ANIMATION" = "Fly-In Animation deaktivieren";
 "LOCKSCREEN" = "Sperr-Bildschirm";
