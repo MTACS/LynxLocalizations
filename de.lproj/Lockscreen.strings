@@ -21,26 +21,23 @@
 "GRABBER" = "Grabber";
 "CC_GRABBER" = "Kontrollzentrum-Grabber";
 "CC_GRABBER_SUBTITLE" = "Linie in der rechten Ecke ausblenden.";
-
-
-
-"CHARGING_VIEW" = "Charging View";
-"BATTERY_VIEW" = "Battery View";
-"BATTERY_SUBTITLE" = "Hide battery popup when charging";
-"STYLE" = "Style";
-"ALWAYS_DND" = "Always use DND dark style";
-"UNLOCK_TEXT" = "Unlock Text";
-"HIDE_SWIPE_PRESS" = "Hide 'Swipe Up' or 'Press To Unlock'";
-"USE_CUSTOM_TEXT" = "Use Custom Text";
+"CHARGING_VIEW" = "Ladeanzeige";
+"BATTERY_VIEW" = "Batterieansicht";
+"BATTERY_SUBTITLE" = "Batterie-Popup beim Laden ausblenden.";
+"STYLE" = "Stil";
+"ALWAYS_DND" = "Immer Nicht-stören Dunkel-Modus verwenden";
+"UNLOCK_TEXT" = "Entsperrtext";
+"HIDE_SWIPE_PRESS" = "'Nach oben wischen' oder 'Drücken zum Entsperren' ausblenden";
+"USE_CUSTOM_TEXT" = "Eigenen Text verwenden";
 "LYNX_PLACEHOLDER" = "Lynx 2";
-"SHOW_IMMEDIATELY" = "Show Immediately";
-"UNLOCK_SUBTITLE" = "Always display unlock text";
-"HIDING" = "Hiding";
-"HIDE_PAGE_DOTS" = "Hide Page Dots";
-"PAGE_DOT_SUBTITLE" = "Useful on non-notched devices";
-"DO_NOT_DISTURB" = "Do Not Disturb";
+"SHOW_IMMEDIATELY" = "Sofort anzeigen";
+"UNLOCK_SUBTITLE" = "Entsperrtext immer anzeigen";
+"HIDING" = "Ausblenden";
+"HIDE_PAGE_DOTS" = "Seitenpunkte ausblenden";
+"PAGE_DOT_SUBTITLE" = "Nützlich für nicht Geräte ohne Notch.";
+"DO_NOT_DISTURB" = "Nicht stören";
 "HIDE_BANNER" = "Banner";
-"HIDE_BANNER_SUBTITLE" = "Hides DND banner on Lockscreen";
+"HIDE_BANNER_SUBTITLE" = "Nicht-stören Banner auf Sperr-Bildschirm ausblenden.";
 "NOTIFICATION_LIST" = "Notification List";
 "PULL_TO_CLEAR" = "Pull To Clear";
 "USE_MODERN_ICONS" = "Use Modern Icons";
