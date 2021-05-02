@@ -34,9 +34,9 @@
 "SPOTLIGHT" = "Siri-Vorschläge";
 "SELECT_PINNED_APPS" = "Fixierte Apps auswählen";
 "FOLDERS" = "Ordner";
-"OPEN_FOLDER_BG" = "Hintergrund für geöffnete Ordner ausblenden";
-"OPEN_FOLDER_TITLE" = "Titel des geöffneten Ordners ausblenden";
-"OPEN_FOLDER_ICON_BG" = "Ordnersymbol-Hintergrund ausblenden";
+"OPEN_FOLDER_BG" = "Hintergrund der Ordner ausblenden";
+"OPEN_FOLDER_TITLE" = "Titel der Ordner ausblenden";
+"OPEN_FOLDER_ICON_BG" = "Ordner-Umrahndung ausblenden";
 "SEPARATORS" = "Trennlinien";
 "HIDE_SEPARATORS" = "Trennlinien ausblenden";
 "SEPARATOR_SUBTITLE" = "Horizontale Trennlinien ausblenden";
@@ -51,7 +51,7 @@
 "HIDE_COMPLETELY" = "Vollständig ausblenden";
 "SEARCH_SUBTITLE" = "Deaktiviert die Suchgeste und die Leiste";
 "HIDE_BACKGROUND" = "Hintergrund ausblenden";
-"SEARCH_BG_SUBTITLE" = "Entfernen des Hintergrundes für ein sauberes Aussehen";
+"SEARCH_BG_SUBTITLE" = "Entfernen des Hintergrundes.";
 "HOME_BAR" = "Home-Bar";
 "HIDE_EVERYWHERE" = "Überall ausblenden";
 "DISABLE_GLOBALLY" = "Komplett deaktivieren";
