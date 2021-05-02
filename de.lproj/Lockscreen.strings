@@ -70,7 +70,7 @@
 "HIDE_BUTTON_BACKGROUND" = "Tasten-Hintergrund ausblenden";
 "CAMERA" = "Kamera";
 "DISABLE_CAMERA_SWIPE" = "Kamera-Wischen deaktivieren";
-"FORCE_ENABLE_CAMERA" = "Kamera aktivieren erzwingen";
+"FORCE_ENABLE_CAMERA" = "Kamera-Ativieren erzwingen";
 "FORCE_ENABLE_CAMERA_SUBTITLE" = "Funktioniert am besten mit deaktivierte Wischgeste.";
 "MUSIC_PLAYER" = "Musik Player";
 "HIDE_ON_LOCKSCREEN" = "Auf Sperrbildschirm ausblenden";
