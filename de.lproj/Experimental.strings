@@ -1,7 +1,7 @@
 "STATUS_BAR" = "Statusleiste";
 "USE_NOTCHED_STYLE" = "Notch-Stil verwenden";
 "SAFARI_ADDRESS_BAR" = "Safari-Adressleiste";
-"SAFARI_ADDRESS_BAR_SUBTITLE" = "Entfernt den Hintergrund der URL-Leiste";
+"SAFARI_ADDRESS_BAR_SUBTITLE" = "Entfernt den Hintergrund der URL-Leiste.";
 "SCREEN" = "Bildschirm";
 "ROUND_SCREEN_CORNERS" = "Runde Bildschirm-Ecken";
 "ICON_SCALE" = "Icon Skalierung";
@@ -10,7 +10,7 @@
 "USE_CUSTOM_APP_LIBRARY_SCALE" = "Eigene App-Mediathek Skalierung";
 "CONTROL_CENTER" = "Kontrollzentrum";
 "STYLE" = "Stil";
-"CC_STYLE_SUBTITLE" = "Hintergrund an Kontrollzentrum anpassen";
+"CC_STYLE_SUBTITLE" = "Hintergrund an Kontrollzentrum anpassen.";
 "USE_OUTER_BACKGROUND_SHADOW" = "Äußeren Schatten verwenden";
 "HOMESCREEN" = "Home-Bildschirm";
 "HOMESCREEN_ICON_LAYOUT" = "Home-Bildschirm Icon-Layout";
