@@ -1,5 +1,5 @@
 "DIALER_BUTTONS" = "Ziffernblock-Tasten";
-"HIDE_NUMBER_BUTTON_BACKGROUND" = "Hintergrund der Zahlentaste ausblenden";
+"HIDE_NUMBER_BUTTON_BACKGROUND" = "Hintergrund der Ziffern ausblenden";
 "CALLS" = "Anrufe";
 "SHOW_EXACT_TIME" = "Genaue Zeit anzeigen";
 "HIDE_THIRD_PARTY_CALLS" = "Anrufe von Drittanbietern ausblenden";
