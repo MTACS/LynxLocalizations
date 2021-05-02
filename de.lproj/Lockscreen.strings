@@ -34,7 +34,7 @@
 "UNLOCK_SUBTITLE" = "Entsperrtext immer anzeigen.";
 "HIDING" = "Ausblenden";
 "HIDE_PAGE_DOTS" = "Seitenpunkte ausblenden";
-"PAGE_DOT_SUBTITLE" = "Nützlich für nicht Geräte ohne Notch.";
+"PAGE_DOT_SUBTITLE" = "Nützlich für Geräte ohne Notch.";
 "DO_NOT_DISTURB" = "Nicht stören";
 "HIDE_BANNER" = "Banner";
 "HIDE_BANNER_SUBTITLE" = "Nicht stören-Banner ausblenden.";
@@ -59,7 +59,7 @@
 "HIDE_BACKSPACE_BUTTON" = "Rück-Taste ausblenden";
 "HIDE_NUMBER_BUTTON_BACKGROUND" = "Hintergrund der Ziffern ausblenden";
 "USE_HAPTIC_FEEDBACK" = "Haptisches Feedback verwenden";
-"HIDE_ENTER_PASSCODE" = "Text 'Code eingeben' ausblenden";
+"HIDE_ENTER_PASSCODE" = "'Code eingeben' ausblenden";
 "USE_CUSTOM_PASSCODE_TEXT" = "Eigenen Passcode-Text verwenden";
 "ENTER_PASSCODE_PLACEHOLDER" = "Passcode-Text eingeben";
 "QUICK_ACTION_BUTTONS" = "Schnelle Aktionstasten";
@@ -76,10 +76,10 @@
 "HIDE_ON_LOCKSCREEN" = "Auf Sperrbildschirm ausblenden";
 "DEFAULT" = "Standard";
 "SIMPLE" = "Einfach";
-"HIDE_VOLUME_SLIDER" = "Lautstärke-Regler ausblenden";
-"HIDE_PROGRESS_VIEW" = "Fortschritts-Ansicht ausblenden";
-"HIDE_MEDIA_CONTROLS" = "Medien-Steuerelemente ausblenden";
-"HIDE_AUDIO_SOURCE_BUTTON" = "Audioquellen-Taste ausblenden";
+"HIDE_VOLUME_SLIDER" = "Lautstärkeregler ausblenden";
+"HIDE_PROGRESS_VIEW" = "Fortschrittsanzeige ausblenden";
+"HIDE_MEDIA_CONTROLS" = "Mediensteuerelemente ausblenden";
+"HIDE_AUDIO_SOURCE_BUTTON" = "Audioquellentaste ausblenden";
 "HIDE_NOW_PLAYING_APP_ICON" = "Gerade gespielt App-Icon ausblenden";
 "OLDER_NOTIFICATIONS" = "Ältere Benachrichtigungen";
 "HIDE_NO_NOTIFICATIONS" = "Text ausblenden";
