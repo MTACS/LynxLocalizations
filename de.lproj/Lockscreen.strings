@@ -37,19 +37,23 @@
 "PAGE_DOT_SUBTITLE" = "Nützlich für nicht Geräte ohne Notch.";
 "DO_NOT_DISTURB" = "Nicht stören";
 "HIDE_BANNER" = "Banner";
-"HIDE_BANNER_SUBTITLE" = "Nicht-stören Banner auf Sperr-Bildschirm ausblenden.";
-"NOTIFICATION_LIST" = "Notification List";
-"PULL_TO_CLEAR" = "Pull To Clear";
-"USE_MODERN_ICONS" = "Use Modern Icons";
-"ICON_SIZE_SUBTITLE" = "Increase icon size and add shadows";
-"HIDE_SWIPE_SEPARATORS" = "Hide Swipe Separators";
-"SWIPE_SEPARATORS_SUBTITLE" = "Hide vertical lines between buttons";
-"USE_SMOOTH_SWIPING" = "Use Smooth Swiping";
-"NOTIFICATIONS_LIST_WARNING" = "Positive values move notifications down, negative values move notifications up. Default is 0";
-"NOTIFICATIONS_AND_BANNERS" = "Notifications & Banners";
-"OUTER_SHADOW" = "Outer Shadow";
-"SHADOW_SUBTITLE" = "Adds border shadow to notification cells";
-"SHADOW_COLOR" = "Shadow Color";
+"HIDE_BANNER_SUBTITLE" = "Nicht stören-Banner auf Sperr-Bildschirm ausblenden.";
+"NOTIFICATION_LIST" = "Benachrichtigungsliste";
+"PULL_TO_CLEAR" = "Zum Löschen ziehen";
+"USE_MODERN_ICONS" = "Moderne Symbole verwenden";
+"ICON_SIZE_SUBTITLE" = "Erhöht die Symbolgröße und fügt Schatten hinzu.";
+"HIDE_SWIPE_SEPARATORS" = "Wisch-Trennlinien ausblenden";
+"SWIPE_SEPARATORS_SUBTITLE" = "Vertikale Linien zwischen den Schaltflächen ausblenden.";
+"USE_SMOOTH_SWIPING" = "Smooth Swiping verwenden";
+"NOTIFICATIONS_LIST_WARNING" = "Positive Werte verschieben Benachrichtigungen nach unten, negative Werte verschieben Benachrichtigungen nach oben. Standard ist 0.";
+"NOTIFICATIONS_AND_BANNERS" = "Benachrichtigungen & Banner";
+"OUTER_SHADOW" = "Äußerer Schatten";
+"SHADOW_SUBTITLE" = "Fügt Randschatten zu den Benachrichtungs-Banner hinzu.";
+"SHADOW_COLOR" = "Schattenfarbe";
+
+
+
+
 "FACE_ID" = "Face ID";
 "LOCK_ICON" = "Lock Icon";
 "LOCK_ICON_SUBTITLE" = "Hide padlock on Lockscreen";
