@@ -8,7 +8,7 @@
 "HIDING" = "Ausblenden";
 "HIDE_EVERYWHERE" = "Überall ausblenden";
 "HIDE_ON_HOMESCREEN" = "Auf Home-Bildschirm ausblenden";
-"HIDE_ON_LOCKSCREEN" = "Auf Sperr-Bildschirm ausblenden";
+"HIDE_ON_LOCKSCREEN" = "Auf Sperrbildschirm ausblenden";
 "BATTERY" = "Batterie";
 "HIDE_BATTERY" = "Batterie ausblenden";
 "HIDE_BATTERY_BOLT" = "Batterie-Blitz ausblenden";
@@ -16,8 +16,8 @@
 "SHOW_PERCENTAGE_INSIDE" = "Prozentanzeige im Inneren anzeigen";
 "DISABLE_CHARGING_ANIMATION" = "Ladeanimation deaktivieren";
 "STATUS_ITEMS" = "Statuselemente";
-"HIDE_WIFI_SIGNAL" = "WLAN Signal ausblenden";
-"HIDE_CELLULAR_SIGNAL" = "Mobilfunk-Signal ausblenden";
+"HIDE_WIFI_SIGNAL" = "WLAN Symbol ausblenden";
+"HIDE_CELLULAR_SIGNAL" = "Mobilfunk-Symbol ausblenden";
 "HIDE_CLOCK" = "Uhr ausblenden";
 "HIDE_CARRIER_TEXT" = "Netzbetreiber-Text ausblenden";
 "HIDE_LOCATION_ARROW" = "Ortungsdienste-Pfeil ausblenden";
@@ -29,7 +29,7 @@
 "HIDE_VPN" = "VPN ausblenden";
 "HIDE_CARPLAY" = "CarPlay ausblenden";
 "HIDE_NOT_CHARGING" = "'Nicht aufladen'-Symbol ausblenden";
-"LOCKSCREEN" = "Sperr-Bildschirm";
+"LOCKSCREEN" = "Sperrbildschirm";
 "HIDE_LOCK_ICON" = "Sperr-Symbol ausblenden";
 "HIDE_LOCK_SUBTITLE" = "Nur für Geräte ohne Notch.";
 "HOTSPOT_RECORDING" = "Hotspot & Aufnahme";
