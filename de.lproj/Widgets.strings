@@ -2,7 +2,7 @@
 "HIDE_SEARCH_BAR" = "Suchleiste ausblenden";
 "DISABLE_SWIPE_TO_SEARCH" = "Wischgesten-Suche deaktivieren";
 "ELEMENTS" = "Elemente";
-"HIDE_LABELS_ON_HOMESCREEN" = "Beschriftungen auf Homescreen ausblenden";
+"HIDE_LABELS_ON_HOMESCREEN" = "Beschriftungen ausblenden";
 "HIDE_SCROLL_DOTS" = "Bildlaufpunkte ausblenden";
 "HIDE_SCROLL_DOTS_SUBTITLE" = "Punkte rechts neben dem Widget ausblenden";
 "ADD_OUTER_SHADOW" = "Äußeren Schatten hinzufügen";
