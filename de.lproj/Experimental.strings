@@ -14,7 +14,7 @@
 "USE_OUTER_BACKGROUND_SHADOW" = "Äußeren Schatten verwenden";
 "HOMESCREEN" = "Home-Bildschirm";
 "HOMESCREEN_ICON_LAYOUT" = "Home-Bildschirm Icon-Layout";
-"HOMESCREEN_ICON_LAYOUT_SUBTITLE" = "Icons alphabetisch sortieren";
+"HOMESCREEN_ICON_LAYOUT_SUBTITLE" = "Icons alphabetisch sortieren.";
 "EXPERIMENTAL" = "Experimentell";
 "USE_FLUID_UI" = "Fluid-UI verwenden";
 "USE_FLUID_UI_SUBTITLE" = "Gesten im iPhone X-Stil";
