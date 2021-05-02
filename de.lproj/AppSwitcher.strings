@@ -13,7 +13,7 @@
 "SELECT_BLACKLISTED_APPS" = "Ausgeschlossene Apps auswählen";
 "NOW_PLAYING" = "Aktuelle Wiedergabe";
 "NOW_PLAYING_APPS" = "Apps mit aktueller Wiedergabe";
-"NOW_PLAYING_APPS_SUBTITLE" = "Verhindert das Schließen von Apps mit aktueller Wiedergabe";
+"NOW_PLAYING_APPS_SUBTITLE" = "Verhindert Schließen von Apps mit Wiedergabe.";
 "GESTURES" = "Gesten";
 "FORCE_TOUCH_GESTURE" = "3D-Touch Geste";
 "FORCE_TOUCH_GESTURE_SUBTITLE" = "Deaktiviert Geste (Geräte ohne Notch)";
