@@ -15,7 +15,7 @@
 "HOMESCREEN" = "Home-Bildschirm";
 "HOMESCREEN_ICON_LAYOUT" = "Home-Bildschirm Icon-Layout";
 "HOMESCREEN_ICON_LAYOUT_SUBTITLE" = "Icons alphabetisch sortieren";
-"EXPERIMENTAL" = "Experimental";
+"EXPERIMENTAL" = "Experimentell";
 "RESET_ICON_SCALE" = "Icon-Skalierung zurücksetzen";
 "ICON_SCALE_SUBTITLE" = "Icon-Skalierung reicht von -10 (0%) bis +10 (200%)";
 "FIT_CONTROL_CENTER" = "Hintergrund an Kontrollzentrum anpassen";
