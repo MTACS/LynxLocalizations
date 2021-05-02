@@ -18,7 +18,7 @@
 "ICON_LABELS" = "Icon Beschriftungen";
 "HIDE_LABELS" = "Beschriftungen ausblenden";
 "USE_CUSTOM_LABEL_COLOR" = "Eigene Farbe verwenden";
-"LABEL_COLOR" = "Beschriftungs-Farbe";
+"LABEL_COLOR" = "Beschriftungsfarbe";
 "USE_AVERAGE_TEXT_COLOR" = "Passende Textfarbe verwenden";
 "USE_AVERAGE_BACKGROUND_COLOR" = "Passende Hintergrundfarbe verwenden";
 "DOTS" = "Punkte";
