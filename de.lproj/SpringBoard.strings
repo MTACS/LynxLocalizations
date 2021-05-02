@@ -9,7 +9,7 @@
 "TINTS_TAB_BAR_BADGES" = "Färbt Registerkarten-Kennzeichen.";
 "BADGE_TINT" = "Kennzeichen-Farbton";
 "ALL_VIEWS" = "Alle Ansichten";
-"TINTS_ALL_ELGIBILE_VIEWS" = "Färbt alle berechtigten Ansichten";
+"TINTS_ALL_ELGIBILE_VIEWS" = "Färbt alle berechtigten Ansichten.";
 "VIEW_TINT" = "Ansichten-Farbton";
 "ALERT_BANNERS" = "Warnbanner (Einfügen & Geräte)";
 "HIDE_ALERT_BANNERS" = "Warnbanner ausblenden";
@@ -19,7 +19,7 @@
 "PLACE_FACE_DOWN_TO_LOCK" = "Auf Bildschirm legen zum Sperren";
 "DOCK" = "Dock";
 "BACKGROUND" = "Hintergrund";
-"HIDE_BLURRED_BACKGROUND" = "Unscharfen Hintergrund ausblenden";
+"HIDE_BLURRED_BACKGROUND" = "Unscharfen Hintergrund ausblenden.";
 "DIVIDER" = "Abgrenzung";
 "IPAD_DIVIDER" = "iPadOS-Dock Abgrenzung ausblenden.";
 "SPRINGBOARD" = "SpringBoard";
