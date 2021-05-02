@@ -2,7 +2,7 @@
 "DISABLE_APP_LIBRARY" = "App-Mediathek deaktivieren";
 "STYLE" = "Stil";
 "OPEN_LIST_MODE" = "Listenmodus";
-"LISTMODE_SUBTITLE" = "Apps immer als Liste öffnen";
+"LISTMODE_SUBTITLE" = "Apps immer als Liste öffnen.";
 "PODS" = "Ordner";
 "HIDE_BACKGROUND_BLUR" = "Unscharfen Hintergrund ausblenden";
 "HIDE_CATEGORY_NAME" = "Kategorienamen ausblenden";
