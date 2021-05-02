@@ -50,22 +50,24 @@
 "OUTER_SHADOW" = "Äußerer Schatten";
 "SHADOW_SUBTITLE" = "Fügt Randschatten zu den Benachrichtungs-Banner hinzu.";
 "SHADOW_COLOR" = "Schattenfarbe";
-
-
-
-
 "FACE_ID" = "Face ID";
-"LOCK_ICON" = "Lock Icon";
-"LOCK_ICON_SUBTITLE" = "Hide padlock on Lockscreen";
-"PASSCODE_AUTHORIZATION" = "Passcode & Authentication View";
-"HIDE_CANCEL_BUTTON" = "Hide Cancel Button";
-"HIDE_EMERGENCY_BUTTON" = "Hide Emergency Button";
-"HIDE_BACKSPACE_BUTTON" = "Hide Backspace Button";
-"HIDE_NUMBER_BUTTON_BACKGROUND" = "Hide Number Button Background";
-"USE_HAPTIC_FEEDBACK" = "Use Haptic Feedback";
-"HIDE_ENTER_PASSCODE" = "Hide Enter Passcode Text";
-"USE_CUSTOM_PASSCODE_TEXT" = "Use Custom Passcode Text";
-"ENTER_PASSCODE_PLACEHOLDER" = "Enter Passcode";
+"LOCK_ICON" = "Sperr-Icon";
+"LOCK_ICON_SUBTITLE" = "Versteckt das Schloss-Symbol auf dem Sperr-Bildschirm.";
+"PASSCODE_AUTHORIZATION" = "Code & Authentifizierung";
+"HIDE_CANCEL_BUTTON" = "Abbrechen-Taste ausblenden";
+"HIDE_EMERGENCY_BUTTON" = "Notruf-Taste ausblenden";
+"HIDE_BACKSPACE_BUTTON" = "Rück-Taste ausblenden";
+"HIDE_NUMBER_BUTTON_BACKGROUND" = "Hintergrund der Zahlentaste ausblenden";
+"USE_HAPTIC_FEEDBACK" = "Haptisches Feedback verwenden";
+"HIDE_ENTER_PASSCODE" = "Text 'Code eingeben' ausblenden";
+"USE_CUSTOM_PASSCODE_TEXT" = "Eigenen Passcode-Text verwenden";
+"ENTER_PASSCODE_PLACEHOLDER" = "Passcode-Text eingeben";
+
+
+
+
+
+
 "QUICK_ACTION_BUTTONS" = "Quick Action Buttons";
 "HIDE_BUTTON_IMAGES" = "Hide Button Images";
 "HIDE_BOTH" = "Hide Both";
