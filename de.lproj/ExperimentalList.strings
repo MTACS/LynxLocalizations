@@ -14,7 +14,7 @@
 "USE_OUTER_BACKGROUND_SHADOW" = "Äußeren Schatten verwenden";
 "HOMESCREEN" = "Home-Bildschirm";
 "HOMESCREEN_ICON_LAYOUT" = "Home-Bildschirm Icon-Layout";
-"HOMESCREEN_ICON_LAYOUT_SUBTITLE" = "Icons alphabetisch sortieren";
+"HOMESCREEN_ICON_LAYOUT_SUBTITLE" = "Icons alphabetisch sortieren.";
 "EXPERIMENTAL" = "Experimentell";
 "RESET_ICON_SCALE" = "Icon-Skalierung zurücksetzen";
 "ICON_SCALE_SUBTITLE" = "Icon-Skalierung reicht von -10 (0%) bis +10 (200%)";
