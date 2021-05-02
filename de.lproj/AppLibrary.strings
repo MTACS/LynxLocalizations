@@ -1,5 +1,5 @@
-"DISABLING" = "Disabling";
-"DISABLE_APP_LIBRARY" = "Disable App Library";
+"DISABLING" = "Deaktivierung";
+"DISABLE_APP_LIBRARY" = "App-Mediathek aktiveieren";
 "STYLE" = "Style";
 "OPEN_LIST_MODE" = "Open in List Mode";
 "LISTMODE_SUBTITLE" = "Always open to list of apps";
@@ -18,7 +18,3 @@
 "HAPTIC_CLOSE" = "Feedback on Close";
 "APP_LIBRARY" = "App Library";
 "SHOW_DELETE_LIST" = "Show Delete Icon";
-
-
-
-
