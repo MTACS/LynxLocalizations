@@ -14,10 +14,10 @@
 "SHOW_LOCAL_IP" = "Lokale IP anzeigen";
 "SHOW_BATTERY_PERCENTAGE" = "Batterie-Prozentanzeige anzeigen";
 "ADD_CLEAR_BADGES" = "'Kennzeichen löschen'-Option hinzufügen";
-"ADD_RENAME_OPTION" = "'App umbenennen'-Option hinzufügen";
+"ADD_RENAME_OPTION" = "'App umbenennen' hinzufügen";
 "ICON_LABELS" = "Icon Beschriftungen";
 "HIDE_LABELS" = "Beschriftungen ausblenden";
-"USE_CUSTOM_LABEL_COLOR" = "Eigene Beschriftungs-Farbe verwenden";
+"USE_CUSTOM_LABEL_COLOR" = "Eigene Farbe verwenden";
 "LABEL_COLOR" = "Beschriftungs-Farbe";
 "USE_AVERAGE_TEXT_COLOR" = "Passende Textfarbe verwenden";
 "USE_AVERAGE_BACKGROUND_COLOR" = "Passende Hintergrundfarbe verwenden";
