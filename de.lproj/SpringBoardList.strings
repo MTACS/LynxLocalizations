@@ -25,7 +25,7 @@
 "SPRINGBOARD" = "SpringBoard";
 "REMOVE_DOCK" = "Dock vom SpringBoard entfernen.";
 "HOMESCREEN" = "Home-Bildschirm";
-"DOUBLE_TAP_LOCK" = "Tippen zum sperren";
+"DOUBLE_TAP_LOCK" = "Tippe zum Sperren";
 "DOUBLE_TAP_LOCK_SUBTITLE" = "Auf leere Stelle tippen zum sperren.";
 "DISABLE_ROTATION" = "Drehung deaktivieren";
 "ROTATION_SUBTITLE" = "Empfohlen für (+)Geräte und iPads.";
