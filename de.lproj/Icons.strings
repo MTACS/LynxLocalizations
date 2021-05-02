@@ -13,7 +13,7 @@
 "FORCE_TOUCH_PLATTERS" = "3D-Touch Schaltflächen";
 "SHOW_LOCAL_IP" = "Lokale IP anzeigen";
 "SHOW_BATTERY_PERCENTAGE" = "Batterie-Prozentanzeige anzeigen";
-"ADD_CLEAR_BADGES" = "'Kennzeichen löschen'-Option hinzufügen";
+"ADD_CLEAR_BADGES" = "'Kennzeichen löschen' hinzufügen";
 "ADD_RENAME_OPTION" = "'App umbenennen' hinzufügen";
 "ICON_LABELS" = "Icon Beschriftungen";
 "HIDE_LABELS" = "Beschriftungen ausblenden";
