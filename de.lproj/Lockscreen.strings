@@ -27,7 +27,7 @@
 "STYLE" = "Stil";
 "ALWAYS_DND" = "Immer Nicht-stören Dunkel-Modus verwenden";
 "UNLOCK_TEXT" = "Entsperrtext";
-"HIDE_SWIPE_PRESS" = "'Nach oben wischen' oder 'Drücken zum Entsperren' ausblenden";
+"HIDE_SWIPE_PRESS" = "Entsperrtext ausblenden";
 "USE_CUSTOM_TEXT" = "Eigenen Text verwenden";
 "LYNX_PLACEHOLDER" = "Lynx 2";
 "SHOW_IMMEDIATELY" = "Sofort anzeigen";
@@ -48,11 +48,11 @@
 "NOTIFICATIONS_LIST_WARNING" = "Positive Werte verschieben Benachrichtigungen nach unten, negative Werte verschieben Benachrichtigungen nach oben. Standard ist 0.";
 "NOTIFICATIONS_AND_BANNERS" = "Benachrichtigungen & Banner";
 "OUTER_SHADOW" = "Äußerer Schatten";
-"SHADOW_SUBTITLE" = "Fügt Randschatten zu den Benachrichtungs-Banner hinzu.";
+"SHADOW_SUBTITLE" = "Fügt Randschatten hinzu.";
 "SHADOW_COLOR" = "Schattenfarbe";
 "FACE_ID" = "Face ID";
 "LOCK_ICON" = "Sperr-Icon";
-"LOCK_ICON_SUBTITLE" = "Versteckt das Schloss-Symbol auf dem Sperr-Bildschirm.";
+"LOCK_ICON_SUBTITLE" = "Versteckt das Schloss-Symbol.";
 "PASSCODE_AUTHORIZATION" = "Code & Authentifizierung";
 "HIDE_CANCEL_BUTTON" = "Abbrechen-Taste ausblenden";
 "HIDE_EMERGENCY_BUTTON" = "Notruf-Taste ausblenden";
@@ -82,11 +82,11 @@
 "HIDE_AUDIO_SOURCE_BUTTON" = "Audioquellen-Taste ausblenden";
 "HIDE_NOW_PLAYING_APP_ICON" = "Wird gerade gespielt App-Icon ausblenden";
 "OLDER_NOTIFICATIONS" = "Ältere Benachrichtigungen";
-"HIDE_NO_NOTIFICATIONS" = "'Keine älteren Benachrichtigungen' ausblenden";
+"HIDE_NO_NOTIFICATIONS" = "Text ausblenden";
 "NOTIFICATION_CENTER_TEXT" = "Benachrichtigungszentrum-Text";
 "USE_NUMBER_OF_NOTIFICATIONS" = "Anzahl der Benachrichtigungen verwenden";
 "UNLOCK_ANIMATION" = "Entsperr-Animation";
 "DISABLE_ICON_ANIMATION" = "Fly-In Animation deaktivieren";
 "LOCKSCREEN" = "Sperr-Bildschirm";
-"AUTO_EXPAND" = "AAutomatisch erweitern";
+"AUTO_EXPAND" = "Automatisch erweitern";
 "AUTO_EXPAND_SUBTITLE" = "Bannerinhalt immer anzeigen";
