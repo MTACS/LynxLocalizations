@@ -1,23 +1,20 @@
-"STYLE" = "Style";
-"USE_GRID_STYLE" = "Use Grid Style";
-"GRID_STYLE_SUBTITLE" = "Enables a 4x4 layout";
-"USE_PAGE_STYLE" = "Use Page Style";
-"APP_SUGGESTIONS" = "App Suggestions";
-"SUGGGESTION_BANNER" = "Suggestion Banner";
-"SUGGESTION_SUBTITLE" = "Hide bottom app suggestion";
-"APP_KILLING" = "App Killing";
-"PRESS_OR_SWIPE" = "Press or Swipe to kill";
-"PRESS_OR_SWIPE_SUBTITLE" = "Kills all running apps";
-"USE_CONFIRMATION" = "Use Confirmation";
-"USE_CONFIRMATION_SUBTITLE" = "Check before killing apps";
-"SELECT_BLACKLISTED_APPS" = "Select Blacklisted Apps";
-"NOW_PLAYING" = "Now Playing";
-"NOW_PLAYING_APPS" = "Now Playing Apps";
-"NOW_PLAYING_APPS_SUBTITLE" = "Prevent Killing of Playing Apps";
-"GESTURES" = "Gestures";
-"FORCE_TOUCH_GESTURE" = "3D Touch Gesture";
-"FORCE_TOUCH_GESTURE_SUBTITLE" = "Disables gesture (non-notched devices)";
+"STYLE" = "Stil";
+"USE_GRID_STYLE" = "Rastert-Stil verwenden";
+"GRID_STYLE_SUBTITLE" = "Aktiviert ein 4x4-Layout";
+"USE_PAGE_STYLE" = "Seiten-Stil verwenden";
+"APP_SUGGESTIONS" = "App-Vorschläge";
+"SUGGGESTION_BANNER" = "Vorschlagsbanner";
+"SUGGESTION_SUBTITLE" = "Vorschlag für App ausblenden";
+"APP_KILLING" = "App Schließen";
+"PRESS_OR_SWIPE" = "Drücke oder Wische zum Schließen";
+"PRESS_OR_SWIPE_SUBTITLE" = "Schließt alle laufenden Apps";
+"USE_CONFIRMATION" = "Nur mit Bestätigung";
+"USE_CONFIRMATION_SUBTITLE" = "Nachfragen, ob Apps beenden werden sollen";
+"SELECT_BLACKLISTED_APPS" = "Ausgeschlossene Apps auswählen";
+"NOW_PLAYING" = "Aktuelle Wiedergabe";
+"NOW_PLAYING_APPS" = "Apps mit aktueller Wiedergabe";
+"NOW_PLAYING_APPS_SUBTITLE" = "Verhindert das Schließen von Apps mit aktueller Wiedergabe";
+"GESTURES" = "Gesten";
+"FORCE_TOUCH_GESTURE" = "3D-Touch Geste";
+"FORCE_TOUCH_GESTURE_SUBTITLE" = "Deaktiviert Geste (Geräte ohne Notch)";
 "APP_SWITCHER" = "App Switcher";
-
-
-
