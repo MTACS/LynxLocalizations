@@ -26,9 +26,9 @@
 "REMOVE_DOCK" = "Dock vom SpringBoard entfernen.";
 "HOMESCREEN" = "Home-Bildschirm";
 "DOUBLE_TAP_LOCK" = "Tippe zum Sperren";
-"DOUBLE_TAP_LOCK_SUBTITLE" = "Auf leere Stelle tippen zum sperren.";
+"DOUBLE_TAP_LOCK_SUBTITLE" = "Auf leere Stelle tippen zum Sperren.";
 "DISABLE_ROTATION" = "Drehung deaktivieren";
-"ROTATION_SUBTITLE" = "Empfohlen für (+)-Geräte und iPads.";
+"ROTATION_SUBTITLE" = "Empfohlen für Plus-Geräte und iPads.";
 "HIDE_DONE" = "'Fertig'-Taste ausblenden";
 "HIDE_WIDGET" = "'Widget hinzufügen'-Taste ausblenden";
 "SPOTLIGHT" = "Siri-Vorschläge";
@@ -83,3 +83,5 @@
 "DRAG_DROP" = "Drag & Drop";
 "ENABLE_EVERYWHERE" = "Überall aktivieren";
 "SYSTEM_WIDE" = "System";
+"PLAYBACK_SUBTITLE" = "Playback überall aktivieren.";
+"KNOB_TINT" = "Knopf-Farbe";
