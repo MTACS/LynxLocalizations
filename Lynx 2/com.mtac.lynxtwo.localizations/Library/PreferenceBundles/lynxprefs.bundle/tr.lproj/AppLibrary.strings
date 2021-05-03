@@ -17,8 +17,4 @@
 "HAPTIC_OPEN" = "Açılışta Titret";
 "HAPTIC_CLOSE" = "Kapanışta Titret";
 "APP_LIBRARY" = "Uygulama Arşivi";
-
-
-
-
-
+"SHOW_DELETE_LIST" = "Silme Simgesini Göster";
