@@ -88,8 +88,5 @@
 "UNLOCK_ANIMATION" = "Açılış Animasyonu";
 "DISABLE_ICON_ANIMATION" = "Uçuş Animasyonunu Kapat";
 "LOCKSCREEN" = "Kilit Ekranı";
-
-
-
-
-
+"AUTO_EXPAND" = "Otomatik Genişlet";
+"AUTO_EXPAND_SUBTITLE" = "Her zaman Başlık içeriğini göster";
