@@ -1,5 +1,5 @@
 # LynxLocalizations
-Repository containing all Lynx 1 &amp; 2 localizations
+Repository containing all Lynx 2 localizations
 
 # Adding your language
 
