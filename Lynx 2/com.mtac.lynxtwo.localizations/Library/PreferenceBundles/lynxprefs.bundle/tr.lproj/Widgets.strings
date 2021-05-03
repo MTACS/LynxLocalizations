@@ -14,7 +14,5 @@
 "HIDE_SEPARATOR_LINES" = "Ayırıcı Çizgileri Gizle (4x4)";
 "SIRI_WIDGET" = "Siri Araç Takımı";
 "WIDGETS" = "Araç Takımları";
-
-
-
-
+"DISABLE_WIDGETS_LOCKSCREEN" = "Kilit Ekranında Devre Dışı Bırak";
+"DISABLE_WIDGETS_HOMESCREEN" = "Ana Ekranda Devre Dışı Bırak";
