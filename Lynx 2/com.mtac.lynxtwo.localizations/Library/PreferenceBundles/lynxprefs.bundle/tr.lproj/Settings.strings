@@ -15,4 +15,5 @@
 "WIFI_SECTION" = "WiFi Bölümü";
 "WIFI_SECTION_SUBTITLE" = "Mevcut IP Adresini Göster";
 "SETTINGS" = "Ayarlar";
-
+"ETHERNET_SECTION" = "Ethernet Bölümü";
+"ETHERNET_SECTION_SUBTITLE" = "Ethernet Bölümünü Göster";
