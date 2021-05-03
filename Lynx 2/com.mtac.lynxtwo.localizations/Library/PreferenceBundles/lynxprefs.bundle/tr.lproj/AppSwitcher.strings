@@ -18,6 +18,5 @@
 "FORCE_TOUCH_GESTURE" = "3D Dokunuş";
 "FORCE_TOUCH_GESTURE_SUBTITLE" = "Hareketleri Kapat (Çentiksiz Cihazlar)";
 "APP_SWITCHER" = "Uygulama Değiştirici";
-
-
-
+"HIDE_CARD_ICONS" = "Uygulama Simgesini Gizle";
+"HIDE_CARD_LABELS" = "Uygulama Etiketini Gizle";
