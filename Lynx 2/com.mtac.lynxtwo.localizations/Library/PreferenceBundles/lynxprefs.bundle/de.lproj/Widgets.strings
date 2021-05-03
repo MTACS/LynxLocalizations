@@ -14,3 +14,5 @@
 "HIDE_SEPARATOR_LINES" = "Trennlinien ausblenden (4x4)";
 "SIRI_WIDGET" = "Siri-Widget";
 "WIDGETS" = "Widgets";
+"DISABLE_WIDGETS_LOCKSCREEN" = "Auf Sperrbilschirm deaktivieren";
+"DISABLE_WIDGETS_HOMESCREEN" = "Auf Home-Bildschirm deaktivieren";
