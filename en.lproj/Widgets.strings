@@ -14,7 +14,8 @@
 "HIDE_SEPARATOR_LINES" = "Hide Separator Lines (4x4)";
 "SIRI_WIDGET" = "Siri Widget";
 "WIDGETS" = "Widgets";
-
+"DISABLE_WIDGETS_LOCKSCREEN" = "Disable on Lockscreen";
+"DISABLE_WIDGETS_HOMESCREEN" = "Disable on Homescreen";
 
 
 
