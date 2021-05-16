@@ -1,0 +1,18 @@
+"APPLE_ID" = "ID de Apple";
+"USE_CUSTOM_FIRST_NAME" = "Usar nombre personalizado";
+"FIRST_NAME" = "Nombre";
+"USE_CUSTOM_LAST_NAME" = "Usar apellido personalizado";
+"LAST_NAME" = "Apellido";
+"ICONS" = "Íconos";
+"HIDE_CELL_ICONS" = "Esconder íconos de celdas";
+"USE_ROUND_CELL_ICONS" = "Usar íconos circulares";
+"CHEVRONS" = "Flechas";
+"HIDE_DISCLOSURE_ARROW" = "Esconder flecha de cierre";
+"SECTIONS" = "Secciones";
+"HIDE_THIRD_PARTY" = "Esconder apps de terceros";
+"HIDE_EXPOSURE_NOTIFICATIONS" = "Esconder notificaciones de exposición";
+"NETWORK" = "Red";
+"WIFI_SECTION" = "Sección WiFi";
+"WIFI_SECTION_SUBTITLE" = "Mostrar la IP del momento";
+"SETTINGS" = "Ajustes";
+
