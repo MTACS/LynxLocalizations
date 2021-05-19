@@ -16,7 +16,8 @@
 "CHEVRON" = "Chevron";
 "HIDE_CHEVRON" = "Hide Chevron";
 "CONTROL_CENTER" = "Control Center";
-
+"TOGGLE_HINTS" = "Toggle Hints";
+"HIDE_TOGGLE_HINTS" = "Hide Toggle Hints";
 
 
 
