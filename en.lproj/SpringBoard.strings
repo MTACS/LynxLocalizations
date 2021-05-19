@@ -83,6 +83,20 @@
 "DRAG_DROP" = "Drag & Drop";
 "ENABLE_EVERYWHERE" = "Enable Everywhere";
 "SYSTEM_WIDE" = "System Wide";
-
+"DISABLE_SPOTLIGHT_SEARCH" = "Disable Spotlight Search";
+"SPOTLIGHT_SEARCH_SUBTITLE" = "Disables the Swipe Down Search Gesture on Homescreen";
+"HIDE_EVERYWHERE" = "Homescreen and Apps";
+"DISABLE_GLOBALLY" = "Disable on Homescreen and Apps";
+"HIDE_ON_LOCKSCREEN" = "Lockscreen";
+"DISABLE_LS_ONLY" = "Disable on Lockscreen";
+"KNOB_TINT" = "Thumb Tint";
+"PLAYBACK" = "Playback";
+"PLAYBACK_SUBTITLE" = "Continue Safari content in background";
+"HIDE_IN_CC" = "Control Center";
+"DISABLE_CC_ONLY" = "Disable in Control Center";
+"USE_FLOATING_DOCK" = "Floating Dock";
+"USE_FLOATING_DOCK_SUBTITLE" = "Use Floating Dock";
+"DISABLE_FLOATING_DOCK_GESTURE_IN_APPS" = "Disable Floating Dock Gesture In Apps";
+"DISABLE_FLOATING_DOCK_GESTURE_IN_APPS_SUBTITLE" = "Floating Dock Gesture";
 
 
