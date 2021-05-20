@@ -16,7 +16,8 @@
 "CHEVRON" = "Ok İşareti";
 "HIDE_CHEVRON" = "Ok İşaretini Gizle";
 "CONTROL_CENTER" = "Kontrol Merkezi";
-
+"TOGGLE_HINTS" = "İPUÇLARINI DEĞİŞTİR";
+"HIDE_TOGGLE_HINTS" = "Geçiş İpuçlarını Gizle";
 
 
 
