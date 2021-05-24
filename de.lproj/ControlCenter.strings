@@ -16,3 +16,5 @@
 "CHEVRON" = "Richtungspfeil";
 "HIDE_CHEVRON" = "Richtungspfeil ausblenden";
 "CONTROL_CENTER" = "Kontrollzentrum";
+"TOGGLE_HINTS" = "Tasten-Hinweise";
+"HIDE_TOGGLE_HINTS" = "Tasten-Hinweise ausblenden";
