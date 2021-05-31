@@ -49,6 +49,9 @@
 "USE_CUSTOM_TIME_FORMAT" = "Use Custom Time Format";
 "CUSTOM_TIME_FORMAT_PLACEHOLDER" = "h:mm a";
 "STATUS_BAR" = "Status Bar";
+"COLORS" = "Status Bar Color";
+"USE_STBAR_COLOR" = "Use Custom Color";
+"TINT" = "Tint";
 
 
 
