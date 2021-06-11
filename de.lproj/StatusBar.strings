@@ -49,3 +49,6 @@
 "USE_CUSTOM_TIME_FORMAT" = "Eigenes Zeitformat verwenden";
 "CUSTOM_TIME_FORMAT_PLACEHOLDER" = "h:mm";
 "STATUS_BAR" = "Statusleiste";
+"COLORS" = "Farbe der Statusleiste";
+"USE_STBAR_COLOR" = "Eigene Farbe verwenden";
+"TINT" = "Farbton";
