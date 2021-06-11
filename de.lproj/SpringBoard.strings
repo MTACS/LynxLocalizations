@@ -100,3 +100,5 @@
 "USE_FLOATING_DOCK_SUBTITLE" = "Floating Dock verwenden";
 "DISABLE_FLOATING_DOCK_GESTURE_IN_APPS" = "Floating Dock-Geste in Apps deaktivieren";
 "DISABLE_FLOATING_DOCK_GESTURE_IN_APPS_SUBTITLE" = "Floating Dock-Geste";
+"DISABLE_EDITING" = "Bearbeitung deaktivieren";
+"DISABLE_EDITING_SUBTITLE" = "Deaktiviert die Bearbeitung der Icon-Anordnung";
