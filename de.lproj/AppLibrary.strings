@@ -18,3 +18,4 @@
 "HAPTIC_CLOSE" = "Feedback beim Schließen";
 "APP_LIBRARY" = "App-Mediathek";
 "SHOW_DELETE_LIST" = "Lösch-Symbol anzeigen";
+"DISABLE_PULL_SEARCH" = "Zum Suchen ziehen deaktivieren";
