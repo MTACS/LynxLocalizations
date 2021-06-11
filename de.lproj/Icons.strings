@@ -42,3 +42,11 @@
 "HIDING" = "App ausblenden";
 "SELECT_HIDDEN_APPS" = "Versteckte Apps auswählen";
 "APPLY" = "Bestätigen";
+"CLOCK_ICON" = "Uhr-Icon";
+"DISABLE_CLOCK_ANIMATION" = "Uhr-Animation deaktivieren";
+"CHOOSE_CUSTOM_FONT" = "Eigene Schriftart wählen";
+"USE_CUSTOM_LABEL_FONT" = "Eigene Schrift verwenden";
+"HIDE_LABELS_HS" = "Beschriftungen ausblenden HS";
+"HIDE_LABELS_AL" = "Beschriftungen ausblenden AL";
+"HIDE_LABELS_FL" = "Beschriftungen ausblenden FL";
+"ICON_LABELS_HIDING" = "Icon-Beschriftungen ausblenden";
