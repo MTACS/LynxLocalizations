@@ -16,3 +16,5 @@
 "CUSTOM_DOCK_ICONS_SUBTITLE" = "Standard: 4";
 "APPLY" = "Bestätigen";
 "HOMESCREEN" = "Home-Bildschirm";
+"HS_LAYOUT" = "HS-Layout";
+"HS_LAYOUT_SUBTITLE" = "Aktiviert das HS-Layout";
