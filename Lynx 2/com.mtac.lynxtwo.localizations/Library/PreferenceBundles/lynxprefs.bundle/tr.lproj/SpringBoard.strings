@@ -83,6 +83,18 @@
 "DRAG_DROP" = "Sürükle & Bırak";
 "ENABLE_EVERYWHERE" = "Her Yerde Aç";
 "SYSTEM_WIDE" = "Sistem Geneli";
-
-
-
+"DISABLE_SPOTLIGHT_SEARCH" = "Spotlight Aramasını Devre Dışı Bırak";
+"SPOTLIGHT_SEARCH_SUBTITLE" = "Ana Ekranda Aşağı Kaydırma Arama Hareketini Devre Dışı Bırakır";
+"HIDE_EVERYWHERE" = "Ana Ekran ve Uygulamalar";
+"DISABLE_GLOBALLY" = "Ana Ekranda ve Uygulamalarda Devre Dışı Bırak";
+"HIDE_ON_LOCKSCREEN" = "Kilit Ekranı";
+"DISABLE_LS_ONLY" = "Kilit Ekranında devre dışı bırak";
+"KNOB_TINT" = "Başparmak Tonu";
+"PLAYBACK" = "Playback";
+"PLAYBACK_SUBTITLE" = "Safari içeriğine arka planda devam edin";
+"HIDE_IN_CC" = "Kontrol Merkezi";
+"DISABLE_CC_ONLY" = "Kontrol Merkezinde Devre Dışı Bırak";
+"USE_FLOATING_DOCK" = "Floating Dock";
+"USE_FLOATING_DOCK_SUBTITLE" = " Floating Dock Kullan";
+"DISABLE_FLOATING_DOCK_GESTURE_IN_APPS" = "Uygulamalarda Floating Dock Hareketini Devre dışı Bırak";
+"DISABLE_FLOATING_DOCK_GESTURE_IN_APPS_SUBTITLE" = "Floating Dock Hareketi";
