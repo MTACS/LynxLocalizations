@@ -18,3 +18,4 @@
 "HAPTIC_CLOSE" = "Kapanışta Titret";
 "APP_LIBRARY" = "Uygulama Arşivi";
 "SHOW_DELETE_LIST" = "Silme Simgesini Göster";
+"DISABLE_PULL_SEARCH" = "Aramak için Aşağı Çekmeyi devre dışı bırak";
