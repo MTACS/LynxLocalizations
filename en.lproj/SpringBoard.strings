@@ -98,5 +98,7 @@
 "USE_FLOATING_DOCK_SUBTITLE" = "Use Floating Dock";
 "DISABLE_FLOATING_DOCK_GESTURE_IN_APPS" = "Disable Floating Dock Gesture In Apps";
 "DISABLE_FLOATING_DOCK_GESTURE_IN_APPS_SUBTITLE" = "Floating Dock Gesture";
-
+"SPRINGBOARD_ALERTS" = "SpringBoard Alerts";
+"AIRPLANE_MODE" = "Airplane Mode";
+"AIRPLANE_MODE_SUBTITLE" = "Disable Airplane mode enabled alert";
 
