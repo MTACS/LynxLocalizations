@@ -29,6 +29,8 @@
 "DOUBLE_TAP_LOCK_SUBTITLE" = "Tap on empty space to lock";
 "DISABLE_ROTATION" = "Disable Rotation";
 "ROTATION_SUBTITLE" = "Recommended on (+) devices and iPads";
+"DISABLE_SPOTLIGHT_SEARCH" = "Disable Spotlight Search";
+"SPOTLIGHT_SEARCH_SUBTITLE" = "Disables the Swipe Down Search Gesture on Homescreen";
 "HIDE_DONE" = "Hide 'Done' Button";
 "HIDE_WIDGET" = "Hide 'Add Widget' Button";
 "SPOTLIGHT" = "Spotlight";
@@ -53,8 +55,8 @@
 "HIDE_BACKGROUND" = "Hide Background";
 "SEARCH_BG_SUBTITLE" = "Remove background for a clean look";
 "HOME_BAR" = "Home Bar";
-"HIDE_EVERYWHERE" = "Hide Everywhere";
-"DISABLE_GLOBALLY" = "Disable globally";
+"HIDE_EVERYWHERE" = "Hide on Homescreen and Apps";
+"DISABLE_GLOBALLY" = "Disable on Homescreen and Apps only";
 "HIDE_ON_LOCKSCREEN" = "Hide on Lockscreen";
 "DISABLE_LS_ONLY" = "Disable on Lockscreen only";
 "USE_CUSTOM_HEIGHT" = "Use Custom Height";
@@ -83,6 +85,3 @@
 "DRAG_DROP" = "Drag & Drop";
 "ENABLE_EVERYWHERE" = "Enable Everywhere";
 "SYSTEM_WIDE" = "System Wide";
-
-
-
