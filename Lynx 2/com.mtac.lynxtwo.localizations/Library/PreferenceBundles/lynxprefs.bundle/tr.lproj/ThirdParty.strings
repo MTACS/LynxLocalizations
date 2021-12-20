@@ -9,3 +9,7 @@
 "CONFIRM_RETWEET" = "Retweeti Onayla";
 "HIDE_FLEETS" = "Fleets'i Gizle";
 "THIRD_PARTY_APPS" = "Diğer Uygulamalar";
+"HIDE_CREATE_AVATAR" = "'Avatar Oluştur' düğmesini gizle";
+"HIDE_ONLINE_STATUS" = "'Çevrimiçi Durum' düğmesini gizle";
+"ALWAYS_OPEN_COMMUNITIES" = "Her zaman tüm toplulukları göster";
+"HIDE_GO" = "Go+ Düğmelerini Gizle";
