@@ -52,3 +52,7 @@
 "COLORS" = "Farbe der Statusleiste";
 "USE_STBAR_COLOR" = "Eigene Farbe verwenden";
 "TINT" = "Farbton";
+"USE_DATE_UNDER_TIME" = "Datum unter Uhrzeit anzeigen";
+"AUDIO_DEVICES" = "Audiogeräte";
+"SHOW_AUDIO_DEVICE" = "Audiogeräte anzeigen";
+"SHOW_AUDIO_DEVICE_SUBTITLE" = "Icon für verbundenes Gerät in Statusleiste hinzufügen";
