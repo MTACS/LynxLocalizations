@@ -90,3 +90,6 @@
 "LOCKSCREEN" = "Kilit Ekranı";
 "AUTO_EXPAND" = "Otomatik Genişlet";
 "AUTO_EXPAND_SUBTITLE" = "Her zaman Başlık içeriğini göster";
+"WALLPAPER" = "Duvar Kağıdı";
+"BLUR_WALLPAPER" = "Arka Plan Bulanıklığı Ekle";
+"BLUR_WALLPAPER_SUBTITLE" = "LS Duvar Kağıdına özelleştirilebilir bulanıklık ekler";
