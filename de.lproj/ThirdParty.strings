@@ -9,7 +9,7 @@
 "CONFIRM_RETWEET" = "Retweet bestätigen";
 "HIDE_FLEETS" = "Fleets verstecken";
 "THIRD_PARTY_APPS" = "Apps von Drittanbietern";
-"HIDE_CREATE_AVATAR" = "Avatar erstellen ausblenden";
-"HIDE_ONLINE_STATUS" = "Online-Status ausblenden";
+"HIDE_CREATE_AVATAR" = "'Avatar erstellen' ausblenden";
+"HIDE_ONLINE_STATUS" = "'Online-Status' ausblenden";
 "ALWAYS_OPEN_COMMUNITIES" = "Alle Communities anzeigen";
 "HIDE_GO" = "Go+ ausblenden";
