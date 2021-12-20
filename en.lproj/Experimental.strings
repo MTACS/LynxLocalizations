@@ -4,10 +4,6 @@
 "SAFARI_ADDRESS_BAR_SUBTITLE" = "Removes URL bar background";
 "SCREEN" = "Screen";
 "ROUND_SCREEN_CORNERS" = "Round Screen Corners";
-"ICON_SCALE" = "Icon Scale";
-"USE_CUSTOM_HOMESCREEN_SCALE" = "Use Custom Homescreen Scale";
-"USE_CUSTOM_DOCK_SCALE" = "Use Custom Dock Scale";
-"USE_CUSTOM_APP_LIBRARY_SCALE" = "Use Custom AppLibrary Scale";
 "CONTROL_CENTER" = "Control Center";
 "STYLE" = "Style";
 "CC_STYLE_SUBTITLE" = "Fit Background to Control Center";
@@ -16,5 +12,9 @@
 "HOMESCREEN_ICON_LAYOUT" = "Homescreen Icon Layout";
 "HOMESCREEN_ICON_LAYOUT_SUBTITLE" = "Sorts icons alphabetically";
 "EXPERIMENTAL" = "Experimental";
+"FLUID_UI" = "Fluid UI";
 "USE_FLUID_UI" = "Use Fluid UI";
 "USE_FLUID_UI_SUBTITLE" = "iPhone X style gestures";
+"HOMESCREEN_ICONS" = "Homescreen Icons";
+"ADD_LOCK_OPTION" = "Add 'Lock/Unlock' Option";
+"ADD_LOCK_OPTION_SUBTITLE" = "Only protects Homescreen, does not support App Switcher &amp; other ways of launching apps";
