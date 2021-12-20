@@ -29,6 +29,8 @@
 "DOUBLE_TAP_LOCK_SUBTITLE" = "Tap on empty space to lock";
 "DISABLE_ROTATION" = "Disable Rotation";
 "ROTATION_SUBTITLE" = "Recommended on (+) devices and iPads";
+"DISABLE_SPOTLIGHT_SEARCH" = "Disable Spotlight Search";
+"SPOTLIGHT_SEARCH_SUBTITLE" = "Disables the Swipe Down Search Gesture on Homescreen";
 "HIDE_DONE" = "Hide 'Done' Button";
 "HIDE_WIDGET" = "Hide 'Add Widget' Button";
 "SPOTLIGHT" = "Spotlight";
@@ -53,10 +55,10 @@
 "HIDE_BACKGROUND" = "Hide Background";
 "SEARCH_BG_SUBTITLE" = "Remove background for a clean look";
 "HOME_BAR" = "Home Bar";
-"HIDE_EVERYWHERE" = "Hide Everywhere";
-"DISABLE_GLOBALLY" = "Disable globally";
-"HIDE_ON_LOCKSCREEN" = "Hide on Lockscreen";
-"DISABLE_LS_ONLY" = "Disable on Lockscreen only";
+"HIDE_EVERYWHERE" = "Homescreen and Apps";
+"DISABLE_GLOBALLY" = "Disable on Homescreen and Apps";
+"HIDE_ON_LOCKSCREEN" = "Lockscreen";
+"DISABLE_LS_ONLY" = "Disable on Lockscreen";
 "USE_CUSTOM_HEIGHT" = "Use Custom Height";
 "USE_CUSTOM_WIDTH" = "Use Custom Width";
 "NAVIGATION_BARS" = "Navigation Bars";
@@ -83,12 +85,6 @@
 "DRAG_DROP" = "Drag & Drop";
 "ENABLE_EVERYWHERE" = "Enable Everywhere";
 "SYSTEM_WIDE" = "System Wide";
-"DISABLE_SPOTLIGHT_SEARCH" = "Disable Spotlight Search";
-"SPOTLIGHT_SEARCH_SUBTITLE" = "Disables the Swipe Down Search Gesture on Homescreen";
-"HIDE_EVERYWHERE" = "Homescreen and Apps";
-"DISABLE_GLOBALLY" = "Disable on Homescreen and Apps";
-"HIDE_ON_LOCKSCREEN" = "Lockscreen";
-"DISABLE_LS_ONLY" = "Disable on Lockscreen";
 "KNOB_TINT" = "Thumb Tint";
 "PLAYBACK" = "Playback";
 "PLAYBACK_SUBTITLE" = "Continue Safari content in background";
@@ -98,7 +94,16 @@
 "USE_FLOATING_DOCK_SUBTITLE" = "Use Floating Dock";
 "DISABLE_FLOATING_DOCK_GESTURE_IN_APPS" = "Disable Floating Dock Gesture In Apps";
 "DISABLE_FLOATING_DOCK_GESTURE_IN_APPS_SUBTITLE" = "Floating Dock Gesture";
+"DISABLE_EDITING" = "Disable Icon Editing";
+"DISABLE_EDITING_SUBTITLE" = "Disables moving & deleting";
+"VOLUME" = "Volume";
+"USE_CUSTOM_STEPS" = "Use Custom Steps";
+"USE_CUSTOM_STEPS_SUBTITLE" = "Default = 16";
+"TURN_OFF_AUTOMATICALLY" = "Use Flashlight Timeout";
+"TURN_OFF_AUTOMATICALLY_SUBTITLE" = "Turns off flashlight after set time";
 "SPRINGBOARD_ALERTS" = "SpringBoard Alerts";
 "AIRPLANE_MODE" = "Airplane Mode";
 "AIRPLANE_MODE_SUBTITLE" = "Disable Airplane mode enabled alert";
-
+"WALLPAPER" = "Wallpaper";
+"BLUR_WALLPAPER" = "Add Background Blur";
+"BLUR_WALLPAPER_SUBTITLE" = "Adds customizable blur to HS wallpaper";
