@@ -71,7 +71,7 @@
 "CAMERA" = "Kamera";
 "DISABLE_CAMERA_SWIPE" = "Kamera-Wischen deaktivieren";
 "FORCE_ENABLE_CAMERA" = "Kamera-Ativieren erzwingen";
-"FORCE_ENABLE_CAMERA_SUBTITLE" = "Funktioniert am besten mit deaktivierte Wischgeste.";
+"FORCE_ENABLE_CAMERA_SUBTITLE" = "Funktioniert gut mit deaktivierter Wischgeste.";
 "MUSIC_PLAYER" = "Musik Player";
 "HIDE_ON_LOCKSCREEN" = "Auf Sperrbildschirm ausblenden";
 "DEFAULT" = "Standard";
@@ -92,6 +92,7 @@
 "AUTO_EXPAND_SUBTITLE" = "Bannerinhalt immer anzeigen";
 "WALLPAPER" = "Wallpaper";
 "BLUR_WALLPAPER" = "Hintergrund-Unschärfe hinzufügen";
-"BLUR_WALLPAPER_SUBTITLE" = "Fügt dem Sperrbildschirm-Hintergrundbild anpassbare Unschärfe hinzu";
+"BLUR_WALLPAPER_SUBTITLE" = "Fügt dem Sperrbildschirm-Hintergrundbild Unschärfe hinzu";
+"BLUR_STYLE" = "Unschärfenstil";
 "OFFSET" = "Versatz";
 "DISTANCE" = "Distanz";
