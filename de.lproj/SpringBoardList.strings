@@ -29,6 +29,8 @@
 "DOUBLE_TAP_LOCK_SUBTITLE" = "Auf leere Stelle tippen zum Sperren.";
 "DISABLE_ROTATION" = "Drehung deaktivieren";
 "ROTATION_SUBTITLE" = "Empfohlen für Plus-Geräte und iPads.";
+"DISABLE_SPOTLIGHT_SEARCH" = "Spotlight-Suche deaktivieren";
+"SPOTLIGHT_SEARCH_SUBTITLE" = "Nach-unten-Wisch-Suchgeste auf dem Home-Bildschirm deaktivieren";
 "HIDE_DONE" = "'Fertig'-Taste ausblenden";
 "HIDE_WIDGET" = "'Widget hinzufügen'-Taste ausblenden";
 "SPOTLIGHT" = "Siri-Vorschläge";
@@ -53,8 +55,8 @@
 "HIDE_BACKGROUND" = "Hintergrund ausblenden";
 "SEARCH_BG_SUBTITLE" = "Entfernen des Hintergrundes.";
 "HOME_BAR" = "Home-Bar";
-"HIDE_EVERYWHERE" = "Überall ausblenden";
-"DISABLE_GLOBALLY" = "Komplett deaktivieren.";
+"HIDE_EVERYWHERE" = "Home-Bildschirm und Apps";
+"DISABLE_GLOBALLY" = "Auf Home-Bildschirm und Apps deaktivieren";
 "HIDE_ON_LOCKSCREEN" = "Auf Sperrbildschirm ausblenden";
 "DISABLE_LS_ONLY" = "Nur auf dem Sperrbildschirm deaktivieren.";
 "USE_CUSTOM_HEIGHT" = "Eigene Höhe verwenden";
