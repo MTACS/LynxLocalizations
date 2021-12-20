@@ -90,3 +90,6 @@
 "LOCKSCREEN" = "Sperrbildschirm";
 "AUTO_EXPAND" = "Automatisch erweitern";
 "AUTO_EXPAND_SUBTITLE" = "Bannerinhalt immer anzeigen";
+"WALLPAPER" = "Wallpaper";
+"BLUR_WALLPAPER" = "Hintergrund-Unschärfe hinzufügen";
+"BLUR_WALLPAPER_SUBTITLE" = "Fügt dem Sperrbildschirm-Hintergrundbild anpassbare Unschärfe hinzu";
