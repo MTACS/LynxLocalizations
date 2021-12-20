@@ -18,6 +18,6 @@
 "FORCE_TOUCH_GESTURE" = "3D Touch Gesture";
 "FORCE_TOUCH_GESTURE_SUBTITLE" = "Disables gesture (non-notched devices)";
 "APP_SWITCHER" = "App Switcher";
-
-
-
+"APP_CARDS" = "App Cards";
+"HIDE_CARD_ICONS" = "Hide Card Icons";
+"HIDE_CARD_LABELS" = "Hide Card Labels";
