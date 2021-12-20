@@ -16,8 +16,5 @@
 "CUSTOM_DOCK_ICONS_SUBTITLE" = "Default: 4";
 "APPLY" = "Apply";
 "HOMESCREEN" = "Homescreen";
-
-
-
-
-
+"HS_LAYOUT" = "Use Custom Layout";
+"HS_LAYOUT_SUBTITLE" = "Set Rows & Columns";
