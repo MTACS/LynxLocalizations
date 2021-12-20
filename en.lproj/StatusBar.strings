@@ -52,7 +52,7 @@
 "COLORS" = "Status Bar Color";
 "USE_STBAR_COLOR" = "Use Custom Color";
 "TINT" = "Tint";
-
-
-
-
+"USE_DATE_UNDER_TIME" = "Show Date Under Time";
+"AUDIO_DEVICES" = "Audio Devices";
+"SHOW_AUDIO_DEVICE" = "Show Audio Device";
+"SHOW_AUDIO_DEVICE_SUBTITLE" = "Add connected device icon in Status Bar";
