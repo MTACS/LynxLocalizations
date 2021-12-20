@@ -101,11 +101,11 @@
 "VOLUME" = "Lautstärke";
 "USE_CUSTOM_STEPS" = "Eigene Schritte verwenden";
 "USE_CUSTOM_STEPS_SUBTITLE" = "Standard = 16";
-"TURN_OFF_AUTOMATICALLY" = "Zeitüberschreitung der Taschenlampe";
-"TURN_OFF_AUTOMATICALLY_SUBTITLE" = "Schaltet die Taschenlampe nach der eingestellten Zeit aus";
+"TURN_OFF_AUTOMATICALLY" = "Zeit der Taschenlampe";
+"TURN_OFF_AUTOMATICALLY_SUBTITLE" = "Schaltet Taschenlampe nach x Zeit aus.";
 "SPRINGBOARD_ALERTS" = "SpringBoard-Warnungen";
 "AIRPLANE_MODE" = "Flugmodus";
 "AIRPLANE_MODE_SUBTITLE" = "Warnung bei aktiviertem Flugmodus deaktivieren";
 "WALLPAPER" = "Wallpaper";
 "BLUR_WALLPAPER" = "Hintergrund-Unschärfe hinzufügen";
-"BLUR_WALLPAPER_SUBTITLE" = "Fügt dem Hintergrundbild anpassbare Unschärfe hinzu";
+"BLUR_WALLPAPER_SUBTITLE" = "Fügt dem Hintergrundbild Unschärfe hinzu";
