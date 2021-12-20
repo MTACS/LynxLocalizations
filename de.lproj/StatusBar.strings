@@ -42,7 +42,7 @@
 "NO_SIM_TEXT" = "'Keine SIM'-Text überschreiben";
 "NO_SERVICE_TEXT" = "'Kein Dienst'-Text überschreiben";
 "ENTER_CUSTOM_CARRIER_TEXT" = "Eigenen Netzbetreiber-Text eingeben";
-"USE_DATE_AS_CARRIER" = "Datum statt Netzbetreiber verwenden";
+"USE_DATE_AS_CARRIER" = "Datum statt Netzbetreiber";
 "CARRIER_DATE_PLACEHOLDER" = "dd-MM-yyyy";
 "VIEW_MORE_DATE_FORMATS" = "Weitere Datumsformate anzeigen";
 "CLOCK" = "Uhr";
@@ -56,3 +56,4 @@
 "AUDIO_DEVICES" = "Audiogeräte";
 "SHOW_AUDIO_DEVICE" = "Audiogeräte anzeigen";
 "SHOW_AUDIO_DEVICE_SUBTITLE" = "Icon für verbundenes Gerät in Statusleiste hinzufügen";
+"SHOW_PERCENTAGE_INSIDE" = "Prozent innen anzeigen";
