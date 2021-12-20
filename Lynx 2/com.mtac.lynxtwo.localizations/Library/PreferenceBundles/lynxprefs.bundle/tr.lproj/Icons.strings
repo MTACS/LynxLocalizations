@@ -20,7 +20,7 @@
 "USE_CUSTOM_LABEL_COLOR" = "Özel Etiket Rengini Kullan";
 "LABEL_COLOR" = "Etiket Rengi";
 "USE_AVERAGE_TEXT_COLOR" = "Ortalama Metin Rengini Kullan";
-"USE_AVERAGE_BACKGROUND_COLOR" = "Ortalama Arka Plan Rengini Kullan";
+"USE_AVERAGE_BACKGROUND_COLOR" = "Ortalama Görünüm Rengini Kullan";
 "DOTS" = "Noktalar";
 "HIDE_UPDATE_DOTS" = "Güncelleme Noktasını Gizle";
 "HIDE_BETA_DOTS" = "Beta Noktasını Gizle";
@@ -41,3 +41,18 @@
 "HIDING" = "Uygulama Gizleme";
 "SELECT_HIDDEN_APPS" = "Gizli Uygulamaları Seçin";
 "APPLY" = "Uygula";
+"CHOOSE_CUSTOM_FONT" = "Özel Yazı Tipi Seçin";
+"USE_CUSTOM_LABEL_FONT" = "Özel Etiket Yazı Tipi Kullan";
+"ICON_LABELS" = "Simge Etiketleri";
+"ICON_LABELS_HIDING" = "Simge Etiketi Gizleme";
+"HIDE_LABELS_HS" = "Ana Ekran Etiketleri";
+"HIDE_LABELS_AL" = "Uygulama Arşivi Etiketleri";
+"HIDE_LABELS_FL" = "Klasör Etiketleri";
+"CLOCK_ICON" = "Saat Simgesi";
+"DISABLE_CLOCK_ANIMATION" = "Saat Animasyonunu Devre Dışı Bırak";
+"ICON_SCALE" = "Simge Ölçeği";
+"USE_CUSTOM_HOMESCREEN_SCALE" = "Özel Ana Ekran Ölçeğini Kullan";
+"USE_CUSTOM_DOCK_SCALE" = "Özel Dock Ölçeğini Kullan";
+"USE_CUSTOM_APP_LIBRARY_SCALE" = "Özel Uygulama Arşivi Ölçeğini Kullan";
+"EDITING" = "Düzenleme";
+"DISABLE_ICON_JITTER" = "Simge titremesini devre dışı bırak";
