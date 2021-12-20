@@ -30,7 +30,7 @@
 "DISABLE_ROTATION" = "Drehung deaktivieren";
 "ROTATION_SUBTITLE" = "Empfohlen für Plus-Geräte und iPads.";
 "DISABLE_SPOTLIGHT_SEARCH" = "Spotlight-Suche deaktivieren";
-"SPOTLIGHT_SEARCH_SUBTITLE" = "Nach-unten-Wisch-Suchgeste auf dem Home-Bildschirm deaktivieren";
+"SPOTLIGHT_SEARCH_SUBTITLE" = "Nach-unten-Wisch-Suchgeste deaktivieren";
 "HIDE_DONE" = "'Fertig'-Taste ausblenden";
 "HIDE_WIDGET" = "'Widget hinzufügen'-Taste ausblenden";
 "SPOTLIGHT" = "Siri-Vorschläge";
@@ -94,8 +94,8 @@
 "DISABLE_CC_ONLY" = "Im Control Center deaktivieren";
 "USE_FLOATING_DOCK" = "Floating Dock";
 "USE_FLOATING_DOCK_SUBTITLE" = "Floating Dock verwenden";
-"DISABLE_FLOATING_DOCK_GESTURE_IN_APPS" = "Floating Dock-Geste in Apps deaktivieren";
-"DISABLE_FLOATING_DOCK_GESTURE_IN_APPS_SUBTITLE" = "Floating Dock-Geste";
+"DISABLE_FLOATING_DOCK_GESTURE_IN_APPS" = "Floating Dock-Geste deaktivieren";
+"DISABLE_FLOATING_DOCK_GESTURE_IN_APPS_SUBTITLE" = "Floating Dock-Geste in Apps deaktivieren";
 "RECENT_ICONS" = "Aktuelle Icons";
 "DISABLE_EDITING" = "Bearbeitung deaktivieren";
 "DISABLE_EDITING_SUBTITLE" = "Deaktiviert die Bearbeitung der Icon-Anordnung";
