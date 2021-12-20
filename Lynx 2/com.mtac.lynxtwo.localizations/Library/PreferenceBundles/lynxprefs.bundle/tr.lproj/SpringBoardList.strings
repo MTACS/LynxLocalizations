@@ -29,6 +29,8 @@
 "DOUBLE_TAP_LOCK_SUBTITLE" = "Kilitlemek İçin Boş Alana Tıkla";
 "DISABLE_ROTATION" = "Döndürmeyi Kapat";
 "ROTATION_SUBTITLE" = "Plus Cihazlar ve iPad'ler için önerilir";
+"DISABLE_SPOTLIGHT_SEARCH" = "Spotlight Aramayı Devre Dışı Bırak";
+"SPOTLIGHT_SEARCH_SUBTITLE" = "Ana Ekranda Aşağı Kaydırma Arama Hareketini Devre Dışı Bırakır";
 "HIDE_DONE" = "Bitti Düğmesini Gizle";
 "HIDE_WIDGET" = "Widget Ekle Düğmesini Gizle";
 "SPOTLIGHT" = "Spotlight";
@@ -53,6 +55,8 @@
 "HIDE_BACKGROUND" = "Arka Planı Gizle";
 "SEARCH_BG_SUBTITLE" = "Temiz bir görünüm için arka planı kaldırın";
 "HOME_BAR" = "Ana Ekran Çubuğu";
+"HIDE_EVERYWHERE" = "Ana Ekranda ve Uygulamalarda Gizle";
+"DISABLE_GLOBALLY" = "Yalnızca Ana Ekranda ve Uygulamalarda devre dışı bırak";
 "HIDE_EVERYWHERE" = "Tamamen Gizle";
 "DISABLE_GLOBALLY" = "Genel olarak devre dışı bırakın";
 "HIDE_ON_LOCKSCREEN" = "Kilit Ekranında Gizle";
@@ -83,6 +87,3 @@
 "DRAG_DROP" = "Sürükle & Bırak";
 "ENABLE_EVERYWHERE" = "Her Yerde Aç";
 "SYSTEM_WIDE" = "Sistem Geneli";
-
-
-
