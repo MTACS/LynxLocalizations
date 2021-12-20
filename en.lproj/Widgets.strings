@@ -16,6 +16,4 @@
 "WIDGETS" = "Widgets";
 "DISABLE_WIDGETS_LOCKSCREEN" = "Disable on Lockscreen";
 "DISABLE_WIDGETS_HOMESCREEN" = "Disable on Homescreen";
-
-
-
+"HIDE_EDIT_BUTTON" = "Hide Edit Button";
