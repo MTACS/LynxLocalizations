@@ -1,5 +1,6 @@
 "SYSTEM_WIDE" = "System";
 "LOCKSCREEN" = "Sperrbildschirm";
+"APP_LIBRARY" = "App-Mediathek";
 "STATUS_BAR" = "Statusleiste";
 "WIDGETS" = "Widgets";
 "ICONS" = "Icons";
