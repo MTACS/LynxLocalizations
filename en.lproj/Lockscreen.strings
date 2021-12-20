@@ -90,7 +90,6 @@
 "LOCKSCREEN" = "Lockscreen";
 "AUTO_EXPAND" = "Auto Expand";
 "AUTO_EXPAND_SUBTITLE" = "Always show Banner content";
-
-
-
-
+"WALLPAPER" = "Wallpaper";
+"BLUR_WALLPAPER" = "Add Background Blur";
+"BLUR_WALLPAPER_SUBTITLE" = "Adds customizable blur to LS Wallpaper";
