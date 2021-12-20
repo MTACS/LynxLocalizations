@@ -16,3 +16,4 @@
 "WIDGETS" = "Araç Takımları";
 "DISABLE_WIDGETS_LOCKSCREEN" = "Kilit Ekranında Devre Dışı Bırak";
 "DISABLE_WIDGETS_HOMESCREEN" = "Ana Ekranda Devre Dışı Bırak";
+"HIDE_EDIT_BUTTON" = "Düzenleme Düğmesini Gizle";
