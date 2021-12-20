@@ -19,3 +19,6 @@
 "APP_LIBRARY" = "App-Mediathek";
 "SHOW_DELETE_LIST" = "Lösch-Symbol anzeigen";
 "DISABLE_PULL_SEARCH" = "Zum Suchen ziehen deaktivieren";
+"ACTIVATION" = "Aktivierung";
+"REPLACE_SPOTLIGHT" = "Suchleiste ersetzen";
+"REVERSE_POD_ORDER" = "Ordner-Reihenfolge umkehren";
