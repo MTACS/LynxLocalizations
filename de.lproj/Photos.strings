@@ -3,3 +3,6 @@
 "USE_INFINITE_ZOOM" = "Unendlichen Zoom verwenden";
 "SHOW_IMAGE_METADATA" = "Bildmetadaten anzeigen";
 "SHOW_IMAGE_METADATA_SUBTITLE" = "Größe, Datum und Abmessungen anzeigen.";
+"PHOTO_PREVIEW" = "Fotovorschau";
+"APPLICATION" = "Applikation";
+"LOCK_HIDDEN_ALBUM" = "Verstecktes Album sperren";
