@@ -16,8 +16,5 @@
 "CUSTOM_DOCK_ICONS_SUBTITLE" = "Orijinal: 4";
 "APPLY" = "Uygula";
 "HOMESCREEN" = "Ana Ekran";
-
-
-
-
-
+"HS_LAYOUT" = "Özel Düzeni Kullan";
+"HS_LAYOUT_SUBTITLE" = "Satırları ve Sütunları Ayarla";
