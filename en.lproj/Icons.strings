@@ -20,7 +20,7 @@
 "USE_CUSTOM_LABEL_COLOR" = "Use Custom Label Color";
 "LABEL_COLOR" = "Label Color";
 "USE_AVERAGE_TEXT_COLOR" = "Use Average Text Color";
-"USE_AVERAGE_BACKGROUND_COLOR" = "Use Average Background Color";
+"USE_AVERAGE_BACKGROUND_COLOR" = "Use Average View Color";
 "DOTS" = "Dots";
 "HIDE_UPDATE_DOTS" = "Hide Update Dots";
 "HIDE_BETA_DOTS" = "Hide Beta Dots";
@@ -42,7 +42,18 @@
 "HIDING" = "App Hiding";
 "SELECT_HIDDEN_APPS" = "Select Hidden Apps";
 "APPLY" = "Apply";
-
-
-
-
+"CHOOSE_CUSTOM_FONT" = "Choose Custom Font";
+"USE_CUSTOM_LABEL_FONT" = "Use Custom Label Font";
+"ICON_LABELS" = "Icon Labels";
+"ICON_LABELS_HIDING" = "Icon Label Hiding";
+"HIDE_LABELS_HS" = "Homescreen Labels";
+"HIDE_LABELS_AL" = "App Library Labels";
+"HIDE_LABELS_FL" = "Folder Labels";
+"CLOCK_ICON" = "Clock Icon";
+"DISABLE_CLOCK_ANIMATION" = "Disable Clock Animation";
+"ICON_SCALE" = "Icon Scale";
+"USE_CUSTOM_HOMESCREEN_SCALE" = "Use Custom Homescreen Scale";
+"USE_CUSTOM_DOCK_SCALE" = "Use Custom Dock Scale";
+"USE_CUSTOM_APP_LIBRARY_SCALE" = "Use Custom AppLibrary Scale";
+"EDITING" = "Editing";
+"DISABLE_ICON_JITTER" = "Disable icon jittering";
