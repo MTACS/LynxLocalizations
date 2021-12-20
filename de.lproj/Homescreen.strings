@@ -6,11 +6,15 @@
 "CUSTOM_HOMESCREEN_ROWS" = "Eigene Home-Bildschirm Zeilenanzahl";
 "CUSTOM_HOMESCREEN_COLUMNS" = "Eigene Home-Bildschirm Spaltenanzahl";
 "CUSTOM_HOMESCREEN_COLUMNS_SUBTITLE" = "Standard: 4";
+"HOMESCREEN_ROWS" = "Home-Bildschirm-Zeilenanzahl";
+"HOMESCREEN_COLUMNS" = "Home-Bildschirm-Spaltenanzahl";
 "FOLDERS" = "Ordner";
 "CUSTOM_FOLDER_ROWS" = "Eigene Ordner-Zeilenanzahl";
 "CUSTOM_FOLDER_ROWS_SUBTITLE" = "Standard: 3";
 "CUSTOM_FOLDER_COLUMNS" = "Eigene Ordner-Spaltenanzahl";
 "CUSTOM_FOLDER_COLUMNS_SUBTITLE" = "Standard: 3";
+"FOLDER_ROWS" = "Ordner-Zeilenanzahl";
+"FOLDER_COLUMNS" = "Ordner-Spaltenanzahl";
 "DOCK" = "Dock";
 "CUSTOM_DOCK_ICONS" = "Eigene Dock-Iconanzahl";
 "CUSTOM_DOCK_ICONS_SUBTITLE" = "Standard: 4";
