@@ -18,3 +18,6 @@
 "EXPERIMENTAL" = "Daha Fazla";
 "USE_FLUID_UI" = "Fluid kullanıcı arayüzünü kullan";
 "USE_FLUID_UI_SUBTITLE" = "iPhone X tarzı hareketler";
+"HOMESCREEN_ICONS" = "Ana Ekran Simgeleri";
+"ADD_LOCK_OPTION" = "'Kilitle/Kilidi Aç' Seçeneği Ekle";
+"ADD_LOCK_OPTION_SUBTITLE" = "Yalnızca Ana Ekranı korur, Uygulama Değiştiriciyi ve uygulamaları başlatmanın diğer yollarını desteklemez";
