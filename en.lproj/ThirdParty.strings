@@ -9,3 +9,7 @@
 "CONFIRM_RETWEET" = "Confirm Retweet";
 "HIDE_FLEETS" = "Hide Fleets";
 "THIRD_PARTY_APPS" = "Third Party Apps";
+"HIDE_CREATE_AVATAR" = "Hide 'Create Avatar' button";
+"HIDE_ONLINE_STATUS" = "Hide 'Online Status' button";
+"ALWAYS_OPEN_COMMUNITIES" = "Always show all communities";
+"HIDE_GO" = "Hide Go+ Buttons";
