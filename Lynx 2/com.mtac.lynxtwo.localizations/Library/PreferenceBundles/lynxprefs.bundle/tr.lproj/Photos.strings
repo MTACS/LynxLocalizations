@@ -3,6 +3,6 @@
 "USE_INFINITE_ZOOM" = "Sonsuz Yakınlaştırma Kullan";
 "SHOW_IMAGE_METADATA" = "Görüntü Verilerini Göster";
 "SHOW_IMAGE_METADATA_SUBTITLE" = "Boyut, tarih ve boyutları gösterin";
-
-
-
+"PHOTO_PREVIEW" = "Fotoğraf Önizleme";
+"APPLICATION" = "Uygulama";
+"LOCK_HIDDEN_ALBUM" = "Gizli Albümü Kilitle";
