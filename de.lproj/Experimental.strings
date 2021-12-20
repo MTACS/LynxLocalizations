@@ -4,10 +4,6 @@
 "SAFARI_ADDRESS_BAR_SUBTITLE" = "Entfernt den Hintergrund der URL-Leiste.";
 "SCREEN" = "Bildschirm";
 "ROUND_SCREEN_CORNERS" = "Runde Bildschirm-Ecken";
-"ICON_SCALE" = "Icon Skalierung";
-"USE_CUSTOM_HOMESCREEN_SCALE" = "Eigene Home-Bildschirm Skalierung";
-"USE_CUSTOM_DOCK_SCALE" = "Eigene Dock-Skalierung";
-"USE_CUSTOM_APP_LIBRARY_SCALE" = "Eigene App-Mediathek Skalierung";
 "CONTROL_CENTER" = "Kontrollzentrum";
 "STYLE" = "Stil";
 "CC_STYLE_SUBTITLE" = "Hintergrund an Kontrollzentrum anpassen.";
@@ -16,6 +12,9 @@
 "HOMESCREEN_ICON_LAYOUT" = "Home-Bildschirm Icon-Layout";
 "HOMESCREEN_ICON_LAYOUT_SUBTITLE" = "Icons alphabetisch sortieren.";
 "EXPERIMENTAL" = "Experimentell";
+"FLUID_UI" = "Fluid UI";
 "USE_FLUID_UI" = "Fluid-UI verwenden";
 "USE_FLUID_UI_SUBTITLE" = "Gesten im iPhone X-Stil";
-"FLUID_UI" = "Fluid-UI";
+"HOMESCREEN_ICONS" = "Home-Bildschirm Icons";
+"ADD_LOCK_OPTION" = "Option 'Sperren/Entsperren' hinzufügen";
+"ADD_LOCK_OPTION_SUBTITLE" = "Schützt nur den Home-Bildschirm, unterstützt keinen App Switcher und andere Möglichkeiten zum Starten von Apps";
