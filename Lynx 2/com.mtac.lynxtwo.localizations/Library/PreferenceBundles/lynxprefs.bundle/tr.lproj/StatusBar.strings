@@ -52,6 +52,7 @@
 "COLORS" = "Durum Çubuğu Rengi";
 "USE_STBAR_COLOR" = "Özel Renk Kullan";
 "TINT" = "Renk Tonu";
-
-
-
+"USE_DATE_UNDER_TIME" = "Zaman Altında Tarihi Göster";
+"AUDIO_DEVICES" = "Ses Cihazları";
+"SHOW_AUDIO_DEVICE" = "Ses Aygıtını Göster";
+"SHOW_AUDIO_DEVICE_SUBTITLE" = "Durum Çubuğuna bağlı cihaz simgesi ekle";
