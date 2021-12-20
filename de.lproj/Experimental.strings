@@ -18,3 +18,4 @@
 "HOMESCREEN_ICONS" = "Home-Bildschirm Icons";
 "ADD_LOCK_OPTION" = "Option 'Sperren/Entsperren' hinzufügen";
 "ADD_LOCK_OPTION_SUBTITLE" = "Schützt nur den Home-Bildschirm, unterstützt keinen App Switcher und andere Möglichkeiten zum Starten von Apps";
+"SORT_REQUIRES_ICONSUPPORT" = "Sortierung erfordert IconSupport";
