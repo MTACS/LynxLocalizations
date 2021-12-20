@@ -29,6 +29,8 @@
 "DOUBLE_TAP_LOCK_SUBTITLE" = "Kilitlemek İçin Boş Alana Tıkla";
 "DISABLE_ROTATION" = "Döndürmeyi Kapat";
 "ROTATION_SUBTITLE" = "Plus Cihazlar ve iPad'ler için önerilir";
+"DISABLE_SPOTLIGHT_SEARCH" = "Spotlight Aramayı Devre Dışı Bırak";
+"SPOTLIGHT_SEARCH_SUBTITLE" = "Ana Ekranda Aşağı Kaydırma Arama Hareketini Devre Dışı Bırakır";
 "HIDE_DONE" = "Bitti Düğmesini Gizle";
 "HIDE_WIDGET" = "Widget Ekle Düğmesini Gizle";
 "SPOTLIGHT" = "Spotlight";
@@ -83,12 +85,6 @@
 "DRAG_DROP" = "Sürükle & Bırak";
 "ENABLE_EVERYWHERE" = "Her Yerde Aç";
 "SYSTEM_WIDE" = "Sistem Geneli";
-"DISABLE_SPOTLIGHT_SEARCH" = "Spotlight Aramasını Devre Dışı Bırak";
-"SPOTLIGHT_SEARCH_SUBTITLE" = "Ana Ekranda Aşağı Kaydırma Arama Hareketini Devre Dışı Bırakır";
-"HIDE_EVERYWHERE" = "Ana Ekran ve Uygulamalar";
-"DISABLE_GLOBALLY" = "Ana Ekranda ve Uygulamalarda Devre Dışı Bırak";
-"HIDE_ON_LOCKSCREEN" = "Kilit Ekranı";
-"DISABLE_LS_ONLY" = "Kilit Ekranında devre dışı bırak";
 "KNOB_TINT" = "Başparmak Tonu";
 "PLAYBACK" = "Playback";
 "PLAYBACK_SUBTITLE" = "Safari içeriğine arka planda devam edin";
@@ -98,3 +94,16 @@
 "USE_FLOATING_DOCK_SUBTITLE" = " Floating Dock Kullan";
 "DISABLE_FLOATING_DOCK_GESTURE_IN_APPS" = "Uygulamalarda Floating Dock Hareketini Devre dışı Bırak";
 "DISABLE_FLOATING_DOCK_GESTURE_IN_APPS_SUBTITLE" = "Floating Dock Hareketi";
+"DISABLE_EDITING" = "Simge Düzenlemeyi Devre Dışı Bırak";
+"DISABLE_EDITING_SUBTITLE" = "Taşımayı ve silmeyi devre dışı bırakır";
+"VOLUME" = "Ses";
+"USE_CUSTOM_STEPS" = "Özel Adımları Kullan";
+"USE_CUSTOM_STEPS_SUBTITLE" = "Varsayılan = 16";
+"TURN_OFF_AUTOMATICALLY" = "El Feneri Zaman Aşımını Kullan";
+"TURN_OFF_AUTOMATICALLY_SUBTITLE" = "Ayarlanan süreden sonra el fenerini kapatır";
+"SPRINGBOARD_ALERTS" = "SpringBoard Uyarıları";
+"AIRPLANE_MODE" = "Uçak modu";
+"AIRPLANE_MODE_SUBTITLE" = "Uçak modu etkin uyarısını devre dışı bırak";
+"WALLPAPER" = "Duvar Kağıdı";
+"BLUR_WALLPAPER" = "Arka Plan Bulanıklığı Ekle";
+"BLUR_WALLPAPER_SUBTITLE" = "HS duvar kağıdına özelleştirilebilir bulanıklık ekler";
