@@ -92,7 +92,7 @@
 "AUTO_EXPAND_SUBTITLE" = "Bannerinhalt immer anzeigen";
 "WALLPAPER" = "Wallpaper";
 "BLUR_WALLPAPER" = "Hintergrund-Unschärfe hinzufügen";
-"BLUR_WALLPAPER_SUBTITLE" = "Fügt dem Sperrbildschirm-Hintergrundbild Unschärfe hinzu";
+"BLUR_WALLPAPER_SUBTITLE" = "Fügt dem SB-Hintergrundbild Unschärfe hinzu";
 "BLUR_STYLE" = "Unschärfenstil";
 "OFFSET" = "Versatz";
 "DISTANCE" = "Distanz";
