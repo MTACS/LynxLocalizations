@@ -19,7 +19,6 @@
 "APP_LIBRARY" = "App Library";
 "SHOW_DELETE_LIST" = "Show Delete Icon";
 "DISABLE_PULL_SEARCH" = "Disable Pull to Search";
-
-
-
-
+"ACTIVATION" = "Activation";
+"REPLACE_SPOTLIGHT" = "Replace Spotlight";
+"REVERSE_POD_ORDER" = "Reverse Pod Order";
