@@ -26,7 +26,7 @@
 "REMOVE_DOCK" = "Supprimer le Dock du SpringBoard";
 "HOMESCREEN" = "Écran d'Accueil";
 "DOUBLE_TAP_LOCK" = "Toucher Double pour Verrouiller";
-"DOUBLE_TAP_LOCK_SUBTITLE" = "Toucher sur un espace vider pour verrouiller";
+"DOUBLE_TAP_LOCK_SUBTITLE" = "Toucher un espace vide pour verrouiller";
 "DISABLE_ROTATION" = "Désactiver la Rotation";
 "ROTATION_SUBTITLE" = "Recommandé pour les versions '+' des iPhone et les iPads";
 "DISABLE_SPOTLIGHT_SEARCH" = "Désactiver Spotlight";
