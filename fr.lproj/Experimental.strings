@@ -7,7 +7,7 @@
 "CONTROL_CENTER" = "Centre de Contrôle";
 "STYLE" = "Supprimer l'Effet Flouté";
 "CC_STYLE_SUBTITLE" = "Supprime l'effet flouté du CC";
-"USE_OUTER_BACKGROUND_SHADOW" = "Utiliser une Ombrage Extétieure";
+"USE_OUTER_BACKGROUND_SHADOW" = "Ajouter un Ombrage Extérieur";
 "HOMESCREEN" = "Écran d'Accueil";
 "HOMESCREEN_ICON_LAYOUT" = "Disposition des Icônes";
 "HOMESCREEN_ICON_LAYOUT_SUBTITLE" = "Trier les icônes par ordre alphabétique";
