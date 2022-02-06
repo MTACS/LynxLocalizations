@@ -1,10 +1,10 @@
-"UP_NEXT_POPUP" = "'Up Next' Popup";
-"HIDE_QUEUE_POPUP" = "Hide Queue Popup";
-"RECENTLY_ADDED" = "Recently Added";
-"SHOW_ALL_SONGS" = "Show All Songs";
-"MUSIC_LIBRARY_LAYOUT" = "Music Library Layout";
-"THREE_COLUMNS" = "Use 3 Column Layout";
-"MUSIC" = "Music";
+"UP_NEXT_POPUP" = "Fenêtre 'File d'attente'";
+"HIDE_QUEUE_POPUP" = "Masquer la Fenêtre";
+"RECENTLY_ADDED" = "Ajouts Récents";
+"SHOW_ALL_SONGS" = "Afficher Tous les Titres";
+"MUSIC_LIBRARY_LAYOUT" = "Disposition de la Bibl. Musicale";
+"THREE_COLUMNS" = "Disposition sur 3 Colonnes";
+"MUSIC" = "Musique";
 
 
 
