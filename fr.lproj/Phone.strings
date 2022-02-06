@@ -1,14 +1,14 @@
-"DIALER_BUTTONS" = "Dialer Buttons";
-"HIDE_NUMBER_BUTTON_BACKGROUND" = "Hide Number Button Background";
-"CALLS" = "Calls";
-"SHOW_EXACT_TIME" = "Show Exact Time";
-"HIDE_THIRD_PARTY_CALLS" = "Hide Third Party Calls";
-"TAB_BAR" = "Tab Bar";
-"HIDE_VOICEMAIL_TAB" = "Hide Voicemail Tab";
-"CALL_BUTTON" = "Call Button";
-"HIDE_BACKGROUND" = "Hide Background";
-"USE_CUSTOM_CALL_BUTTON_COLOR" = "Use Custom Call Button Color";
-"TINT_COLOR" = "Tint Color";
-"PHONE" = "Phone";
+"DIALER_BUTTONS" = "Boutons du Numéroteur";
+"HIDE_NUMBER_BUTTON_BACKGROUND" = "Masquer l'Arrière-Plan des Chiffres";
+"CALLS" = "Appels";
+"SHOW_EXACT_TIME" = "Afficher l'Heure Exacte dans l'Onglet 'Récents'";
+"HIDE_THIRD_PARTY_CALLS" = "Masquer les Appels Tiers";
+"TAB_BAR" = "Barre d'Onglets";
+"HIDE_VOICEMAIL_TAB" = "Masquer l'Onglet 'Messagerie'";
+"CALL_BUTTON" = "Bouton d'Appel";
+"HIDE_BACKGROUND" = "Masquer l'Arrière-Plan";
+"USE_CUSTOM_CALL_BUTTON_COLOR" = "Couleur du Bouton d'Appel Personnalisée";
+"TINT_COLOR" = "Nuance de Couleur";
+"PHONE" = "Téléphone";
 
 
