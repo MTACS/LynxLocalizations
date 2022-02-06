@@ -1,12 +1,12 @@
-"CAMERA_STYLE" = "Camera Style";
-"USE_IPAD_STYLE" = "Use iPad Style";
-"RECENT_PHOTO_PREVIEW" = "Recent Photo Preview";
-"RECENT_PHOTOS" = "Recent Photos";
-"RECENT_PHOTOS_SUBTITLE" = "Hide recently taken picture";
-"SHUTTER_SOUND" = "Shutter Sound";
-"DISABLE_SHUTTER_SOUND" = "Disable Shutter Sound";
-"CAMERA" = "Camera";
-"VIEWFINDER" = "View Finder";
-"DOUBLE_TAP_FLIP" = "Double Tap";
-"DOUBLE_TAP_FLIP_SUBTITLE" = "Tap Twice to Flip";
+"CAMERA_STYLE" = "Style de l'Appareil Photo";
+"USE_IPAD_STYLE" = "Utiliser le Style iPad";
+"RECENT_PHOTO_PREVIEW" = "Aperçu des Photos Récentes";
+"RECENT_PHOTOS" = "Photos Récentes";
+"RECENT_PHOTOS_SUBTITLE" = "Masque les photos récemment prises";
+"SHUTTER_SOUND" = "Son de l'Obturateur";
+"DISABLE_SHUTTER_SOUND" = "Désactiver le Son";
+"CAMERA" = "Appareil Photo";
+"VIEWFINDER" = "Basculement d'Objectif";
+"DOUBLE_TAP_FLIP" = "Double Toucher";
+"DOUBLE_TAP_FLIP_SUBTITLE" = "Toucher deux fois pour basculer";
 
