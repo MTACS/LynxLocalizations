@@ -3,8 +3,8 @@
 "REPORT_BUG" = "Rappoter un Bug";
 "REQUEST_FEATURE" = "Suggérer une Nouvelle Fonctionnalité";
 "TROUBLESHOOTING" = "Dépannage";
-"RESET_WARNING" = "Êtes-vous sûr.e de vouloir définitivement réinitialiser tous les paramètres ?";
-"RESET_SETTINGS" = "Réinitialiser les Paramètres";
+"RESET_WARNING" = "Êtes-vous sûr.e de vouloir définitivement réinitialiser tous les réglages ?";
+"RESET_SETTINGS" = "Réinitialiser les Réglages";
 "MORE_TWEAKS" = "Plus de Tweaks";
 "MORE" = "Plus..";
 "TRANSLATIONS" = "Traductions";
