@@ -64,7 +64,7 @@
 "NAVIGATION_BARS" = "Barres de Navigation";
 "USE_SMALL_TITLES" = "Titres plus Petits";
 "SHADOW_LINE" = "Ligne d'Ombre";
-"TOP_SHADOW_SUBTITLE" = "Masquer l'ombre au dessus de la vue";
+"TOP_SHADOW_SUBTITLE" = "Masque l'ombre au dessus de la vue";
 "SWITCHES" = "Boutons";
 "ON_COLOR" = "Couleur Personnalisée Lorsque Activé";
 "KEYBOARD" = "Clavier";
@@ -73,8 +73,8 @@
 "ALERT_SUBTITLE" = "Masquer les séparateurs entre les boutons";
 "TAB_BARS" = "Barres d'Onglets";
 "TAB_BAR_BADGES" = "Badges de la Barre d'Onglets";
-"TINT_BADGES_SUBTITLE" = "Répliquer la coloration de l'app";
-"BOTTOM_SHADOW_SUBTITLE" = "Masquer l'ombre inférieure de la vue";
+"TINT_BADGES_SUBTITLE" = "Réplique la coloration de l'app";
+"BOTTOM_SHADOW_SUBTITLE" = "Masque l'ombre inférieure de la vue";
 "HIDE_LABELS" = "Masquer les Étiquettes";
 "USE_HAPTIC_FEEDBACK" = "Retour Haptique";
 "PAGES" = "Pages";
@@ -91,7 +91,7 @@
 "HIDE_IN_CC" = "Masquer dans le Centre de Contrôle";
 "DISABLE_CC_ONLY" = "Désactiver Uniquement dans le CC";
 "USE_FLOATING_DOCK" = "Dock Flottant";
-"USE_FLOATING_DOCK_SUBTITLE" = "Activer le Dock Flottant";
+"USE_FLOATING_DOCK_SUBTITLE" = "Active le Dock Flottant";
 "DISABLE_FLOATING_DOCK_GESTURE_IN_APPS" = "Désactiver les Gestes dans les Apps";
 "DISABLE_FLOATING_DOCK_GESTURE_IN_APPS_SUBTITLE" = "Désactive les gestes du Dock";
 "DISABLE_EDITING" = "Désactiver la Modification d'Icônes";
