@@ -2,7 +2,7 @@
 "HIDE_NUMBER_BUTTON_BACKGROUND" = "Masquer l'Arrière-Plan des Chiffres";
 "CALLS" = "Appels";
 "SHOW_EXACT_TIME" = "Afficher l'Heure Exacte dans l'Onglet 'Récents'";
-"HIDE_THIRD_PARTY_CALLS" = "Masquer les Appels Tiers";
+"HIDE_THIRD_PARTY_CALLS" = "Masquer les Appels d'Apps Tierces";
 "TAB_BAR" = "Barre d'Onglets";
 "HIDE_VOICEMAIL_TAB" = "Masquer l'Onglet 'Messagerie'";
 "CALL_BUTTON" = "Bouton d'Appel";
@@ -10,5 +10,3 @@
 "USE_CUSTOM_CALL_BUTTON_COLOR" = "Couleur du Bouton d'Appel Personnalisée";
 "TINT_COLOR" = "Nuance de Couleur";
 "PHONE" = "Téléphone";
-
-
