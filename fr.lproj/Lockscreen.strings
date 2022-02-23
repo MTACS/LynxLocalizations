@@ -3,9 +3,9 @@
 "MAGSAFE_SUBTITLE" = "Affiche l'anneau MagSafe pendant la charge";
 "CLOCK" = "Horloge";
 "HIDE_TIME_LABEL" = "Masquer l'Heure";
-"TIME_LABEL_PLACEHOLDER" = "Position Alpha: 1.0";
+"TIME_LABEL_PLACEHOLDER" = "Position Alpha : 1.0";
 "HIDE_DATE_LABEL" = "Masquer la Date";
-"DATE_LABEL_PLACEHOLDER" = "Position Alpha: 1.0";
+"DATE_LABEL_PLACEHOLDER" = "Position Alpha : 1.0";
 "LEFT" = "Gauche";
 "CENTER" = "Centré";
 "RIGHT" = "Droit";
@@ -23,9 +23,9 @@
 "CC_GRABBER_SUBTITLE" = "Masque la ligne dans le coin droit";
 "CHARGING_VIEW" = "Chargement";
 "BATTERY_VIEW" = "Affichage de la Batterie";
-"BATTERY_SUBTITLE" = "Masque la batterie qui apparaît bau début de la charge";
+"BATTERY_SUBTITLE" = "Masque la batterie verte qui apparaît au début de la charge";
 "STYLE" = "Style";
-"ALWAYS_DND" = "Toujours utiliser le style opaque de NPD";
+"ALWAYS_DND" = "Toujours utiliser le style opaque du mode NPD";
 "UNLOCK_TEXT" = "Texte de Déverrouillage";
 "HIDE_SWIPE_PRESS" = "Masquer 'Balayer/Appuyer pour déverrouiller'";
 "USE_CUSTOM_TEXT" = "Texte Personnalisé";
@@ -37,10 +37,10 @@
 "PAGE_DOT_SUBTITLE" = "Utile sur les appareils sans encoche";
 "DO_NOT_DISTURB" = "Ne Pas Déranger";
 "HIDE_BANNER" = "Bannière";
-"HIDE_BANNER_SUBTITLE" = "Masque la bannière NDP sur l'écran verrouillé";
+"HIDE_BANNER_SUBTITLE" = "Masque la bannière NPD sur l'écran verrouillé";
 "NOTIFICATION_LIST" = "Liste de Notifications";
 "PULL_TO_CLEAR" = "Étirer pour Effacer";
-"USE_MODERN_ICONS" = "Utiliser des Icônes Modernes";
+"USE_MODERN_ICONS" = "Utiliser les Icônes Modernes";
 "ICON_SIZE_SUBTITLE" = "Augmente la taille des icônes et ajoute une ombre";
 "HIDE_SWIPE_SEPARATORS" = "Masquer les Séparateurs de Balayage";
 "SWIPE_SEPARATORS_SUBTITLE" = "Masque les lignes verticales entre les boutons";
@@ -82,7 +82,7 @@
 "HIDE_AUDIO_SOURCE_BUTTON" = "Masquer le Bouton de Sélection de Source Audio";
 "HIDE_NOW_PLAYING_APP_ICON" = "Masquer l'Icône 'À l'écoute'";
 "OLDER_NOTIFICATIONS" = "Anciennes Notifications";
-"HIDE_NO_NOTIFICATIONS" = "Masquer 'Pas d'Anciennes Notifications'";
+"HIDE_NO_NOTIFICATIONS" = "Masquer 'Pas d'anciennes notifications'";
 "NOTIFICATION_CENTER_TEXT" = "Texte du Centre de Notifications";
 "USE_NUMBER_OF_NOTIFICATIONS" = "Afficher le Nombre de Notifications";
 "UNLOCK_ANIMATION" = "Animation de Déverrouillage";
