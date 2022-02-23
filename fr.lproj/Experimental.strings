@@ -17,4 +17,4 @@
 "USE_FLUID_UI_SUBTITLE" = "Il s'agit des gestes de l'iPhone X";
 "HOMESCREEN_ICONS" = "Icônes de l'Écran d'Accueil";
 "ADD_LOCK_OPTION" = "Option 'Verr./Déverr.' dans le menu d'App";
-"ADD_LOCK_OPTION_SUBTITLE" = "Authentification requise à l'ouverture SEULEMENT depuis l'écran d'accueil (le Sélecteur d'App/les DeepLinks etc. ne sont PAS protégés)";
+"ADD_LOCK_OPTION_SUBTITLE" = "Authentification requise à l'ouverture SEULEMENT depuis l'écran d'accueil (le Sélecteur d'App/les DeepLinks etc. ne seront PAS protégés)";
