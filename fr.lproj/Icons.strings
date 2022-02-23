@@ -11,7 +11,7 @@
 "HIDE_SEPARATORS" = "Masquer les Séparateurs";
 "HIDE_ACTION_IMAGES" = "Masquer l'Icône de Chaque Action";
 "FORCE_TOUCH_PLATTERS" = "Menu 3D Touch";
-"SHOW_LOCAL_IP" = "Afficher l'Addresse IP Locale";
+"SHOW_LOCAL_IP" = "Afficher l'Adresse IP Locale";
 "SHOW_BATTERY_PERCENTAGE" = "Afficher le Pourcentage de Batterie";
 "ADD_CLEAR_BADGES" = "Ajouter l'Option 'Effacer les Badges'";
 "ADD_RENAME_OPTION" = "Ajouter l'Option 'Renommer l'App'";
