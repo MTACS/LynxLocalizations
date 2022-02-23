@@ -10,14 +10,14 @@
 "PRESS_OR_SWIPE_SUBTITLE" = "Ferme toutes les apps ouvertes";
 "USE_CONFIRMATION" = "Demander Confirmation";
 "USE_CONFIRMATION_SUBTITLE" = "Avant de fermer les apps";
-"SELECT_BLACKLISTED_APPS" = "Exlure des Apps";
+"SELECT_BLACKLISTED_APPS" = "Exclure des Apps";
 "NOW_PLAYING" = "En Cours de Lecture";
 "NOW_PLAYING_APPS" = "Applications À l’Écoute";
 "NOW_PLAYING_APPS_SUBTITLE" = "Empêcher la fermeture des apps à l'écoute";
 "GESTURES" = "Gestes";
 "FORCE_TOUCH_GESTURE" = "Pression 3D Touch";
 "FORCE_TOUCH_GESTURE_SUBTITLE" = "Désactive le geste (modèles sans encoche)";
-"APP_SWITCHER" = "Sélecteur d'App";
+"APP_SWITCHER" = "Sélecteur d'Apps";
 "APP_CARDS" = "Cartes d'Apps";
 "HIDE_CARD_ICONS" = "Masquer l'Icône";
 "HIDE_CARD_LABELS" = "Masquer l'Étiquette";
