@@ -12,7 +12,7 @@
 "BATTERY" = "Batterie";
 "HIDE_BATTERY" = "Masquer la Batterie";
 "HIDE_BATTERY_BOLT" = "Masquer l'Éclair sur la Batterie";
-"HIDE_BATTERY_PERCENTAGE" = "Masquer le Piurcentage de Batterie";
+"HIDE_BATTERY_PERCENTAGE" = "Masquer le Pourcentage de Batterie";
 "SHOW_PERCENTAGE_INSIDE" = "Afficher le Pourcentage Dans l'Icône";
 "DISABLE_CHARGING_ANIMATION" = "Désactiver l'Animation de Charge";
 "STATUS_ITEMS" = "Éléments Visuels";
