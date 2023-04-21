@@ -1,9 +1,12 @@
 "UP_NEXT_POPUP" = "'Up Next' Popup";
 "HIDE_QUEUE_POPUP" = "Hide Queue Popup";
+"HIDE_QUEUE_POPUP_SUBTITLE" = "Remove view when queueing songs";
 "RECENTLY_ADDED" = "Recently Added";
 "SHOW_ALL_SONGS" = "Show All Songs";
+"SHOW_ALL_SONGS_SUBTITLE" = "Remove display limit on recently added lists";
 "MUSIC_LIBRARY_LAYOUT" = "Music Library Layout";
 "THREE_COLUMNS" = "Use 3 Column Layout";
+"THREE_COLUMNS_SUBTITLE" = "Show recently added music in 3 columns";
 "MUSIC" = "Music";
 
 

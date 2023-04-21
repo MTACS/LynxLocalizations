@@ -15,6 +15,3 @@
 "FLUID_UI" = "Fluid UI";
 "USE_FLUID_UI" = "Use Fluid UI";
 "USE_FLUID_UI_SUBTITLE" = "iPhone X style gestures";
-"HOMESCREEN_ICONS" = "Homescreen Icons";
-"ADD_LOCK_OPTION" = "Add 'Lock/Unlock' Option";
-"ADD_LOCK_OPTION_SUBTITLE" = "Only protects Homescreen, does not support App Switcher &amp; other ways of launching apps";
