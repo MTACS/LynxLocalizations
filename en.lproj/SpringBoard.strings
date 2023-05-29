@@ -78,7 +78,6 @@
 "ALERTS" = "Alerts";
 "ALERT_SUBTITLE" = "Hide separators between buttons";
 "TAB_BARS" = "Tab Bars";
-"TAB_BARS_FOOTER" = "Set slider to change label vertical position";
 "TAB_BAR_BADGES" = "Tab Bar Badges";
 "TINT_BADGES_SUBTITLE" = "Use app tint color";
 "BOTTOM_SHADOW_SUBTITLE" = "Hide bottom shadow view";
@@ -167,3 +166,4 @@
 "TRANSPARENT" = "Transparent";
 "HOMESCREEN_BLUR" = "Blur Type";
 "HOMESCREEN_BLUR_SUBTITLE" = "Set overlay blur style";
+"PINNED_APPS_SUBTITLE" = "Number of apps per row";

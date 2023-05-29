@@ -13,9 +13,9 @@
 "SHADOW_COLOR" = "Shadow Color";
 "BATTERIES_WIDGET" = "Batteries Widget";
 "TAP_FOR_LOW_POWER_MODE" = "Low Power Mode Gesture";
-"TAP_FOR_LOW_POWER_MODE_SUBTITLE" = "Tap Battery device for Low Power Mode";
+"TAP_FOR_LOW_POWER_MODE_SUBTITLE" = "Double tap Battery device for Low Power Mode";
 "SHOW_PERCENTAGE_LABELS" = "Show Percentage Labels";
-"SHOW_PERCENTAGE_LABELS_SUBTITLE" = "Display device charge percent";
+"SHOW_PERCENTAGE_LABELS_SUBTITLE" = "Tap battery ring to show percentage";
 "HIDE_EMPTY_RINGS" = "Hide Empty Rings";
 "HIDE_EMPTY_RINGS_SUBTITLE" = "Only show connected devices' charging rings";
 "HIDE_SEPARATOR_LINES" = "Hide Separator Lines";

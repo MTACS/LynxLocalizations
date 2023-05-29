@@ -7,7 +7,9 @@
 "SUGGESTION_SUBTITLE" = "Hide bottom app suggestion";
 "APP_KILLING" = "App Removal";
 "PRESS_TO_KILL" = "Press To Clear";
-"PRESS_TO_KILL_SUBTITLE" = "3D Touch on any running to terminate all";
+"PRESS_TO_KILL_SUBTITLE" = "3D Touch on any running app to terminate all";
+"SWIPE_TO_KILL" = "Swipe to Clear";
+"SWIPE_TO_KILL_SUBTITLE" = "Swipe down on any running app to terminate all";
 "USE_CONFIRMATION" = "Use Confirmation";
 "USE_CONFIRMATION_SUBTITLE" = "Check before killing apps";
 "SELECT_LOCKED_APPS" = "Select Locked Apps";
