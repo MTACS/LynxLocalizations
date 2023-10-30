@@ -19,6 +19,10 @@
 "HS_LAYOUT" = "Use Custom Layout";
 "HS_LAYOUT_SUBTITLE" = "Set Rows & Columns";
 "SWIPE_ACTIONS" = "Swipe to set value & reset";
+"RESET_ALL" = "Reset Layout";
+"RESET_ALL_SUBTITLE" = "Restore stock icon layout";
+"ADD_WIDGET" = "Add Widget";
+"EDIT_LAYOUT" = "Edit Layout";
 
 
 

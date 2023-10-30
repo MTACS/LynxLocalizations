@@ -11,4 +11,6 @@
 "HIDE_PINNED_PREVIEW" = "Hide Message Preview";
 "HIDE_PINNED_PREVIEW_SUBTITLE" = "Remove message label from pinned contact views";
 "SENDING" = "Message Sending"; 
+"SWITCH_MESSAGE_TYPE" = "Toggle Message Type";
+"SWITCH_MESSAGE_TYPE_SUBTITLE" = "Long press on conversation contact header to change message type (iMessage/SMS)";
 

@@ -1,5 +1,6 @@
 "STYLE" = "Style";
 "USE_IPAD_STYLE" = "Use iPad Style";
+"USE_IPHONEX_STYLE" = "Use Notched Style";
 "HIDE_IPAD_STYLE_DATE" = "Hide iPad Style Date";
 "CAMERA_MICROPHONE" = "Camera & Microphone";
 "HIDE_STATUS_BAR_DOT" = "Hide Status Bar Dot";

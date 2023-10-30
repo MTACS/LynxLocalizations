@@ -133,3 +133,5 @@
 "DISABLE_CUSTOMIZE_WALLPAPER_SUBTITLE" = "Remove long press to edit wallpaper";
 "LOCKSCREEN_BLUR" = "Blur Type";
 "LOCKSCREEN_BLUR_SUBTITLE" = "Set overlay blur style";
+"USE_EXPANDED_PLAYER" = "Use Expanded Player";
+"USE_EXPANDED_PLAYER_SUBTITLE" = "Always use large media platter";

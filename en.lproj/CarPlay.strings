@@ -1,0 +1,23 @@
+"CARPLAY" = "CarPlay";
+"TERMINATE" = "Restart CarPlay";
+"ICONS" = "Icons";
+"HIDE_LABELS" = "Hide Labels";
+"HIDE_LABELS_SUBTITLE" = "Remove icon labels";
+"HIDE_LABEL_BACKGROUND" = "Hide Label Background";
+"HIDE_LABEL_BACKGROUND_SUBTITLE" = "Remove blur behind labels";
+"STATUS_BAR" = "Status Bar";
+"SHOW_BATTERY" = "Show Battery";
+"SHOW_BATTERY_SUBTITLE" = "Display battery icon on wired connections";
+"STATUS_BAR_EDGE" = "Status Bar Edge";
+"STATUS_BAR_EDGE_SUBTITLE" = "Choose where status bar is displayed";
+"USE_AVERAGE_BADGES" = "Average Badge Colors";
+"USE_AVERAGE_BADGES_SUBTITLE" = "Tint badges based on icon image";
+"WALLPAPER" = "Wallpaper";
+"SET_CUSTOM_WALLPAPER" = "Choose Wallpaper";
+"SET_CUSTOM_WALLPAPER_SUBTITLE" = "Select custom wallpaper. Restart CarPlay to apply. Swipe to reset";
+"CUSTOM_ICON_LAYOUT" = "Use Custom Layout";
+"CUSTOM_ICON_LAYOUT_SUBTITLE" = "Set number of icon columns";
+"RESET_WALLPAPER" = "Reset Wallpaper";
+"SHOW_WEATHER" = "Show Weather";
+"SHOW_WEATHER_SUBTITLE" = "Display current temperature on Status Bar";
+

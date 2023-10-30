@@ -8,6 +8,9 @@
 "THREE_COLUMNS" = "Use 3 Column Layout";
 "THREE_COLUMNS_SUBTITLE" = "Show recently added music in 3 columns";
 "MUSIC" = "Music";
+"MUSIC_NOTIFICATIONS" = "Notifications";
+"MUSIC_BANNER" = "Show Now Playing Banner";
+"MUSIC_BANNER_SUBTITLE" = "Send notification when song changes";
 
 
 

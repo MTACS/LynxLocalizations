@@ -39,3 +39,5 @@
 "CATEGORIES" = "Categories";
 "CATEGORIES_FOOTER" = "To edit App Library categories from the Homescreen, force touch an icon in the library, and select the 'Edit Categories' option from the 3D Touch menu";
 "OPEN_CATEGORY_EDITING" = "Open Library Category Editor";
+"EDIT_CATEGORIES" = "Edit Categories";
+"DONE" = "Done";

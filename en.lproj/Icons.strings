@@ -15,6 +15,8 @@
 "SHOW_BATTERY_PERCENTAGE" = "Show Battery Percentage";
 "ADD_CLEAR_BADGES" = "Add 'Clear Badges'";
 "ADD_RENAME_OPTION" = "Add 'Rename App'";
+"RENAME_APP" = "Rename";
+"CLEAR_BADGES" = "Clear Badges";
 "ICON_LABELS" = "Icon Labels";
 "HIDE_LABELS" = "Hide Labels";
 "USE_CUSTOM_LABEL_COLOR" = "Use Custom Label Color";
@@ -74,7 +76,12 @@
 "HIDE_ICON_AL" = "Hide in App Library";
 "HIDE_ICON_AL_SUBTITLE" = "Icons will also be hidden in App Library";
 "ICON_LABEL_STYLE" = "Icon Label Color";
-"ICON_LABEL_STYLE_SUBTITLE" = "Change color if icon label text";
+"ICON_LABEL_STYLE_SUBTITLE" = "Swipe to set custom color";
 "SWIPE_ACTIONS" = "Swipe to set value & reset";
 "SHOW_APP_SIZE" = "Show App Size";
 "HIDE_MENU_BACKGROUND" = "Hide Menu Background";
+"CANCEL" = "Cancel";
+"RESET" = "Reset";
+"RENAME" = "Rename";
+"LOCK_APP" = "Lock";
+"UNLOCK_APP" = "Unlock";

@@ -10,6 +10,8 @@
 "ALBUMS" = "Albums";
 "LOCK_HIDDEN_ALBUM" = "Lock Hidden Album";
 "LOCK_HIDDEN_ALBUM_SUBTITLE" = "Protect hidden album with biometrics";
+"DELETE_PERMANENTLY" = "Delete Permanently";
+"DELETE_PERMANENTLY_SUBTITLE" = "Skip putting media in trash & remove forever";
 
 
 
