@@ -1,9 +1,0 @@
-Package: com.mtac.lynxtwo.localizations
-Name: Lynx 2 Localizations
-Architecture: iphoneos-arm
-Description: Language Support for Lynx 2
-Maintainer: MTAC
-Author: MTAC
-Section: Tweaks
-Depends: mobilesubstrate, firmware (>= 14.0)
-Version: 1.0.3
