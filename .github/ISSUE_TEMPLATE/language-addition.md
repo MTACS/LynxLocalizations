@@ -7,4 +7,8 @@ assignees: MTACS
 
 ---
 
-Please attach each translated .strings file
+# Please attach each translated .strings file here
+
+## Translation Language
+
+- (example: English, French, Arabic...):
