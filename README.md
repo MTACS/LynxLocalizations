@@ -3,7 +3,7 @@ Repository containing all Lynx 2 localizations
 
 # Adding a translation
 
-Download each .strings file from the strings folder. Replace the lowercase string with your translation of the text in capital letters. Open a new issue and attach each translated strings file.
+Download each .strings file from the [strings](/strings) folder. Replace the lowercase string with your translation of the text in capital letters. Open a new issue and attach each translated strings file.
 
 # Updates
 
