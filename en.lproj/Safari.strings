@@ -1,8 +1,0 @@
-"SAFARI" = "Safari";
-"ADDRESS_BAR" = "Address Bar";
-"SAFARI_ADDRESS_BAR" = "Remove Background";
-"SAFARI_ADDRESS_BAR_SUBTITLE" = "Hides darkened background view";
-"PLAYBACK" = "Playback";
-"PLAYBACK_SUBTITLE" = "Continue Safari content in background";
-"PLAYBACK_GLOBAL" = "WebKit Playback";
-"PLAYBACK_GLOBAL_SUBTITLE" = "Allow Safari content apps as media source in background";
