@@ -1,4 +1,4 @@
-# LynxLocalizations
+# Lynx 2 Localizations
 Repository containing all Lynx 2 localizations
 
 # Adding a translation
