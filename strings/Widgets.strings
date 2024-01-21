@@ -1,0 +1,35 @@
+"TODAY_WIDGET_PAGE" = "Today Widget Page";
+"HIDE_SEARCH_BAR" = "Hide Search Bar";
+"HIDE_SEARCH_BAR_SUBTITLE" = "Also disable swipe gesture";
+"DISABLE_SWIPE_TO_SEARCH" = "Disable Swipe to Search";
+"DISABLE_SWIPE_TO_SEARCH_SUBTITLE" = "Independently cancels swipe down gesture";
+"ELEMENTS" = "Elements";
+"HIDE_LABELS_ON_HOMESCREEN" = "Hide Homescreen Labels";
+"HIDE_LABELS_ON_HOMESCREEN_SUBTITLE" = "Remove app name labels";
+"HIDE_SCROLL_DOTS" = "Hide Scroll Dots";
+"HIDE_SCROLL_DOTS_SUBTITLE" = "Hide dots on right of widget";
+"ADD_OUTER_SHADOW" = "Add Outer Shadow";
+"ADD_OUTER_SHADOW_SUBTITLE" = "Swipe left to set shadow color";
+"SHADOW_COLOR" = "Shadow Color";
+"BATTERIES_WIDGET" = "Batteries Widget";
+"TAP_FOR_LOW_POWER_MODE" = "Low Power Mode Gesture";
+"TAP_FOR_LOW_POWER_MODE_SUBTITLE" = "Double tap Battery device for Low Power Mode";
+"SHOW_PERCENTAGE_LABELS" = "Show Percentage Labels";
+"SHOW_PERCENTAGE_LABELS_SUBTITLE" = "Tap battery ring to show percentage";
+"HIDE_EMPTY_RINGS" = "Hide Empty Rings";
+"HIDE_EMPTY_RINGS_SUBTITLE" = "Only show connected devices' charging rings";
+"HIDE_SEPARATOR_LINES" = "Hide Separator Lines";
+"HIDE_SEPARATOR_LINES_SUBTITLE" = "Remove lines between device views (4x4)";
+"HIDE_SEPARATOR_LINES_SIRI_SUBTITLE" = "Remove lines between Siri suggestions (4x4)";
+"SIRI_WIDGET" = "Siri Widget";
+"WIDGETS" = "Widgets";
+"DISABLE_WIDGETS_LOCKSCREEN" = "Disable on Lockscreen";
+"DISABLE_WIDGETS_LOCKSCREEN_SUBTITLE" = "Cancel swipe on Lockscreen & in Notification Center";
+"DISABLE_WIDGETS_HOMESCREEN" = "Disable on Homescreen";
+"DISABLE_WIDGETS_HOMESCREEN_SUBTITLE" = "Cancel swipe from Home Screen";
+"HIDE_EDIT_BUTTON" = "Hide Edit Button";
+"HIDE_EDIT_BUTTON_SUBTITLE" = "Remove 'Edit' button at botton of widget view";
+
+
+
+

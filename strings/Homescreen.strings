@@ -1,0 +1,30 @@
+"HOMESCREEN_EDITING" = "Homescreen editing";
+"QUICK_SETTINGS" = "Quick Settings";
+"QUICK_SETTINGS_SUBTITLE" = "Tap on 'Add Widget' button for more";
+"HOMESCREEN" = "Homescreen";
+"HS_ROWS_SUBTITLE" = "Default: 6";
+"CUSTOM_HOMESCREEN_ROWS" = "Custom Homescreen Rows";
+"CUSTOM_HOMESCREEN_COLUMNS" = "Custom Homescreen Columns";
+"CUSTOM_HOMESCREEN_COLUMNS_SUBTITLE" = "Default: 4";
+"FOLDERS" = "Folders";
+"CUSTOM_FOLDER_ROWS" = "Custom Folder Rows";
+"CUSTOM_FOLDER_ROWS_SUBTITLE" = "Default: 3";
+"CUSTOM_FOLDER_COLUMNS" = "Custom Folder Columns";
+"CUSTOM_FOLDER_COLUMNS_SUBTITLE" = "Default: 3";
+"DOCK" = "Dock";
+"CUSTOM_DOCK_ICONS" = "Custom Dock Icons";
+"CUSTOM_DOCK_ICONS_SUBTITLE" = "Default: 4";
+"APPLY" = "Apply";
+"HOMESCREEN" = "Homescreen";
+"HS_LAYOUT" = "Use Custom Layout";
+"HS_LAYOUT_SUBTITLE" = "Set Rows & Columns";
+"SWIPE_ACTIONS" = "Swipe to set value & reset";
+"RESET_ALL" = "Reset Layout";
+"RESET_ALL_SUBTITLE" = "Restore stock icon layout";
+"ADD_WIDGET" = "Add Widget";
+"EDIT_LAYOUT" = "Edit Layout";
+
+
+
+
+

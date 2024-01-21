@@ -1,0 +1,10 @@
+"CONNECTIVITY" = "Connectivity";
+"AIRPLANE_MODE" = "Airplane Mode";
+"CELLULAR_DATA" = "Cellular Data";
+"WIFI" = "WiFi";
+"BLUETOOTH" = "Bluetooth";
+"AIRDROP" = "Airdrop";
+"HOTSPOT" = "HotSpot";
+"COLOR_PICKER_SUBTITLE" = "Swipe left to set color";
+"COLOR_PICKER" = "Custom Enabled Color";
+"COLOR_PICKER_DISABLED" = "Custom Disabled Color";

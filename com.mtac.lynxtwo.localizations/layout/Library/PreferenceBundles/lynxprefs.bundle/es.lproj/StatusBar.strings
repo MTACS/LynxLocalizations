@@ -1,0 +1,55 @@
+"STYLE" = "Estilo";
+"USE_IPAD_STYLE" = "Usar Estilo iPad";
+"HIDE_IPAD_STYLE_DATE" = "Esconder Fecha Estilo iPad";
+"CAMERA_MICROPHONE" = "Cámara y Micrófono";
+"HIDE_STATUS_BAR_DOT" = "Esconder puntos";
+"BREADCRUMBS" = "Migas de pan";
+"HIDE_BREADCRUMBS" = "Esconder migas de pan (la app que abriste previamente)";
+"HIDING" = "Esconder";
+"HIDE_EVERYWHERE" = "Esconder en el sistema";
+"HIDE_ON_HOMESCREEN" = "Sólo en Pantalla de Inicio";
+"HIDE_ON_LOCKSCREEN" = "Sólo en Pantalla de Bloqueo";
+"BATTERY" = "Batería";
+"HIDE_BATTERY" = "Esconder Batería";
+"HIDE_BATTERY_BOLT" = "Esconder rayo";
+"HIDE_BATTERY_PERCENTAGE" = "Esconder porcentaje";
+"SHOW_PERCENTAGE_INSIDE" = "Mostrar porcentaje adentro";
+"DISABLE_CHARGING_ANIMATION" = "Deshabilitar animación al cargar";
+"STATUS_ITEMS" = "Ítems en barra de estado";
+"HIDE_WIFI_SIGNAL" = "Esconder Barras de WiFi";
+"HIDE_CELLULAR_SIGNAL" = "Esconder Barras de Señal";
+"HIDE_CLOCK" = "Esconder Reloj";
+"HIDE_CARRIER_TEXT" = "Esconder texto operador";
+"HIDE_LOCATION_ARROW" = "Esconder flecha ubicación";
+"HIDE_ROTATION_LOCK" = "Esconder candado rotación";
+"HIDE_DO_NOT_DISTURB_MOON" = "Esconder 'No Molestar' Luna";
+"HIDE_BLUETOOTH_ICON" = "Esconder Bluetooth ícono";
+"HIDE_ALARM_BELL" = "Esconder alarma campana";
+"HIDE_AIRPLANE_MODE" = "Esconder modo avión";
+"HIDE_VPN" = "Esconder VPN";
+"HIDE_CARPLAY" = "Esconder CarPlay";
+"HIDE_NOT_CHARGING" = "Esconder 'No se está cargando' ícono";
+"LOCKSCREEN" = "Pantalla de Inicio";
+"HIDE_LOCK_ICON" = "Esconder Candado";
+"HIDE_LOCK_SUBTITLE" = "Solamente dispositivos sin notch";
+"HOTSPOT_RECORDING" = "Hotspot y Grabar Pantalla";
+"HIDE_COLORED_VIEW" = "Esconder vista coloreada";
+"HIDE_PULSING_VIEW" = "Esconder vista pulsante";
+"STATUS_PILL_WARNING" = "Habilitar "Esconder vista coloreada" afecta los servicios de ubicación, hotspot y grabar pantalla en iPhones X o posteriores";
+"CARRIER" = "Operador";
+"USE_WIFI_ADDRESS" = "Usar dirección IP";
+"USE_CUSTOM_CARRIER" = "Operador personalizado";
+"NO_SIM_TEXT" = "Cambia "Sin SIM" texto";
+"NO_SERVICE_TEXT" = "Cambia 'Sin servicio' texto";
+"ENTER_CUSTOM_CARRIER_TEXT" = "Escribe el texto personalizado";
+"USE_DATE_AS_CARRIER" = "Usar fecha como operador";
+"CARRIER_DATE_PLACEHOLDER" = "yyyy-MM-dd";
+"VIEW_MORE_DATE_FORMATS" = "Mirar más formatos";
+"CLOCK" = "Reloj";
+"USE_CUSTOM_TIME_FORMAT" = "Usar tiempo personalizado";
+"CUSTOM_TIME_FORMAT_PLACEHOLDER" = "h:mm a";
+"STATUS_BAR" = "Barra de Estado";
+
+
+
+

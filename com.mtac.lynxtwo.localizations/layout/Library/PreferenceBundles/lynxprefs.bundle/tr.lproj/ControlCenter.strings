@@ -1,0 +1,23 @@
+"AVAILABILITY" = "Kullanılabilirlik";
+"DISABLE_CC_COMPLETELY" = "Kontrol Merkezini Tamamen Kapat";
+"CONNECTIVITY_MODULE" = "Bağlantı Butonları";
+"BLUETOOTH_WIFI" = "Bluetooth & WiFi";
+"BLUETOOTH_WIFI_SUBTITLE" = "Bluetooth & Wifi Tamamen Kapat";
+"STATUS_BAR" = "Durum Çubuğu";
+"CAMERA_MICROPHONE" = "Kamera & Mikrofon";
+"CAMERA_MICROPHONE_SUBTITLE" = "Kullanılıyor Simgesini Gizle";
+"MODULES" = "Butonlar";
+"USE_ROUNDED_MODULES" = "Yuvarlak Butonları Kullan";
+"USE_OUTER_SHADOW" = "Dış Gölgeyi Kullan";
+"SHADOW_COLOR" = "Gölge Rengi";
+"SLIDERS" = "Ses & Parlaklık";
+"VOLUME_BRIGHTNESS" = "Ses & Parlaklık";
+"VOLUME_BRIGHTNESS_SUBTITLE" = "Ses & Parlaklık Yüzdelerini Göster";
+"CHEVRON" = "Ok İşareti";
+"HIDE_CHEVRON" = "Ok İşaretini Gizle";
+"CONTROL_CENTER" = "Kontrol Merkezi";
+"TOGGLE_HINTS" = "İPUÇLARINI DEĞİŞTİR";
+"HIDE_TOGGLE_HINTS" = "Geçiş İpuçlarını Gizle";
+
+
+
