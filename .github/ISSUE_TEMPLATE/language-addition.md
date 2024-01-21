@@ -12,3 +12,7 @@ assignees: MTACS
 ## Translation Language
 
 - (example: English, French, Arabic...):
+
+## Social Link (Optional)
+
+- Link to social media (for credit in Lynx's settings page)
