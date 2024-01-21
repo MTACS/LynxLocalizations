@@ -2,7 +2,7 @@
 name: Language Addition
 about: Submit a translated .strings file
 title: "[TRANSLATION]"
-labels: ''
+labels: TRANSLATION SUBMISSION
 assignees: MTACS
 
 ---
