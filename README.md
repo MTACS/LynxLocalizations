@@ -1,6 +1,8 @@
 # Lynx 2 Localizations
 Repository containing all Lynx 2 localizations
 
+Download on [mtac.app](https://mtac.app/repo)
+
 For any questions regarding localization, contact me on [Twitter](https://twitter.com/mtac8) or [Discord](https://discordapp.com/users/451747491549806593)
 
 # Adding a translation
