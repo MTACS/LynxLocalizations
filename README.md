@@ -20,6 +20,7 @@ _Open .strings files as plain text file if possible. If you are using a Mac, ope
 
 _Keys with no text (ex: ```"KEY" = "  "``` or ```<key>KEY</key><string>  </string>``` ) are keys that need to be translated_
 
+#
 ***French***
 
 ```Settings.strings```
@@ -31,6 +32,7 @@ _Keys with no text (ex: ```"KEY" = "  "``` or ```<key>KEY</key><string>  </strin
 ```<key>SETTINGS</key>```   
 ```<string>Réglages</string>```
 
+#
 ***Arabic***
 ```Music.strings```
 
@@ -41,6 +43,7 @@ _Keys with no text (ex: ```"KEY" = "  "``` or ```<key>KEY</key><string>  </strin
 ```<key>MUSIC</key>```   
 ```<string>الموسيقى</string>```
 
+#
 ***Chinese (Simplified)***
 ```SpringBoard.strings```
 
