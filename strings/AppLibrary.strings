@@ -2,10 +2,10 @@
 "DISABLE_APP_LIBRARY" = "隱藏應用程式資料庫";
 "DISABLE_APP_LIBRARY_SUBTITLE" = "完全隱藏應用程式資料庫";
 "STYLE" = "風格";
-"OPEN_LIST_MODE" = "Open To List Mode";
-"LISTMODE_SUBTITLE" = "Automatically open to list of apps";
-"PODS" = "Pods";
-"HIDE_BACKGROUND_BLUR" = "Hide Background Blur";
+"OPEN_LIST_MODE" = "開啟列表模式";
+"LISTMODE_SUBTITLE" = "自動開啟應用程式列表";
+"PODS" = "應用程式資料庫資料夾膠囊";
+"HIDE_BACKGROUND_BLUR" = "隱藏資料夾模糊";
 "HIDE_BACKGROUND_BLUR_SUBTITLE" = "Remove effect from category icons";
 "HIDE_CATEGORY_NAME" = "Hide Category Name";
 "HIDE_CATEGORY_NAME_SUBTITLE" = "Remove category pod icon labels";
@@ -38,6 +38,6 @@
 "POD_NAME_ARRAY" = "Enter pod names separated by ','";
 "CATEGORIES" = "Categories";
 "CATEGORIES_FOOTER" = "To edit App Library categories from the Homescreen, force touch an icon in the library, and select the 'Edit Categories' option from the 3D Touch menu";
-"OPEN_CATEGORY_EDITING" = "Open Library Category Editor";
-"EDIT_CATEGORIES" = "Edit Categories";
-"DONE" = "Done";
+"OPEN_CATEGORY_EDITING" = "開啟應用程式類別編輯器";
+"EDIT_CATEGORIES" = "自訂應用程式類別";
+"DONE" = "完成";
