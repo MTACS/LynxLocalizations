@@ -5,7 +5,7 @@ For any questions regarding localization, contact me on [Twitter](https://twitte
 
 # Adding a translation
 
-Partial translations exist for Arabic, German, Turkish, Spanish, Chinese (Simplified) and French.
+Partial translations exist for [Arabic](https://github.com/MTACS/LynxLocalizations/tree/main/com.mtac.lynxtwo.localizations/layout/Library/PreferenceBundles/lynxprefs.bundle/ar.lproj), [German](https://github.com/MTACS/LynxLocalizations/tree/main/com.mtac.lynxtwo.localizations/layout/Library/PreferenceBundles/lynxprefs.bundle/de.lproj), [Turkish](https://github.com/MTACS/LynxLocalizations/tree/main/com.mtac.lynxtwo.localizations/layout/Library/PreferenceBundles/lynxprefs.bundle/tr.lproj), [Spanish](https://github.com/MTACS/LynxLocalizations/tree/main/com.mtac.lynxtwo.localizations/layout/Library/PreferenceBundles/lynxprefs.bundle/es.lproj), [Chinese (Simplified)](https://github.com/MTACS/LynxLocalizations/tree/main/com.mtac.lynxtwo.localizations/layout/Library/PreferenceBundles/lynxprefs.bundle/zh-Hans.lproj) and [French](https://github.com/MTACS/LynxLocalizations/tree/main/com.mtac.lynxtwo.localizations/layout/Library/PreferenceBundles/lynxprefs.bundle/fr.lproj).
 
 If you are updating one of these languages, download the .strings files from the appropriate link above. If you are adding a new language, download each .strings file from the [strings](/strings) template folder. 
 
