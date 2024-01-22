@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ABOUT</key>
+	<string>  </string>
+	<key>BUG_REPORT</key>
+	<string>  </string>
+	<key>BUG_REPORT_SUBTITLE</key>
+	<string>  </string>
+	<key>CANCEL</key>
+	<string>  </string>
+	<key>EXPORT_ERROR</key>
+	<string>  </string>
+	<key>EXPORT_SETTINGS</key>
+	<string>  </string>
+	<key>EXPORT_SETTINGS_SUBTITLE</key>
+	<string>  </string>
+	<key>FEATURE_REQUEST</key>
+	<string>  </string>
+	<key>FEATURE_REQUEST_SUBTITLE</key>
+	<string>  </string>
+	<key>GITHUB</key>
+	<string>  </string>
+	<key>HAVOC</key>
+	<string>  </string>
+	<key>IMPORT</key>
+	<string>  </string>
+	<key>IMPORT_ERROR</key>
+	<string>  </string>
+	<key>IMPORT_PLACEHOLDER</key>
+	<string>  </string>
+	<key>IMPORT_SETTINGS</key>
+	<string>  </string>
+	<key>IMPORT_SETTINGS_SUBTITLE</key>
+	<string>  </string>
+	<key>MAIN_DEVELOPER</key>
+	<string>  </string>
+	<key>OKAY</key>
+	<string>  </string>
+	<key>OPEN_LOCALIZATIONS</key>
+	<string>  </string>
+	<key>OPEN_LOCALIZATIONS_SUBTITLE</key>
+	<string>  </string>
+	<key>RESET</key>
+	<string>  </string>
+	<key>RESET_SETTINGS</key>
+	<string>  </string>
+	<key>RESET_SETTINGS_SUBTITLE</key>
+	<string>  </string>
+	<key>TRANSLUCENT_SETTINGS</key>
+	<string>  </string>
+	<key>TRANSLUCENT_SETTINGS_SUBTITLE</key>
+	<string>  </string>
+	<key>VERSION</key>
+	<string>  </string>
+</dict>
+</plist>

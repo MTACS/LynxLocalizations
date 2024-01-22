@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ADDRESS_BAR</key>
+	<string>  </string>
+	<key>PLAYBACK</key>
+	<string>  </string>
+	<key>PLAYBACK_GLOBAL</key>
+	<string>  </string>
+	<key>PLAYBACK_GLOBAL_SUBTITLE</key>
+	<string>  </string>
+	<key>PLAYBACK_SUBTITLE</key>
+	<string>  </string>
+	<key>SAFARI</key>
+	<string>  </string>
+	<key>SAFARI_ADDRESS_BAR</key>
+	<string>  </string>
+	<key>SAFARI_ADDRESS_BAR_SUBTITLE</key>
+	<string>  </string>
+</dict>
+</plist>

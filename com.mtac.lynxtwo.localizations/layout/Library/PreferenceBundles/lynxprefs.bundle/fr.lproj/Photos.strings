@@ -6,3 +6,15 @@
 "PHOTO_PREVIEW" = "Aperçu des Photos";
 "APPLICATION" = "Interface";
 "LOCK_HIDDEN_ALBUM" = "Verrouiller l'Album 'Masqués'";
+"USE_INFINITE_ZOOM_SUBTITLE" = "  ";
+"DELETE_PERMANENTLY_SUBTITLE" = "  ";
+"AUTO_REPLAY" = "  ";
+"DELETION" = "  ";
+"VIDEOS" = "  ";
+"LOCK_HIDDEN_ALBUM_SUBTITLE" = "  ";
+"HIDE_SCRUBBER" = "  ";
+"AUTO_REPLAY_SUBTITLE" = "  ";
+"SKIP_DELETION_CONFIRMATION_SUBTITLE" = "  ";
+"HIDE_SCRUBBER_SUBTITLE" = "  ";
+"ALBUMS" = "  ";
+"DELETE_PERMANENTLY" = "  ";
