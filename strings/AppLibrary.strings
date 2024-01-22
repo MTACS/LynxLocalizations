@@ -1,6 +1,6 @@
 "DISABLING" = "Disabling";
 "DISABLE_APP_LIBRARY" = "Remove App Library";
-"DISABLE_APP_LIBRARY_SUBTITLE" = "Completele disable library opening";
+"DISABLE_APP_LIBRARY_SUBTITLE" = "Completely disable library opening";
 "STYLE" = "Style";
 "OPEN_LIST_MODE" = "Open To List Mode";
 "LISTMODE_SUBTITLE" = "Automatically open to list of apps";
