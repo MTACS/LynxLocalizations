@@ -5,6 +5,9 @@
 "MUSIC_LIBRARY_LAYOUT" = "Diseño de la librería";
 "THREE_COLUMNS" = "Usar diseño de 3 columnas";
 "MUSIC" = "Música";
-
-
-
+"HIDE_QUEUE_POPUP_SUBTITLE" = "  ";
+"SHOW_ALL_SONGS_SUBTITLE" = "  ";
+"MUSIC_BANNER_SUBTITLE" = "  ";
+"THREE_COLUMNS_SUBTITLE" = "  ";
+"MUSIC_BANNER" = "  ";
+"MUSIC_NOTIFICATIONS" = "  ";

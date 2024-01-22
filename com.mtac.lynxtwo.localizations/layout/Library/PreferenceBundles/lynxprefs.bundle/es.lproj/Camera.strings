@@ -9,3 +9,5 @@
 "VIEWFINDER" = "Ver el buscador";
 "DOUBLE_TAP_FLIP" = "Doble toque";
 "DOUBLE_TAP_FLIP_SUBTITLE" = "Tocar dos veces para cambiar la cámara";
+"DISABLE_SHUTTER_SOUND_SUBTITLE" = "  ";
+"USE_IPAD_STYLE_SUBTITLE" = "  ";
