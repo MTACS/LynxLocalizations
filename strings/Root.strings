@@ -10,7 +10,7 @@
 "WIDGETS_SUBTITLE" = "标签，页面点，阴影";
 "ICONS" = "图标";
 "ICONS_SUBTITLE" = "外观，角标，布局";
-"APP_SWITCHER" = "多任务后台";
+"APP_SWITCHER" = "应用切换器";
 "APP_SWITCHER_SUBTITLE" = "样式，手势，应用";
 "CONTROL_CENTER" = "控制中心";
 "CONTROL_CENTER_SUBTITLE" = "阴影，滑块，切换";
@@ -21,7 +21,7 @@
 "APP_STORE" = "App Store";
 "APP_STORE_SUBTITLE" = "传统风格的更新按钮";
 "CAMERA" = "相机";
-"CAMERA_SUBTITLE" = "iPad样式，声音，最近";
+"CAMERA_SUBTITLE" = "iPad 样式，声音，最近";
 "PHONE" = "电话";
 "PHONE_SUBTITLE" = "界面颜色，语音邮件，日期";
 "SAFARI" = "Safari";
@@ -43,7 +43,7 @@
 "MORE_HEADER" = "更多";
 "NOTES" = "笔记";
 "NOTES_SUBTITLE" = "着色，工具栏，安全";
-"RESPRING" = "应用";
+"RESPRING" = "注销";
 "CHANGES" = "更改";
 "FIXES" = "修复";
 "CHANGELOG" = "更新日志";
