@@ -1,50 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>CONVERSATIONS</key>
-	<string>对话</string>
-	<key>HIDE_CONTACT_IMAGE_GLOW</key>
-	<string>隐藏联系人图像光圈</string>
-	<key>HIDE_SEPARATORS</key>
-	<string>隐藏分隔符</string>
-	<key>LABEL_COLOR</key>
-	<string>标签颜色</string>
-	<key>MESSAGES</key>
-	<string>短信程序</string>
-	<key>OTHER_TWEAKS</key>
-	<string>其他插件</string>
-	<key>PINNED_CONVERSATIONS</key>
-	<string>固定对话</string>
-	<key>USE_CUSTOM_BUBBLE_COLOR</key>
-	<string>使用自定义气泡颜色</string>
-	<key>USE_CUSTOM_LABEL_COLOR</key>
-	<string>使用自定义标签颜色</string>
-	<key>DELAY_MESSAGE_SEND</key>
-	<string>  </string>
-	<key>DELAY_MESSAGE_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_CONTACT_IMAGE_GLOW_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_PINNED_PREVIEW</key>
-	<string>  </string>
-	<key>HIDE_PINNED_PREVIEW_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_SEPARATORS_SUBTITLE</key>
-	<string>  </string>
-	<key>MESSAGE_DELAY</key>
-	<string>  </string>
-	<key>MESSAGE_DELAY_SUBTITLE</key>
-	<string>  </string>
-	<key>SENDING</key>
-	<string>  </string>
-	<key>SHOW_PROGRESS_BAR</key>
-	<string>  </string>
-	<key>SHOW_PROGRESS_BAR_SUBTITLE</key>
-	<string>  </string>
-	<key>SWITCH_MESSAGE_TYPE</key>
-	<string>  </string>
-	<key>SWITCH_MESSAGE_TYPE_SUBTITLE</key>
-	<string>  </string>
-</dict>
-</plist>
+"PINNED_CONVERSATIONS" = "置顶对话";
+"HIDE_CONTACT_IMAGE_GLOW" = "隐藏图像发光效果";
+"HIDE_CONTACT_IMAGE_GLOW_SUBTITLE" = "移除联系人图像的发光效果/阴影";
+"CONVERSATIONS" = "对话";
+"HIDE_SEPARATORS" = "隐藏分隔线";
+"HIDE_SEPARATORS_SUBTITLE" = "移除对话之间的分隔线";
+"OTHER_TWEAKS" = "其他调整";
+"MESSAGES" = "消息";
+"SHOW_PROGRESS_BAR" = "显示进度条";
+"SHOW_PROGRESS_BAR_SUBTITLE" = "发送消息时显示进度";
+"HIDE_PINNED_PREVIEW" = "隐藏消息预览";
+"HIDE_PINNED_PREVIEW_SUBTITLE" = "从置顶的联系人视图中移除消息标签";
+"SENDING" = "消息发送";
+"SWITCH_MESSAGE_TYPE" = "切换消息类型";
+"SWITCH_MESSAGE_TYPE_SUBTITLE" = "长按对话联系人头部以切换消息类型（ iMessage / 短信）";
+"DELAY_MESSAGE_SEND" = "延迟发送消息";
+"DELAY_MESSAGE_SUBTITLE" = "在发送消息之前添加延迟";
+"MESSAGE_DELAY" = "延迟时间";
+"MESSAGE_DELAY_SUBTITLE" = "秒数";
