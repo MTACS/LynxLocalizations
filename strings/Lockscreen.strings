@@ -1,6 +1,6 @@
 "MAGSAFE" = "磁吸充电";
 "NATIVE_ANIMATION" = "原生动画";
-"MAGSAFE_SUBTITLE" = "在充电时显示MagSafe环";
+"MAGSAFE_SUBTITLE" = "在充电时显示 MagSafe 环";
 "CLOCK" = "时钟";
 "HIDE_TIME_LABEL" = "隐藏时间标签";
 "HIDE_TIME_LABEL_SUBTITLE" = "移除时钟数字";
@@ -14,7 +14,7 @@
 "CLOCK_FONT" = "时钟字体";
 "CLOCK_FONT_FOOTER" = "选择字体粗细";
 "CUSTOM_FONT" = "使用自定义字体";
-"CUSTOM_FONT_SUBTITLE" = "设置字体家族、大小和粗细";
+"CUSTOM_FONT_SUBTITLE" = "设置字体家、大小和粗细";
 "CLOCK_PLACEHOLDER" = "默认：80";
 "DEFAULT" = "默认";
 "ITALIC" = "斜体";
@@ -30,8 +30,8 @@
 "BATTERY_VIEW" = "电池界面";
 "BATTERY_SUBTITLE" = "在充电时隐藏电池弹窗";
 "STYLE" = "样式";
-"ALWAYS_DND" = "始终使用DND暗色样式";
-"ALWAYS_DND_SUBTITLE" = "始终使用DND暗色样式";
+"ALWAYS_DND" = "始终使用 DND 深色样式";
+"ALWAYS_DND_SUBTITLE" = "始终使用 DND 深色样式";
 "UNLOCK_TEXT" = "解锁文本";
 "HIDE_SWIPE_PRESS" = "隐藏解锁文本标签";
 "HIDE_SWIPE_PRESS_SUBTITLE" = "隐藏'向上滑动'或'按压解锁'";
@@ -59,7 +59,7 @@
 "OUTER_SHADOW" = "外阴影";
 "SHADOW_SUBTITLE" = "向左滑动设置颜色";
 "SHADOW_COLOR" = "阴影颜色";
-"FACE_ID" = "面容ID";
+"FACE_ID" = "面容 ID";
 "LOCK_ICON" = "锁屏图标";
 "LOCK_ICON_SUBTITLE" = "在锁屏界面上隐藏挂锁";
 "PASSCODE_BUTTONS" = "密码输入按钮";
@@ -96,7 +96,7 @@
 "HIDE_NOW_PLAYING_APP_ICON" = "隐藏媒体应用图标";
 "OLDER_NOTIFICATIONS" = "更早的通知";
 "HIDE_NO_NOTIFICATIONS" = "以前的通知文字";
-"HIDE_NO_NOTIFICATIONS_SUBTITLE" = "隐藏'无更早通知'标签";
+"HIDE_NO_NOTIFICATIONS_SUBTITLE" = "隐藏'没有更早的通知'文字";
 "NOTIFICATION_CENTER_TEXT" = "通知中心文字";
 "USE_NUMBER_OF_NOTIFICATIONS" = "通知计数";
 "USE_NUMBER_OF_NOTIFICATIONS_SUBTITLE" = "在标题中显示通知数量";
@@ -113,7 +113,7 @@
 "HIDE_TOP_HINT_SUBTITLE" = "隐藏'上滑解锁'提示";
 "CARPLAY" = "CarPlay";
 "CARPLAY_TITLE" = "禁用覆盖层";
-"CARPLAY_SUBTITLE" = "隐藏CarPlay连接屏幕";
+"CARPLAY_SUBTITLE" = "隐藏 CarPlay 连接屏幕";
 "CLOCK_SECONDS" = "显示秒数";
 "CLOCK_SECONDS_SUBTITLE" = "在时钟标签上添加秒数";
 "TAP_OPEN" = "轻触打开";
@@ -126,12 +126,12 @@
 "SHOW_LEGAL_TEXT_SUBTITLE" = "在锁屏底部显示文本字符串";
 "LEGAL_PLACEHOLDER" = "输入自定义法律文本";
 "SPOTLIGHT" = "Spotlight";
-"DISABLE_SPOTLIGHT_SWIPE" = "禁用Spotlight滑动";
-"DISABLE_SPOTLIGHT_SWIPE_SUBTITLE" = "移除下拉打开Spotlight的手势";
+"DISABLE_SPOTLIGHT_SWIPE" = "禁用 Spotlight 滑动";
+"DISABLE_SPOTLIGHT_SWIPE_SUBTITLE" = "移除下拉打开 Spotlight 的手势";
 "CUSTOMIZE_WALLPAPER" = "壁纸定制";
 "DISABLE_CUSTOMIZE_WALLPAPER" = "禁用手势";
 "DISABLE_CUSTOMIZE_WALLPAPER_SUBTITLE" = "移除长按编辑壁纸的功能";
 "LOCKSCREEN_BLUR" = "模糊类型";
 "LOCKSCREEN_BLUR_SUBTITLE" = "设置覆盖层模糊样式";
 "USE_EXPANDED_PLAYER" = "使用扩展播放器";
-"USE_EXPANDED_PLAYER_SUBTITLE" = "始终使用大型媒体播放器";
+"USE_EXPANDED_PLAYER_SUBTITLE" = "始终使用扩展播放器";
