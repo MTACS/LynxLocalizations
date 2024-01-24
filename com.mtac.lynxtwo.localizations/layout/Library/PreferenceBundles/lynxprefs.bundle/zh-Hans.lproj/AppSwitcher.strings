@@ -1,90 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>APP_KILLING</key>
-	<string>应用终止</string>
-	<key>APP_SUGGESTIONS</key>
-	<string>应用建议</string>
-	<key>APP_SWITCHER</key>
-	<string>后台切换</string>
-	<key>FORCE_TOUCH_GESTURE</key>
-	<string>3D Touch手势</string>
-	<key>FORCE_TOUCH_GESTURE_SUBTITLE</key>
-	<string>禁用手势(非刘海设备)</string>
-	<key>GESTURES</key>
-	<string>手势</string>
-	<key>GRID_STYLE_SUBTITLE</key>
-	<string>启用4x4布局</string>
-	<key>NOW_PLAYING</key>
-	<string>正在播放</string>
-	<key>NOW_PLAYING_APPS</key>
-	<string>正在播放的程序</string>
-	<key>NOW_PLAYING_APPS_SUBTITLE</key>
-	<string>禁止杀死正在播放的程序</string>
-	<key>PRESS_OR_SWIPE</key>
-	<string>按住/滑动 杀掉应用</string>
-	<key>PRESS_OR_SWIPE_SUBTITLE</key>
-	<string>杀死所有正在运行的应用程序</string>
-	<key>SELECT_BLACKLISTED_APPS</key>
-	<string>选择黑名单应用</string>
-	<key>STYLE</key>
-	<string>风格</string>
-	<key>SUGGESTION_SUBTITLE</key>
-	<string>隐藏底部应用程序建议</string>
-	<key>SUGGGESTION_BANNER</key>
-	<string>建议横幅</string>
-	<key>USE_CONFIRMATION</key>
-	<string>二次确认</string>
-	<key>USE_CONFIRMATION_SUBTITLE</key>
-	<string>杀死应用前检查</string>
-	<key>USE_GRID_STYLE</key>
-	<string>使用网格视图</string>
-	<key>USE_PAGE_STYLE</key>
-	<string>使用页面视图</string>
-		<key>APP_CARDS</key>
-	<string>  </string>
-	<key>CANCEL</key>
-	<string>  </string>
-	<key>CLEAR</key>
-	<string>  </string>
-	<key>CUSTOM_GRID_SPACING</key>
-	<string>  </string>
-	<key>CUSTOM_GRID_SPACING_SUBTITLE</key>
-	<string>  </string>
-	<key>CUSTOM_PAGE_SCALING</key>
-	<string>  </string>
-	<key>CUSTOM_PAGE_SCALING_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_CARD_ICONS</key>
-	<string>  </string>
-	<key>HIDE_CARD_ICONS_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_CARD_LABELS</key>
-	<string>  </string>
-	<key>HIDE_CARD_LABELS_SUBTITLE</key>
-	<string>  </string>
-	<key>IGNORE_MAPS_APP</key>
-	<string>  </string>
-	<key>IGNORE_MAPS_APP_SUBTITLE</key>
-	<string>  </string>
-	<key>PAGES</key>
-	<string>  </string>
-	<key>PRESS_TO_KILL</key>
-	<string>  </string>
-	<key>PRESS_TO_KILL_SUBTITLE</key>
-	<string>  </string>
-	<key>SELECT_LOCKED_APPS</key>
-	<string>  </string>
-	<key>SELECT_LOCKED_APPS_SUBTITLE</key>
-	<string>  </string>
-	<key>SWIPE_TO_KILL</key>
-	<string>  </string>
-	<key>SWIPE_TO_KILL_SUBTITLE</key>
-	<string>  </string>
-	<key>SWITCHER_STYLE</key>
-	<string>  </string>
-	<key>SWITCHER_STYLE_SUBTITLE</key>
-	<string>  </string>
-</dict>
-</plist>
+"STYLE" = "风格";
+"USE_GRID_STYLE" = "使用网格风格";
+"GRID_STYLE_SUBTITLE" = "启用 4x4 布局";
+"USE_PAGE_STYLE" = "使用页面风格";
+"APP_SUGGESTIONS" = "应用建议";
+"SUGGGESTION_BANNER" = "建议横幅";
+"SUGGESTION_SUBTITLE" = "隐藏底部应用建议";
+"APP_KILLING" = "应用清除";
+"PRESS_TO_KILL" = "按下清除";
+"PRESS_TO_KILL_SUBTITLE" = "3D Touch 任何正在运行的应用程序以终止所有";
+"SWIPE_TO_KILL" = "滑动清除";
+"SWIPE_TO_KILL_SUBTITLE" = "向下滑动任何正在运行的应用程序以终止所有";
+"USE_CONFIRMATION" = "使用确认";
+"USE_CONFIRMATION_SUBTITLE" = "在终止应用程序之前进行确认";
+"SELECT_LOCKED_APPS" = "选择已锁定的应用程序";
+"SELECT_LOCKED_APPS_SUBTITLE" = "选择始终保留在切换器中的应用程序";
+"NOW_PLAYING" = "正在播放";
+"NOW_PLAYING_APPS" = "忽略媒体应用";
+"NOW_PLAYING_APPS_SUBTITLE" = "清除所有应用程序时跳过正在播放的应用程序";
+"APP_SWITCHER" = "应用切换器";
+"APP_CARDS" = "应用卡片";
+"HIDE_CARD_ICONS" = "隐藏卡片图标";
+"HIDE_CARD_ICONS_SUBTITLE" = "移除应用程序图标";
+"HIDE_CARD_LABELS" = "隐藏卡片标签";
+"HIDE_CARD_LABELS_SUBTITLE" = "移除应用程序名称标签";
+"SWITCHER_STYLE" = "切换器布局";
+"SWITCHER_STYLE_SUBTITLE" = "设置切换器卡片的样式, 立即生效";
+"PAGES" = "页面";
+"CUSTOM_GRID_SPACING" = "使用自定义间距";
+"CUSTOM_GRID_SPACING_SUBTITLE" = "设置网格页面之间的距离";
+"CUSTOM_PAGE_SCALING" = "使用自定义缩放";
+"CUSTOM_PAGE_SCALING_SUBTITLE" = "设置页面的缩放比例";
+"IGNORE_MAPS_APP" = "忽略导航应用";
+"IGNORE_MAPS_APP_SUBTITLE" = "清除切换器时跳过导航应用";
+"CLEAR" = "清除";
+"CANCEL" = "取消";
