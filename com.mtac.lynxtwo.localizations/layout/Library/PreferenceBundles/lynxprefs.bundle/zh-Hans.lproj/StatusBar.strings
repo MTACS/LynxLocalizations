@@ -6,7 +6,7 @@
 "HIDE_STATUS_BAR_DOT" = "隐藏状态栏小圆点";
 "HIDE_STATUS_BAR_DOT_SUBTITLE" = "移除设备传感器指示器";
 "BREADCRUMBS" = "快捷返回";
-"HIDE_BREADCRUMBS" = "隐藏快捷返回";
+"HIDE_BREADCRUMBS" = "隐藏左上角快捷返回";
 "HIDE_BREADCRUMBS_SUBTITLE" = "移除返回上一个应用的按钮";
 "HIDING" = "隐藏";
 "HIDE_EVERYWHERE" = "全局隐藏";
