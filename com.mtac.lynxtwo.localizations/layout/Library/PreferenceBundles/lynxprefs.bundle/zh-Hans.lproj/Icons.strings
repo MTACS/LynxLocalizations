@@ -1,188 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>ADD_CLEAR_BADGES</key>
-	<string>添加“清理角标”选项</string>
-	<key>ADD_OUTER_SHADOW</key>
-	<string>添加外部阴影</string>
-	<key>ADD_RENAME_OPTION</key>
-	<string>添加“删除程序”选项</string>
-	<key>APPLY</key>
-	<string>应用</string>
-	<key>BADGES</key>
-	<string>角标</string>
-	<key>DOTS</key>
-	<string>指示点</string>
-	<key>DOWNLOADS</key>
-	<string>下载</string>
-	<key>Distance: %i</key>
-	<string>距离: %i</string>
-	<key>FORCE_TOUCH_OPTIONS</key>
-	<string>3D Touch选项</string>
-	<key>FORCE_TOUCH_PLATTERS</key>
-	<string>3D Touch菜单</string>
-	<key>HIDE_ACTION_IMAGES</key>
-	<string>隐藏操作图像</string>
-	<key>HIDE_BADGES</key>
-	<string>隐藏角标</string>
-	<key>HIDE_BADGE_TEXT</key>
-	<string>隐藏角标数字</string>
-	<key>HIDE_BETA_DOTS</key>
-	<string>隐藏测试程序橙点</string>
-	<key>HIDE_CANCEL_DOWNLOAD</key>
-	<string>隐藏取消下载</string>
-	<key>HIDE_CONFIGURE_STACK</key>
-	<string>隐藏配置堆栈</string>
-	<key>HIDE_CONFIGURE_WIDGET</key>
-	<string>隐藏配置小部件</string>
-	<key>HIDE_DELETE_APP</key>
-	<string>隐藏删除App</string>
-	<key>HIDE_EDIT_HOMESCREEN</key>
-	<string>隐藏编辑主屏幕</string>
-	<key>HIDE_LABELS</key>
-	<string>隐藏标签</string>
-	<key>HIDE_PAUSE_DOWNLOAD</key>
-	<string>隐藏暂停下载</string>
-	<key>HIDE_PRIORITIZE_DOWNLOAD</key>
-	<string>隐藏优先下载</string>
-	<key>HIDE_REMOVE_STACK</key>
-	<string>隐藏删除堆栈</string>
-	<key>HIDE_SEPARATORS</key>
-	<string>隐藏分隔线</string>
-	<key>HIDE_SHARE_APP</key>
-	<string>隐藏分享App</string>
-	<key>HIDE_UPDATE_DOTS</key>
-	<string>隐藏程序更新蓝点</string>
-	<key>HIDING</key>
-	<string>应用程序隐藏</string>
-	<key>HOMESCREEN</key>
-	<string>主屏幕</string>
-	<key>ICONS</key>
-	<string>图标设置</string>
-	<key>ICON_LABELS</key>
-	<string>图标标签</string>
-	<key>LABEL_COLOR</key>
-	<string>标签颜色</string>
-	<key>LAYOUT</key>
-	<string>布局</string>
-	<key>OUTER_SHADOW_SUBTITLE</key>
-	<string>可能影响性能</string>
-	<key>SELECT_HIDDEN_APPS</key>
-	<string>选择要隐藏的程序</string>
-	<key>SHADOWS</key>
-	<string>阴影</string>
-	<key>SHADOW_COLOR</key>
-	<string>阴影颜色</string>
-	<key>SHOW_BATTERY_PERCENTAGE</key>
-	<string>显示电池百分比</string>
-	<key>SHOW_LOCAL_IP</key>
-	<string>显示IP地址</string>
-	<key>SHOW_PROGRESS</key>
-	<string>显示进度 %</string>
-	<key>TRANSPARENCY</key>
-	<string>透明度</string>
-	<key>USE_AVERAGE_BACKGROUND_COLOR</key>
-	<string>使用平均背景色</string>
-	<key>USE_AVERAGE_COLOR</key>
-	<string>使用平均颜色</string>
-	<key>USE_AVERAGE_TEXT_COLOR</key>
-	<string>使用平均文字颜色</string>
-	<key>USE_CUSTOM_LABEL_COLOR</key>
-	<string>使用自定义标签颜色</string>
-	<key>USE_CUSTOM_TRANSPARENCY</key>
-	<string>使用自定义透明度</string>
-	<key>ADD_LOCK_OPTION</key>
-	<string>  </string>
-	<key>ADD_LOCK_OPTION_SUBTITLE</key>
-	<string>  </string>
-	<key>CANCEL</key>
-	<string>  </string>
-	<key>CHOOSE_CUSTOM_FONT</key>
-	<string>  </string>
-	<key>CLEAR_BADGES</key>
-	<string>  </string>
-	<key>CLOCK_ICON</key>
-	<string>  </string>
-	<key>DISABLE_CLOCK_ANIMATION</key>
-	<string>  </string>
-	<key>DISABLE_CLOCK_ANIMATION_SUBTITLE</key>
-	<string>  </string>
-	<key>DISABLE_ICON_JITTER</key>
-	<string>  </string>
-	<key>DISABLE_ICON_JITTER_SUBTITLE</key>
-	<string>  </string>
-	<key>EDITING</key>
-	<string>  </string>
-	<key>HIDE_BADGES_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_BADGE_TEXT_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_BETA_DOTS_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_ICON_AL</key>
-	<string>  </string>
-	<key>HIDE_ICON_AL_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_LABELS_AL</key>
-	<string>  </string>
-	<key>HIDE_LABELS_AL_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_LABELS_FL</key>
-	<string>  </string>
-	<key>HIDE_LABELS_FL_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_LABELS_HS</key>
-	<string>  </string>
-	<key>HIDE_LABELS_HS_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_MENU_BACKGROUND</key>
-	<string>  </string>
-	<key>HIDE_UPDATE_DOTS_SUBTITLE</key>
-	<string>  </string>
-	<key>HOMESCREEN_SUBTITLE</key>
-	<string>  </string>
-	<key>ICON_LABELS_HIDING</key>
-	<string>  </string>
-	<key>ICON_LABEL_STYLE</key>
-	<string>  </string>
-	<key>ICON_LABEL_STYLE_SUBTITLE</key>
-	<string>  </string>
-	<key>ICON_SCALE</key>
-	<string>  </string>
-	<key>LOCK_APP</key>
-	<string>  </string>
-	<key>LOCK_ICONS</key>
-	<string>  </string>
-	<key>RENAME</key>
-	<string>  </string>
-	<key>RENAME_APP</key>
-	<string>  </string>
-	<key>RESET</key>
-	<string>  </string>
-	<key>SELECT_HIDDEN_APPS_SUBTITLE</key>
-	<string>  </string>
-	<key>SHOW_APP_SIZE</key>
-	<string>  </string>
-	<key>SHOW_PROGRESS_SUBTITLE</key>
-	<string>  </string>
-	<key>SWIPE_ACTIONS</key>
-	<string>  </string>
-	<key>UNLOCK_APP</key>
-	<string>  </string>
-	<key>USE_AVERAGE_COLOR_SUBTITLE</key>
-	<string>  </string>
-	<key>USE_CUSTOM_APP_LIBRARY_SCALE</key>
-	<string>  </string>
-	<key>USE_CUSTOM_DOCK_SCALE</key>
-	<string>  </string>
-	<key>USE_CUSTOM_HOMESCREEN_SCALE</key>
-	<string>  </string>
-	<key>USE_CUSTOM_LABEL_FONT</key>
-	<string>  </string>
-	<key>USE_CUSTOM_LABEL_FONT_SUBTITLE</key>
-	<string>  </string>
-	<key>USE_CUSTOM_TRANSPARENCY_SUBTITLE</key>
-	<string>  </string>
-</dict>
-</plist>
+"FORCE_TOUCH_OPTIONS" = "3D Touch 选项";
+"HIDE_REMOVE_STACK" = "隐藏“移除堆叠”";
+"HIDE_CONFIGURE_WIDGET" = "隐藏“编辑小部件”";
+"HIDE_CONFIGURE_STACK" = "隐藏“编辑堆叠”";
+"HIDE_EDIT_HOMESCREEN" = "隐藏“编辑主屏幕”";
+"HIDE_SHARE_APP" = "隐藏“分享应用”";
+"HIDE_DELETE_APP" = "隐藏“删除应用”";
+"HIDE_PAUSE_DOWNLOAD" = "隐藏“暂停下载”";
+"HIDE_CANCEL_DOWNLOAD" = "隐藏“取消下载”";
+"HIDE_PRIORITIZE_DOWNLOAD" = "隐藏“优先下载”";
+"HIDE_SEPARATORS" = "隐藏分隔符";
+"HIDE_ACTION_IMAGES" = "隐藏动作图像";
+"FORCE_TOUCH_PLATTERS" = "3D Touch 快捷菜单";
+"SHOW_LOCAL_IP" = "显示本地IP";
+"SHOW_BATTERY_PERCENTAGE" = "显示电池百分比";
+"ADD_CLEAR_BADGES" = "添加“清除角标”";
+"ADD_RENAME_OPTION" = "添加“重命名应用”";
+"RENAME_APP" = "重命名";
+"CLEAR_BADGES" = "清除角标";
+"ICON_LABELS" = "图标标签";
+"HIDE_LABELS" = "隐藏标签";
+"USE_CUSTOM_LABEL_COLOR" = "使用自定义标签颜色";
+"LABEL_COLOR" = "标签颜色";
+"USE_AVERAGE_TEXT_COLOR" = "使用平均文字颜色";
+"USE_AVERAGE_BACKGROUND_COLOR" = "使用平均视图颜色";
+"DOTS" = "点";
+"HIDE_UPDATE_DOTS" = "隐藏更新点";
+"HIDE_UPDATE_DOTS_SUBTITLE" = "移除图标上的蓝点";
+"HIDE_BETA_DOTS" = "隐藏 Beta 点";
+"HIDE_BETA_DOTS_SUBTITLE" = "移除图标上的橙点";
+"BADGES" = "角标";
+"USE_AVERAGE_COLOR" = "使用平均颜色";
+"USE_AVERAGE_COLOR_SUBTITLE" = "将角标设置为应用图标的平均颜色";
+"HIDE_BADGES" = "隐藏角标";
+"HIDE_BADGES_SUBTITLE" = "完全移除所有角标";
+"HIDE_BADGE_TEXT" = "隐藏角标文本";
+"HIDE_BADGE_TEXT_SUBTITLE" = "从角标视图中移除文本";
+"LAYOUT" = "布局";
+"HOMESCREEN" = "主屏幕";
+"HOMESCREEN_SUBTITLE" = "编辑行和列";
+"TRANSPARENCY" = "透明度";
+"USE_CUSTOM_TRANSPARENCY" = "使用自定义透明度";
+"USE_CUSTOM_TRANSPARENCY_SUBTITLE" = "设置图标图像透明度";
+"ICONS" = "图标";
+"DOWNLOADS" = "下载";
+"SHOW_PROGRESS" = "显示下载进度";
+"SHOW_PROGRESS_SUBTITLE" = "显示下载百分比";
+"HIDING" = "应用隐藏";
+"SELECT_HIDDEN_APPS" = "隐藏的应用";
+"SELECT_HIDDEN_APPS_SUBTITLE" = "选择要隐藏的应用";
+"APPLY" = "应用";
+"CHOOSE_CUSTOM_FONT" = "选择自定义字体";
+"USE_CUSTOM_LABEL_FONT" = "使用自定义字体";
+"USE_CUSTOM_LABEL_FONT_SUBTITLE" = "设置图标标签的字体";
+"ICON_LABELS" = "图标标签";
+"ICON_LABELS_HIDING" = "图标标签隐藏";
+"HIDE_LABELS_HS" = "主屏幕上隐藏";
+"HIDE_LABELS_HS_SUBTITLE" = "在主屏幕上时移除图标标签";
+"HIDE_LABELS_AL" = "App 资源库中隐藏";
+"HIDE_LABELS_AL_SUBTITLE" = "在 App 资源库中移除图标标签";
+"HIDE_LABELS_FL" = "文件夹中隐藏";
+"HIDE_LABELS_FL_SUBTITLE" = "包括 App 资源库中的文件夹";
+"CLOCK_ICON" = "时钟图标";
+"DISABLE_CLOCK_ANIMATION" = "禁用时钟动画";
+"DISABLE_CLOCK_ANIMATION_SUBTITLE" = "停止时钟图标的指针动画";
+"ICON_SCALE" = "图标缩放";
+"USE_CUSTOM_HOMESCREEN_SCALE" = "自定义主屏幕缩放";
+"USE_CUSTOM_DOCK_SCALE= "自定义 Dock 缩放";
+"USE_CUSTOM_APP_LIBRARY_SCALE" = "自定义 App 资源库缩放";
+"EDITING" = "编辑";
+"DISABLE_ICON_JITTER" = "禁用编辑动画";
+"DISABLE_ICON_JITTER_SUBTITLE" = "停止图标晃动动画";
+"LOCK_ICONS" = "应用锁定";
+"ADD_LOCK_OPTION" = "添加“锁定/解锁”";
+"ADD_LOCK_OPTION_SUBTITLE" = "尚不支持“在应用中打开”跳转";
+"HIDE_ICON_AL" = "在 App 资源库中隐藏";
+"HIDE_ICON_AL_SUBTITLE" = "图标也将在 App 资源库中隐藏";
+"ICON_LABEL_STYLE" = "图标标签颜色";
+"ICON_LABEL_STYLE_SUBTITLE" = "滑动设置自定义颜色";
+"SWIPE_ACTIONS" = "滑动设置值和重置";
+"SHOW_APP_SIZE" = "显示应用大小";
+"HIDE_MENU_BACKGROUND" = "隐藏菜单背景";
+"CANCEL" = "取消";
+"RESET" = "重置";
+"RENAME" = "重命名";
+"LOCK_APP" = "锁定";
+"UNLOCK_APP" = "解锁";
