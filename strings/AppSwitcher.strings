@@ -1,13 +1,13 @@
 "STYLE" = "风格";
 "USE_GRID_STYLE" = "使用网格风格";
-"GRID_STYLE_SUBTITLE" = "启用4x4布局";
+"GRID_STYLE_SUBTITLE" = "启用 4x4 布局";
 "USE_PAGE_STYLE" = "使用页面风格";
 "APP_SUGGESTIONS" = "应用建议";
 "SUGGGESTION_BANNER" = "建议横幅";
 "SUGGESTION_SUBTITLE" = "隐藏底部应用建议";
 "APP_KILLING" = "应用清除";
 "PRESS_TO_KILL" = "按下清除";
-"PRESS_TO_KILL_SUBTITLE" = "3D Touch任何正在运行的应用程序以终止所有";
+"PRESS_TO_KILL_SUBTITLE" = "3D Touch 任何正在运行的应用程序以终止所有";
 "SWIPE_TO_KILL" = "滑动清除";
 "SWIPE_TO_KILL_SUBTITLE" = "向下滑动任何正在运行的应用程序以终止所有";
 "USE_CONFIRMATION" = "使用确认";
