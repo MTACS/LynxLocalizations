@@ -20,7 +20,7 @@
 "HIDE_EMPTY_RINGS_SUBTITLE" = "只显示已连接设备的充电环";
 "HIDE_SEPARATOR_LINES" = "隐藏分隔线";
 "HIDE_SEPARATOR_LINES_SUBTITLE" = "在设备视图之间移除线条（4x4）";
-"HIDE_SEPARATOR_LINES_SIRI_SUBTITLE" = "在Siri建议之间移除线条（4x4）";
+"HIDE_SEPARATOR_LINES_SIRI_SUBTITLE" = "在 Siri 建议之间移除线条（4x4）";
 "SIRI_WIDGET" = "Siri 小组件";
 "WIDGETS" = "小组件";
 "DISABLE_WIDGETS_LOCKSCREEN" = "在锁屏上禁用";
