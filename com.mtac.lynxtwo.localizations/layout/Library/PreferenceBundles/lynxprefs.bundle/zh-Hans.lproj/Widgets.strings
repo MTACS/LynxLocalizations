@@ -1,70 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>ADD_OUTER_SHADOW</key>
-	<string>添加外部阴影</string>
-	<key>BATTERIES_WIDGET</key>
-	<string>电池小部件</string>
-	<key>DISABLE_SWIPE_TO_SEARCH</key>
-	<string>禁用滑动搜索</string>
-	<key>Distance: %i</key>
-	<string>距离: %i</string>
-	<key>ELEMENTS</key>
-	<string>元素</string>
-	<key>HIDE_EMPTY_RINGS</key>
-	<string>隐藏空圆圈</string>
-	<key>HIDE_LABELS_ON_HOMESCREEN</key>
-	<string>在主屏幕上隐藏标签</string>
-	<key>HIDE_SCROLL_DOTS</key>
-	<string>隐藏滚动点</string>
-	<key>HIDE_SCROLL_DOTS_SUBTITLE</key>
-	<string>隐藏小部件右侧的点</string>
-	<key>HIDE_SEARCH_BAR</key>
-	<string>隐藏搜索栏</string>
-	<key>HIDE_SEPARATOR_LINES</key>
-	<string>隐藏分隔线(4x4)</string>
-	<key>SHADOW_COLOR</key>
-	<string>阴影颜色</string>
-	<key>SHOW_PERCENTAGE_LABELS</key>
-	<string>显示百分比标签</string>
-	<key>SIRI_WIDGET</key>
-	<string>Siri小部件</string>
-	<key>TAP_FOR_LOW_POWER_MODE</key>
-	<string>点击进入低电量模式</string>
-	<key>TODAY_WIDGET_PAGE</key>
-	<string>今日视图页面</string>
-	<key>WIDGETS</key>
-	<string>今日视图</string>
-	<key>ADD_OUTER_SHADOW_SUBTITLE</key>
-	<string>  </string>
-	<key>DISABLE_SWIPE_TO_SEARCH_SUBTITLE</key>
-	<string>  </string>
-	<key>DISABLE_WIDGETS_HOMESCREEN</key>
-	<string>  </string>
-	<key>DISABLE_WIDGETS_HOMESCREEN_SUBTITLE</key>
-	<string>  </string>
-	<key>DISABLE_WIDGETS_LOCKSCREEN</key>
-	<string>  </string>
-	<key>DISABLE_WIDGETS_LOCKSCREEN_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_EDIT_BUTTON</key>
-	<string>  </string>
-	<key>HIDE_EDIT_BUTTON_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_EMPTY_RINGS_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_LABELS_ON_HOMESCREEN_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_SEARCH_BAR_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_SEPARATOR_LINES_SIRI_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_SEPARATOR_LINES_SUBTITLE</key>
-	<string>  </string>
-	<key>SHOW_PERCENTAGE_LABELS_SUBTITLE</key>
-	<string>  </string>
-	<key>TAP_FOR_LOW_POWER_MODE_SUBTITLE</key>
-	<string>  </string>
-</dict>
-</plist>
+"TODAY_WIDGET_PAGE" = "今日小组件页面";
+"HIDE_SEARCH_BAR" = "隐藏搜索栏";
+"HIDE_SEARCH_BAR_SUBTITLE" = "同时禁用滑动手势";
+"DISABLE_SWIPE_TO_SEARCH" = "禁用滑动搜索";
+"DISABLE_SWIPE_TO_SEARCH_SUBTITLE" = "单独取消向下滑动手势";
+"ELEMENTS" = "元素";
+"HIDE_LABELS_ON_HOMESCREEN" = "隐藏主屏标签";
+"HIDE_LABELS_ON_HOMESCREEN_SUBTITLE" = "移除应用名称标签";
+"HIDE_SCROLL_DOTS" = "隐藏滚动点";
+"HIDE_SCROLL_DOTS_SUBTITLE" = "隐藏小部件右侧的点";
+"ADD_OUTER_SHADOW" = "添加外部阴影";
+"ADD_OUTER_SHADOW_SUBTITLE" = "左滑设置阴影颜色";
+"SHADOW_COLOR" = "阴影颜色";
+"BATTERIES_WIDGET" = "电池小组件";
+"TAP_FOR_LOW_POWER_MODE" = "低电量模式手势";
+"TAP_FOR_LOW_POWER_MODE_SUBTITLE" = "双击电池设备进入低电量模式";
+"SHOW_PERCENTAGE_LABELS" = "显示百分比标签";
+"SHOW_PERCENTAGE_LABELS_SUBTITLE" = "点击电池环显示百分比";
+"HIDE_EMPTY_RINGS" = "隐藏空环";
+"HIDE_EMPTY_RINGS_SUBTITLE" = "只显示已连接设备的充电环";
+"HIDE_SEPARATOR_LINES" = "隐藏分隔线";
+"HIDE_SEPARATOR_LINES_SUBTITLE" = "在设备视图之间移除线条（4x4）";
+"HIDE_SEPARATOR_LINES_SIRI_SUBTITLE" = "在 Siri 建议之间移除线条（4x4）";
+"SIRI_WIDGET" = "Siri 小组件";
+"WIDGETS" = "小组件";
+"DISABLE_WIDGETS_LOCKSCREEN" = "在锁屏上禁用";
+"DISABLE_WIDGETS_LOCKSCREEN_SUBTITLE" = "在锁屏和通知中心取消滑动";
+"DISABLE_WIDGETS_HOMESCREEN" = "在主屏上禁用";
+"DISABLE_WIDGETS_HOMESCREEN_SUBTITLE" = "取消从主屏滑动";
+"HIDE_EDIT_BUTTON" = "隐藏编辑按钮";
+"HIDE_EDIT_BUTTON_SUBTITLE" = "移除小组件视图底部的“编辑”按钮";
