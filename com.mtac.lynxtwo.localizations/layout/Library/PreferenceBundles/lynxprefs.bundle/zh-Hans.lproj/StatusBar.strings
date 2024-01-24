@@ -1,216 +1,103 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>BATTERY</key>
-	<string>电池</string>
-	<key>BREADCRUMBS</key>
-	<string>快捷返回</string>
-	<key>CAMERA_MICROPHONE</key>
-	<string>摄像头和麦克风</string>
-	<key>CARRIER</key>
-	<string>运营商</string>
-	<key>CARRIER_DATE_PLACEHOLDER</key>
-	<string>yyyy-MM-dd</string>
-	<key>CLOCK</key>
-	<string>时间</string>
-	<key>CUSTOM_TIME_FORMAT_PLACEHOLDER</key>
-	<string>h:mm a</string>
-	<key>DISABLE_CHARGING_ANIMATION</key>
-	<string>禁用充电动画</string>
-	<key>ENTER_CUSTOM_CARRIER_TEXT</key>
-	<string>输入自定义运营商文本</string>
-	<key>HIDE_AIRPLANE_MODE</key>
-	<string>隐藏飞行模式</string>
-	<key>HIDE_ALARM_BELL</key>
-	<string>隐藏闹钟图标</string>
-	<key>HIDE_BATTERY</key>
-	<string>隐藏电池</string>
-	<key>HIDE_BATTERY_BOLT</key>
-	<string>隐藏充电闪电</string>
-	<key>HIDE_BATTERY_PERCENTAGE</key>
-	<string>隐藏电池百分比</string>
-	<key>HIDE_BLUETOOTH_ICON</key>
-	<string>隐藏蓝牙图标</string>
-	<key>HIDE_BREADCRUMBS</key>
-	<string>隐藏快捷返回</string>
-	<key>HIDE_CARPLAY</key>
-	<string>隐藏CarPlay</string>
-	<key>HIDE_CARRIER_TEXT</key>
-	<string>隐藏运营商文本</string>
-	<key>HIDE_CELLULAR_SIGNAL</key>
-	<string>隐藏蜂窝网络信号</string>
-	<key>HIDE_CLOCK</key>
-	<string>隐藏时钟图标</string>
-	<key>HIDE_COLORED_VIEW</key>
-	<string>隐藏彩色视图</string>
-	<key>HIDE_DO_NOT_DISTURB_MOON</key>
-	<string>隐藏勿扰图标</string>
-	<key>HIDE_EVERYWHERE</key>
-	<string>任何地方都隐藏</string>
-	<key>HIDE_IPAD_STYLE_DATE</key>
-	<string>使用iPad风格日期</string>
-	<key>HIDE_LOCATION_ARROW</key>
-	<string>隐藏定位图标</string>
-	<key>HIDE_LOCK_ICON</key>
-	<string>隐藏锁定图标</string>
-	<key>HIDE_LOCK_SUBTITLE</key>
-	<string>仅限非刘海设备</string>
-	<key>HIDE_NOT_CHARGING</key>
-	<string>隐藏“不充电”图标</string>
-	<key>HIDE_ON_HOMESCREEN</key>
-	<string>仅在主屏幕隐藏</string>
-	<key>HIDE_ON_LOCKSCREEN</key>
-	<string>仅在锁屏隐藏</string>
-	<key>HIDE_PULSING_VIEW</key>
-	<string>隐藏充电视图</string>
-	<key>HIDE_ROTATION_LOCK</key>
-	<string>隐藏旋转锁定</string>
-	<key>HIDE_STATUS_BAR_DOT</key>
-	<string>隐藏状态栏点</string>
-	<key>HIDE_VPN</key>
-	<string>隐藏VPN图标</string>
-	<key>HIDE_WIFI_SIGNAL</key>
-	<string>隐藏WiFi图标</string>
-	<key>HIDING</key>
-	<string>隐藏</string>
-	<key>HOTSPOT_RECORDING</key>
-	<string>热点和录屏</string>
-	<key>LOCKSCREEN</key>
-	<string>锁屏设置</string>
-	<key>NO_SERVICE_TEXT</key>
-	<string>覆盖“无服务”文本</string>
-	<key>NO_SIM_TEXT</key>
-	<string>覆盖“无SIM卡”文本</string>
-	<key>SHOW_PERCENTAGE_INSIDE</key>
-	<string>显示内部百分比</string>
-	<key>STATUS_BAR</key>
-	<string>状态栏项</string>
-	<key>STATUS_ITEMS</key>
-	<string>状态栏项目</string>
-	<key>STATUS_PILL_WARNING</key>
-	<string>启用“隐藏彩色视图”会影响iPhone X或更新版本上的定位服务、热点和屏幕录制。</string>
-	<key>STYLE</key>
-	<string>状态栏风格</string>
-	<key>Show Percentage Inside</key>
-	<string>显示内部百分比</string>
-	<key>USE_CUSTOM_CARRIER</key>
-	<string>使用自定义运营商</string>
-	<key>USE_CUSTOM_TIME_FORMAT</key>
-	<string>自定义时间格式</string>
-	<key>USE_DATE_AS_CARRIER</key>
-	<string>用日期替换运营商</string>
-	<key>USE_IPAD_STYLE</key>
-	<string>启用iPad状态栏</string>
-	<key>USE_WIFI_ADDRESS</key>
-	<string>使用WiFi地址</string>
-	<key>VIEW_MORE_DATE_FORMATS</key>
-	<string>查看更多日期格式</string>
-	<key>AUDIO_DEVICES</key>
-	<string>  </string>
-	<key>CARRIER_TEXT</key>
-	<string>  </string>
-	<key>CARRIER_TEXT_SUBTITLE</key>
-	<string>  </string>
-	<key>COLORS</key>
-	<string>  </string>
-	<key>CUSTOM_OPERATOR</key>
-	<string>  </string>
-	<key>DATA_TYPE</key>
-	<string>  </string>
-	<key>DATA_TYPE_SUBTITLE</key>
-	<string>  </string>
-	<key>DATE_STRING</key>
-	<string>  </string>
-	<key>DEFAULT</key>
-	<string>  </string>
-	<key>FAKE_SERVICE</key>
-	<string>  </string>
-	<key>FAKE_SERVICE_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_ACTIVITY_ITEM</key>
-	<string>  </string>
-	<key>HIDE_BREADCRUMBS_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_COLORED_VIEW_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_EVERYWHERE_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_NETWORKS_SPEED_SB</key>
-	<string>  </string>
-	<key>HIDE_NETWORKS_SPEED_SB_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_NOTCH</key>
-	<string>  </string>
-	<key>HIDE_NOTCH_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_ON_HOMESCREEN_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_ON_LOCKSCREEN_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_PULSING_VIEW_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_STATUS_BAR_DOT_SUBTITLE</key>
-	<string>  </string>
-	<key>LOW_POWER_TAP</key>
-	<string>  </string>
-	<key>MODERN_BATTERY</key>
-	<string>  </string>
-	<key>MODERN_BATTERY_SUBTITLE</key>
-	<string>  </string>
-	<key>NETWORK_SPEED</key>
-	<string>  </string>
-	<key>NOTCH</key>
-	<string>  </string>
-	<key>SELECT_DISABLED_APPS</key>
-	<string>  </string>
-	<key>SELECT_DISABLED_APPS_SUBTITLE</key>
-	<string>  </string>
-	<key>SHOW_AUDIO_DEVICE</key>
-	<string>  </string>
-	<key>SHOW_AUDIO_DEVICE_SUBTITLE</key>
-	<string>  </string>
-	<key>SHOW_CELL_RSSI</key>
-	<string>  </string>
-	<key>SHOW_CELL_RSSI_SUBTITLE</key>
-	<string>  </string>
-	<key>SHOW_NETWORK_SPEED</key>
-	<string>  </string>
-	<key>SHOW_NETWORK_SPEED_SUBTITLE</key>
-	<string>  </string>
-	<key>SHOW_RSSI</key>
-	<string>  </string>
-	<key>SHOW_RSSI_SUBTITLE</key>
-	<string>  </string>
-	<key>SIGNAL_STRENGTH</key>
-	<string>  </string>
-	<key>SIGNAL_STRENGTH_AMOUNT</key>
-	<string>  </string>
-	<key>SIGNAL_STRENGTH_SUBTITLE</key>
-	<string>  </string>
-	<key>STATUS_BAR_DATE_FORMAT</key>
-	<string>  </string>
-	<key>TINT</key>
-	<string>  </string>
-	<key>USE_CUSTOM_TIME_FORMAT_SUBTITLE</key>
-	<string>  </string>
-	<key>USE_DATE_UNDER_TIME</key>
-	<string>  </string>
-	<key>USE_DATE_UNDER_TIME_SUBTITLE</key>
-	<string>  </string>
-	<key>USE_IPHONEX_STYLE</key>
-	<string>  </string>
-	<key>USE_STBAR_COLOR</key>
-	<string>  </string>
-	<key>USE_STBAR_COLOR_SUBTITLE</key>
-	<string>  </string>
-	<key>VERTICAL_OFFSET</key>
-	<string>  </string>
-	<key>VERTICAL_OFFSET_SUBTITLE</key>
-	<string>  </string>
-	<key>WIFI</key>
-	<string>  </string>
-	<key>WIFI_ADDRESS</key>
-	<string>  </string>
-</dict>
-</plist>
+"STYLE" = "风格";
+"USE_IPAD_STYLE" = "使用 iPad 风格";
+"USE_IPHONEX_STYLE" = "使用刘海屏风格";
+"HIDE_IPAD_STYLE_DATE" = "隐藏 iPad 风格日期";
+"CAMERA_MICROPHONE" = "相机和麦克风";
+"HIDE_STATUS_BAR_DOT" = "隐藏状态栏小圆点";
+"HIDE_STATUS_BAR_DOT_SUBTITLE" = "移除设备传感器指示器";
+"BREADCRUMBS" = "快捷返回";
+"HIDE_BREADCRUMBS" = "隐藏快捷返回";
+"HIDE_BREADCRUMBS_SUBTITLE" = "移除返回上一个应用的按钮";
+"HIDING" = "隐藏";
+"HIDE_EVERYWHERE" = "全局隐藏";
+"HIDE_EVERYWHERE_SUBTITLE" = "永不显示状态栏";
+"HIDE_ON_HOMESCREEN" = "主屏隐藏";
+"HIDE_ON_HOMESCREEN_SUBTITLE" = "在主屏禁用";
+"HIDE_ON_LOCKSCREEN" = "锁屏隐藏";
+"HIDE_ON_LOCKSCREEN_SUBTITLE" = "在锁屏和通知中心禁用";
+"BATTERY" = "电池";
+"MODERN_BATTERY" = "使用 iOS 16 样式";
+"MODERN_BATTERY_SUBTITLE" = "显示百分比和充电颜色";
+"HIDE_BATTERY" = "隐藏电池";
+"HIDE_BATTERY_BOLT" = "隐藏电池闪电";
+"HIDE_BATTERY_PERCENTAGE" = "隐藏电池百分比";
+"SHOW_PERCENTAGE_INSIDE" = "在内部显示百分比";
+"DISABLE_CHARGING_ANIMATION" = "禁用充电动画";
+"STATUS_ITEMS" = "状态项目";
+"HIDE_WIFI_SIGNAL" = "隐藏 WiFi 信号";
+"HIDE_CELLULAR_SIGNAL" = "隐藏蜂窝信号";
+"HIDE_CLOCK" = "隐藏时钟";
+"HIDE_CARRIER_TEXT" = "隐藏运营商文字";
+"HIDE_LOCATION_ARROW" = "隐藏定位箭头";
+"HIDE_ROTATION_LOCK" = "隐藏旋转锁定";
+"HIDE_DO_NOT_DISTURB_MOON" = "隐藏勿扰模式";
+"HIDE_BLUETOOTH_ICON" = "隐藏蓝牙图标";
+"HIDE_ALARM_BELL" = "隐藏闹钟铃声";
+"HIDE_AIRPLANE_MODE" = "隐藏飞行模式";
+"HIDE_VPN" = "隐藏 VPN";
+"HIDE_CARPLAY" = "隐藏 CarPlay";
+"HIDE_NOT_CHARGING" = "隐藏“未充电”图标";
+"LOCKSCREEN" = "锁屏";
+"HIDE_LOCK_ICON" = "隐藏锁定图标";
+"HIDE_LOCK_SUBTITLE" = "仅适用于非刘海屏设备";
+"HOTSPOT_RECORDING" = "热点和录制";
+"HIDE_COLORED_VIEW" = "移除背景颜色";
+"HIDE_COLORED_VIEW_SUBTITLE" = "隐藏蓝色或绿色气泡";
+"HIDE_PULSING_VIEW" = "隐藏脉动视图";
+"HIDE_PULSING_VIEW_SUBTITLE" = "移除气泡动画层";
+"CARRIER" = "运营商";
+"USE_WIFI_ADDRESS" = "使用 WiFi 地址";
+"USE_CUSTOM_CARRIER" = "使用自定义运营商";
+"NO_SIM_TEXT" = "替换“无SIM卡”文字";
+"NO_SERVICE_TEXT" = "替换“无服务”文字";
+"ENTER_CUSTOM_CARRIER_TEXT" = "输入自定义运营商文字";
+"USE_DATE_AS_CARRIER" = "使用日期作为运营商";
+"CARRIER_DATE_PLACEHOLDER" = "输入日期格式：（例如 MM/dd/yy）";
+"VIEW_MORE_DATE_FORMATS" = "查看更多日期格式";
+"CLOCK" = "时钟";
+"USE_CUSTOM_TIME_FORMAT" = "自定义时间格式";
+"USE_CUSTOM_TIME_FORMAT_SUBTITLE" = "设置下面的时间格式";
+"CUSTOM_TIME_FORMAT_PLACEHOLDER" = "h:mm:ss a";
+"STATUS_BAR" = "状态栏";
+"COLORS" = "项目颜色";
+"USE_STBAR_COLOR" = "覆盖颜色";
+"USE_STBAR_COLOR_SUBTITLE" = "向左滑动设置颜色";
+"TINT" = "着色";
+"USE_DATE_UNDER_TIME" = "时间下方显示日期";
+"USE_DATE_UNDER_TIME_SUBTITLE" = "在时钟下显示当前日期";
+"AUDIO_DEVICES" = "音频设备";
+"SHOW_AUDIO_DEVICE" = "显示音频设备";
+"SHOW_AUDIO_DEVICE_SUBTITLE" = "在状态栏中添加已连接设备图标";
+"CARRIER_TEXT" = "运营商文字";
+"CARRIER_TEXT_SUBTITLE" = "显示自定义运营商文字";
+"DEFAULT" = "默认";
+"WIFI_ADDRESS" = "WiFi 地址";
+"DATE_STRING"= "日期";
+"CUSTOM_OPERATOR" = "自定义文字";
+"STATUS_BAR_DATE_FORMAT" = "输入日期格式：（例如 MM/dd/yy）";
+"HIDE_ACTIVITY_ITEM" = "隐藏活动指示器";
+"LOW_POWER_TAP" = "点击开启低电量模式";
+"DATA_TYPE" = "数据类型";
+"DATA_TYPE_SUBTITLE" = "覆盖蜂窝数据类型";
+"SIGNAL_STRENGTH" = "自定义信号强度";
+"SIGNAL_STRENGTH_SUBTITLE" = "覆盖信号强度条数";
+"SIGNAL_STRENGTH_AMOUNT" = "信号条数";
+"FAKE_SERVICE" = "虚假蜂窝服务";
+"FAKE_SERVICE_SUBTITLE" = "当 SIM 卡不存在时显示服务";
+"WIFI" = "WiFi";
+"SHOW_RSSI" = "显示 WiFi 信号强度";
+"SHOW_RSSI_SUBTITLE" = "显示 WiFi 信号强度";
+"SHOW_CELL_RSSI" = "显示蜂窝信号强度";
+"SHOW_CELL_RSSI_SUBTITLE" = "显示数字信号强度";
+"NETWORK_SPEED" = "网络速度";
+"SHOW_NETWORK_SPEED" = "显示网络速度";
+"SHOW_NETWORK_SPEED_SUBTITLE" = "在状态栏上显示上传和下载速度";
+"SELECT_DISABLED_APPS" = "选择禁用的应用";
+"SELECT_DISABLED_APPS_SUBTITLE" = "选择何时显示网络速度";
+"HIDE_NETWORKS_SPEED_SB" = "在主屏隐藏";
+"HIDE_NETWORKS_SPEED_SB_SUBTITLE" = "在主屏上移除速度标签";
+"VERTICAL_OFFSET" = "垂直偏移量";
+"VERTICAL_OFFSET_SUBTITLE" = "调整速度标签的高度";
+"NOTCH" = "刘海/灵动岛";
+"HIDE_NOTCH" = "隐藏刘海/灵动岛";
+"HIDE_NOTCH_SUBTITLE" = "添加视图隐藏刘海/灵动岛";
