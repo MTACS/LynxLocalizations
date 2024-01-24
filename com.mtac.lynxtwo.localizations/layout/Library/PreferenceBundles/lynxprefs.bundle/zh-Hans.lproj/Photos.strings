@@ -1,44 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>PHOTOS</key>
-	<string>照片程序</string>
-	<key>SHOW_IMAGE_METADATA</key>
-	<string>显示图片数据</string>
-	<key>SHOW_IMAGE_METADATA_SUBTITLE</key>
-	<string>显示大小、日期和尺寸</string>
-	<key>SKIP_DELETION_CONFIRMATION</key>
-	<string>跳过删除确认</string>
-	<key>USE_INFINITE_ZOOM</key>
-	<string>使用无限缩放</string>
-	<key>ALBUMS</key>
-	<string>  </string>
-	<key>AUTO_REPLAY</key>
-	<string>  </string>
-	<key>AUTO_REPLAY_SUBTITLE</key>
-	<string>  </string>
-	<key>DELETE_PERMANENTLY</key>
-	<string>  </string>
-	<key>DELETE_PERMANENTLY_SUBTITLE</key>
-	<string>  </string>
-	<key>DELETION</key>
-	<string>  </string>
-	<key>HIDE_SCRUBBER</key>
-	<string>  </string>
-	<key>HIDE_SCRUBBER_SUBTITLE</key>
-	<string>  </string>
-	<key>LOCK_HIDDEN_ALBUM</key>
-	<string>  </string>
-	<key>LOCK_HIDDEN_ALBUM_SUBTITLE</key>
-	<string>  </string>
-	<key>PHOTO_PREVIEW</key>
-	<string>  </string>
-	<key>SKIP_DELETION_CONFIRMATION_SUBTITLE</key>
-	<string>  </string>
-	<key>USE_INFINITE_ZOOM_SUBTITLE</key>
-	<string>  </string>
-	<key>VIDEOS</key>
-	<string>  </string>
-</dict>
-</plist>
+"PHOTOS" = "照片";
+"SKIP_DELETION_CONFIRMATION" = "跳过确认";
+"SKIP_DELETION_CONFIRMATION_SUBTITLE" = "自动将媒体放入回收站";
+"USE_INFINITE_ZOOM" = "增加缩放限制";
+"USE_INFINITE_ZOOM_SUBTITLE" = "允许对媒体进行无限缩放";
+"HIDE_SCRUBBER" = "隐藏媒体滑块";
+"HIDE_SCRUBBER_SUBTITLE" = "移除照片/视频下的预览缩略图";
+"PHOTO_PREVIEW" = "照片预览";
+"DELETION" = "删除";
+"ALBUMS" = "相册";
+"LOCK_HIDDEN_ALBUM" = "锁定隐藏相册";
+"LOCK_HIDDEN_ALBUM_SUBTITLE" = "用 Face ID 保护隐藏相册";
+"DELETE_PERMANENTLY" = "永久删除";
+"DELETE_PERMANENTLY_SUBTITLE" = "跳过将媒体放入回收站并永久移除";
+"VIDEOS" = "视频";
+"AUTO_REPLAY" = "循环播放视频";
+"AUTO_REPLAY_SUBTITLE" = "自动从开始重新播放视频";
