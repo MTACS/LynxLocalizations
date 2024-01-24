@@ -3,9 +3,9 @@
 "RESET_SETTINGS" = "重置设置";
 "RESET_SETTINGS_SUBTITLE" = "删除所有数据并注销";
 "BUG_REPORT" = "报告错误";
-"BUG_REPORT_SUBTITLE" = "发送有关插件故障的通知";
+"BUG_REPORT_SUBTITLE" = "发送有关插件异常的通知";
 "FEATURE_REQUEST" = "功能请求";
-"FEATURE_REQUEST_SUBTITLE" = "请求将功能添加到Lynx中";
+"FEATURE_REQUEST_SUBTITLE" = "请求将功能添加到 Lynx 中";
 "EXPORT_SETTINGS" = "导出设置";
 "EXPORT_SETTINGS_SUBTITLE" = "压缩并保存设置数据以供导入或共享";
 "IMPORT_SETTINGS" = "导入设置";
@@ -17,11 +17,11 @@
 "OKAY" = "确定";
 "RESET_SETTINGS" = "重置设置";
 "TRANSLUCENT_SETTINGS" = "使用半透明设置";
-"TRANSLUCENT_SETTINGS_SUBTITLE" = "以模糊的背景显示所有Lynx设置视图";
+"TRANSLUCENT_SETTINGS_SUBTITLE" = "以模糊的背景显示所有 Lynx 设置视图";
 "OPEN_LOCALIZATIONS" = "本地化";
-"OPEN_LOCALIZATIONS_SUBTITLE" = "将Lynx翻译成您的语言";
-"GITHUB" = "在GitHub上查看";
-"HAVOC" = "在Havoc上查看";
+"OPEN_LOCALIZATIONS_SUBTITLE" = "将 Lynx 翻译成您的语言";
+"GITHUB" = "在 GitHub 上查看";
+"HAVOC" = "在 Havoc 上查看";
 "VERSION" = "版本";
 "IMPORT_ERROR" = "尝试导入设置时发生错误。";
 "EXPORT_ERROR" = "尝试导出设置时发生错误。";
