@@ -1,80 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>APPLE_ID</key>
-	<string>苹果账号</string>
-	<key>CHEVRONS</key>
-	<string>“&gt;”图标</string>
-	<key>FIRST_NAME</key>
-	<string>名字</string>
-	<key>HIDE_CELL_ICONS</key>
-	<string>隐藏选项前面图标</string>
-	<key>HIDE_DISCLOSURE_ARROW</key>
-	<string>隐藏显示箭头“&gt;”</string>
-	<key>HIDE_EXPOSURE_NOTIFICATIONS</key>
-	<string>隐藏曝露通知</string>
-	<key>HIDE_THIRD_PARTY</key>
-	<string>隐藏第三方应用程序</string>
-	<key>ICONS</key>
-	<string>图标</string>
-	<key>LAST_NAME</key>
-	<string>姓氏</string>
-	<key>NETWORK</key>
-	<string>网络</string>
-	<key>SECTIONS</key>
-	<string>栏目</string>
-	<key>SETTINGS</key>
-	<string>系统设置</string>
-	<key>USE_CUSTOM_FIRST_NAME</key>
-	<string>自定义名字</string>
-	<key>USE_CUSTOM_LAST_NAME</key>
-	<string>自定义姓氏</string>
-	<key>USE_ROUND_CELL_ICONS</key>
-	<string>使用圆形图标</string>
-	<key>WIFI_SECTION</key>
-	<string>WiFi栏目</string>
-	<key>WIFI_SECTION_SUBTITLE</key>
-	<string>无线当前IP地址</string>
-	<key>BACKGROUND</key>
-	<string>  </string>
-	<key>ETHERNET_SECTION</key>
-	<string>  </string>
-	<key>ETHERNET_SECTION_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_EXPOSURE_NOTIFICATIONS_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_FAMILY_SPECIFIER</key>
-	<string>  </string>
-	<key>HIDE_FAMILY_SPECIFIER_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_FOLLOWUP</key>
-	<string>  </string>
-	<key>HIDE_FOLLOWUP_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_SEARCH_BAR</key>
-	<string>  </string>
-	<key>HIDE_SEARCH_BAR_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_THIRD_PARTY_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_VPN</key>
-	<string>  </string>
-	<key>HIDE_VPN_SUBTITLE</key>
-	<string>  </string>
-	<key>SEARCH_BARS</key>
-	<string>  </string>
-	<key>SHOW_DATA_USAGE</key>
-	<string>  </string>
-	<key>SHOW_DATA_USAGE_SUBTITLE</key>
-	<string>  </string>
-	<key>USE_MODERN_ACCOUNT</key>
-	<string>  </string>
-	<key>USE_MODERN_ACCOUNT_SUBTITLE</key>
-	<string>  </string>
-	<key>USE_TRANSLUCENT_BACKGROUND</key>
-	<string>  </string>
-	<key>USE_TRANSLUCENT_BACKGROUND_SUBTITLE</key>
-	<string>  </string>
-</dict>
-</plist>
+"APPLE_ID" = "Apple ID 单元格";
+"USE_CUSTOM_FIRST_NAME" = "自定义名字";
+"FIRST_NAME" = "输入空格以完全隐藏";
+"USE_CUSTOM_LAST_NAME" = "自定义姓氏";
+"LAST_NAME" = "输入空格以完全隐藏";
+"ICONS" = "图标";
+"HIDE_CELL_ICONS" = "隐藏单元格图标";
+"USE_ROUND_CELL_ICONS" = "使用圆形单元格图标";
+"CHEVRONS" = "矢车菊";
+"HIDE_DISCLOSURE_ARROW" = "隐藏展开箭头";
+"SECTIONS" = "部分";
+"HIDE_THIRD_PARTY" = "隐藏第三方应用";
+"HIDE_THIRD_PARTY_SUBTITLE" = "移除 App Store 应用的包";
+"HIDE_EXPOSURE_NOTIFICATIONS" = "隐藏接触通知";
+"HIDE_EXPOSURE_NOTIFICATIONS_SUBTITLE" = "禁用 COVID-19 部分";
+"NETWORK" = "网络";
+"WIFI_SECTION" = "显示 WiFi 地址";
+"WIFI_SECTION_SUBTITLE" = "显示当前 IP 地址";
+"SETTINGS" = "设置";
+"ETHERNET_SECTION" = "以太网部分";
+"ETHERNET_SECTION_SUBTITLE" = "显示以太网部分";
+"HIDE_FOLLOWUP" = "隐藏后续事项";
+"HIDE_FOLLOWUP_SUBTITLE" = "iOS 更新，Apple ID，iCloud";
+"HIDE_FAMILY_SPECIFIER" = "隐藏家庭单元格";
+"HIDE_FAMILY_SPECIFIER_SUBTITLE" = "从 Apple ID 部分下移除家庭单元格";
+"USE_MODERN_ACCOUNT" = "使用现代账户";
+"USE_MODERN_ACCOUNT_SUBTITLE" = "用头像按钮替换账户单元格";
+"SEARCH_BARS" = "搜索栏";
+"HIDE_SEARCH_BAR" = "隐藏搜索栏";
+"HIDE_SEARCH_BAR_SUBTITLE" = "移除主设置页面的搜索栏";
+"SHOW_DATA_USAGE" = "显示数据使用情况";
+"SHOW_DATA_USAGE_SUBTITLE" = "显示当前期间使用的移动数据量";
+"BACKGROUND" = "背景";
+"USE_TRANSLUCENT_BACKGROUND" = "半透明设置";
+"USE_TRANSLUCENT_BACKGROUND_SUBTITLE" = "在所有设置页面后面显示壁纸";
+"HIDE_VPN" = "隐藏 VPN";
+"HIDE_VPN_SUBTITLE" = "从主设置页面中移除 VPN 单元格。仍可通过“常规”->“VPN 和设备管理”访问";
