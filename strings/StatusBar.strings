@@ -52,7 +52,7 @@
 "NO_SERVICE_TEXT" = "替换“无服务”文字";
 "ENTER_CUSTOM_CARRIER_TEXT" = "输入自定义运营商文字";
 "USE_DATE_AS_CARRIER" = "使用日期作为运营商";
-"CARRIER_DATE_PLACEHOLDER" = "输入日期格式：（例如MM/dd/yy）";
+"CARRIER_DATE_PLACEHOLDER" = "输入日期格式：（例如 MM/dd/yy）";
 "VIEW_MORE_DATE_FORMATS" = "查看更多日期格式";
 "CLOCK" = "时钟";
 "USE_CUSTOM_TIME_FORMAT" = "自定义时间格式";
@@ -74,7 +74,7 @@
 "WIFI_ADDRESS" = "WiFi 地址";
 "DATE_STRING"= "日期";
 "CUSTOM_OPERATOR" = "自定义文字";
-"STATUS_BAR_DATE_FORMAT" = "输入日期格式：（例如MM/dd/yy）";
+"STATUS_BAR_DATE_FORMAT" = "输入日期格式：（例如 MM/dd/yy）";
 "HIDE_ACTIVITY_ITEM" = "隐藏活动指示器";
 "LOW_POWER_TAP" = "点击开启低电量模式";
 "DATA_TYPE" = "数据类型";
@@ -98,6 +98,6 @@
 "HIDE_NETWORKS_SPEED_SB_SUBTITLE" = "在主屏上移除速度标签";
 "VERTICAL_OFFSET" = "垂直偏移量";
 "VERTICAL_OFFSET_SUBTITLE" = "调整速度标签的高度";
-"NOTCH" = "刘海/动态岛屿";
+"NOTCH" = "刘海/灵动岛";
 "HIDE_NOTCH" = "隐藏刘海/灵动岛";
 "HIDE_NOTCH_SUBTITLE" = "添加视图隐藏刘海/灵动岛";
