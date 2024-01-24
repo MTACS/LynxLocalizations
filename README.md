@@ -15,7 +15,7 @@ Replace the lowercase string with your translation. [Open a new issue](https://g
 
 
 #
-_Open .strings files as plain text file if possible. If you are using a Mac, open the files in TextEdit as Xcode may save the file in binary format. Please do not fork and create pull requests for this repository, use issues instead. It is much easier to maintain and keep translations up to date_
+_Open .strings files as plain text file if possible. If you are using a Mac, open the files in TextEdit as Xcode may save the file in binary format. 
 #
 
 ### Examples
