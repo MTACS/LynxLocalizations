@@ -1,25 +1,30 @@
-"HOMESCREEN_EDITING" = "主屏幕编辑";
-"QUICK_SETTINGS" = "快速设置";
-"QUICK_SETTINGS_SUBTITLE" = "点击“添加小部件”按钮以获取更多选项";
-"HOMESCREEN" = "主屏幕";
-"HS_ROWS_SUBTITLE" = "默认: 6";
-"CUSTOM_HOMESCREEN_ROWS" = "自定义主屏幕行数";
-"CUSTOM_HOMESCREEN_COLUMNS" = "自定义主屏幕列数";
-"CUSTOM_HOMESCREEN_COLUMNS_SUBTITLE" = "默认: 4";
-"FOLDERS" = "文件夹";
-"CUSTOM_FOLDER_ROWS" = "自定义文件夹行数";
-"CUSTOM_FOLDER_ROWS_SUBTITLE" = "默认: 3";
-"CUSTOM_FOLDER_COLUMNS" = "自定义文件夹列数";
-"CUSTOM_FOLDER_COLUMNS_SUBTITLE" = "默认: 3";
-"DOCK" = "底部栏";
-"CUSTOM_DOCK_ICONS" = "自定义底部栏图标";
-"CUSTOM_DOCK_ICONS_SUBTITLE" = "默认: 4";
-"APPLY" = "应用";
-"HOMESCREEN" = "主屏幕";
-"HS_LAYOUT" = "使用自定义布局";
-"HS_LAYOUT_SUBTITLE" = "设置行数和列数";
-"SWIPE_ACTIONS" = "向左滑动设置数值和重置";
-"RESET_ALL" = "重置布局";
-"RESET_ALL_SUBTITLE" = "恢复默认的图标布局";
-"ADD_WIDGET" = "添加小部件";
-"EDIT_LAYOUT" = "编辑布局";
+"HOMESCREEN_EDITING" = "Homescreen editing";
+"QUICK_SETTINGS" = "Quick Settings";
+"QUICK_SETTINGS_SUBTITLE" = "Tap on 'Add Widget' button for more";
+"HOMESCREEN" = "Homescreen";
+"HS_ROWS_SUBTITLE" = "Default: 6";
+"CUSTOM_HOMESCREEN_ROWS" = "Custom Homescreen Rows";
+"CUSTOM_HOMESCREEN_COLUMNS" = "Custom Homescreen Columns";
+"CUSTOM_HOMESCREEN_COLUMNS_SUBTITLE" = "Default: 4";
+"FOLDERS" = "Folders";
+"CUSTOM_FOLDER_ROWS" = "Custom Folder Rows";
+"CUSTOM_FOLDER_ROWS_SUBTITLE" = "Default: 3";
+"CUSTOM_FOLDER_COLUMNS" = "Custom Folder Columns";
+"CUSTOM_FOLDER_COLUMNS_SUBTITLE" = "Default: 3";
+"DOCK" = "Dock";
+"CUSTOM_DOCK_ICONS" = "Custom Dock Icons";
+"CUSTOM_DOCK_ICONS_SUBTITLE" = "Default: 4";
+"APPLY" = "Apply";
+"HOMESCREEN" = "Homescreen";
+"HS_LAYOUT" = "Use Custom Layout";
+"HS_LAYOUT_SUBTITLE" = "Set Rows & Columns";
+"SWIPE_ACTIONS" = "Swipe to set value & reset";
+"RESET_ALL" = "Reset Layout";
+"RESET_ALL_SUBTITLE" = "Restore stock icon layout";
+"ADD_WIDGET" = "Add Widget";
+"EDIT_LAYOUT" = "Edit Layout";
+
+
+
+
+
