@@ -98,11 +98,10 @@
 "DISABLE_SOUND_SUBTITLE" = "停止播放快门声音";
 "DRAG_DROP" = "拖放";
 "ENABLE_EVERYWHERE" = "全局启用";
-
 "ENABLE_EVERYWHERE_SUBTITLE" = "在所有应用中拖放";
 "SYSTEM_WIDE" = "全局系统";
 "KNOB_TINT" = "旋钮颜色";
-"KNOB_TINT_SUBTITLE" = "开关的外观颜色。向左滑动以设置颜色";
+"KNOB_TINT_SUBTITLE" = "开关的外观颜色，向左滑动以设置颜色";
 "HIDE_IN_CC" = "控制中心";
 "DISABLE_CC_ONLY" = "在控制中心中禁用";
 "USE_FLOATING_DOCK" = "浮动 Dock";
@@ -149,7 +148,7 @@
 "DISABLE_RECENTS" = "禁用最近使用的应用";
 "DISABLE_RECENTS_SUBTITLE" = "隐藏最近打开的应用";
 "DISABLE_DOCK_LIBRARY" = "禁用应用库";
-"DISABLE_DOCK_LIBRARY_SUBTITLE" = "隐藏 Dock App资源库图标";
+"DISABLE_DOCK_LIBRARY_SUBTITLE" = "隐藏 Dock App 资源库图标";
 "APP_BLUR" = "应用模糊";
 "SELECT_BLURRED_APPS" = "模糊的应用";
 "SELECT_BLURRED_APPS_SUBTITLE" = "在应用后显示模糊的壁纸";
