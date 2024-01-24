@@ -1,412 +1,194 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>ALERTS</key>
-	<string>警报</string>
-	<key>ALERT_BANNERS</key>
-	<string>警报横幅(粘贴和设备)</string>
-	<key>ALERT_SUBTITLE</key>
-	<string>隐藏按钮之间的分隔符</string>
-	<key>ALL_VIEWS</key>
-	<string>所有视图</string>
-	<key>APP_INTERFACE_STYLE</key>
-	<string>应用界面风格</string>
-	<key>APP_TINT</key>
-	<string>应用颜色</string>
-	<key>BACKGROUND</key>
-	<string>背景</string>
-	<key>BADGES</key>
-	<string>角标</string>
-	<key>BADGE_TINT</key>
-	<string>角标颜色</string>
-	<key>BOTTOM_SHADOW_SUBTITLE</key>
-	<string>隐藏底部阴影视图</string>
-	<key>DISABLE_CHARGING_HAPTICS</key>
-	<string>禁用充电振动</string>
-	<key>DISABLE_GLOBALLY</key>
-	<string>全局禁用</string>
-	<key>DISABLE_LS_ONLY</key>
-	<string>仅在锁屏上禁用</string>
-	<key>DISABLE_ROTATION</key>
-	<string>禁用旋转</string>
-	<key>DISABLE_SOUND</key>
-	<string>禁用声音</string>
-	<key>DIVIDER</key>
-	<string>分隔器</string>
-	<key>DOCK</key>
-	<string>底栏Dock</string>
-	<key>DOUBLE_TAP_LOCK</key>
-	<string>双击锁屏</string>
-	<key>DOUBLE_TAP_LOCK_SUBTITLE</key>
-	<string>点击空白处锁定</string>
-	<key>DRAG_DROP</key>
-	<string>拖放</string>
-	<key>ENABLE_EVERYWHERE</key>
-	<string>任何地方都启用</string>
-	<key>FOLDERS</key>
-	<string>文件夹</string>
-	<key>HAPTIC_KEYS</key>
-	<string>使用按键振动</string>
-	<key>HIDE_ALERT_BANNERS</key>
-	<string>隐藏警报横幅</string>
-	<key>HIDE_BACKGROUND</key>
-	<string>隐藏背景</string>
-	<key>HIDE_BLURRED_BACKGROUND</key>
-	<string>隐藏模糊背景</string>
-	<key>HIDE_COMPLETELY</key>
-	<string>完全隐藏</string>
-	<key>HIDE_DONE</key>
-	<string>隐藏“完成”按钮</string>
-	<key>HIDE_DOTS</key>
-	<string>隐藏翻页点</string>
-	<key>HIDE_EVERYWHERE</key>
-	<string>任何地方都隐藏</string>
-	<key>HIDE_LABELS</key>
-	<string>隐藏标签</string>
-	<key>HIDE_ON_LOCKSCREEN</key>
-	<string>仅在锁屏隐藏</string>
-	<key>HIDE_PREVIEW</key>
-	<string>隐藏预览</string>
-	<key>HIDE_SCROLL_BARS</key>
-	<string>隐藏滚动条</string>
-	<key>HIDE_SEPARATORS</key>
-	<string>隐藏分隔符</string>
-	<key>HIDE_WIDGET</key>
-	<string>隐藏“添加小部件”按钮</string>
-	<key>HOMESCREEN</key>
-	<string>主屏幕</string>
-	<key>HOME_BAR</key>
-	<string>手势横条</string>
-	<key>IPAD_DIVIDER</key>
-	<string>隐藏iPadOS Dock上的分隔符</string>
-	<key>KEYBOARD</key>
-	<string>键盘</string>
-	<key>KNOB_TINT</key>
-	<string>拨动圆点颜色</string>
-	<key>MODERN_SUBTITLE</key>
-	<string>使用表格视图</string>
-	<key>NAVIGATION_BARS</key>
-	<string>导航栏</string>
-	<key>ON_COLOR</key>
-	<string>使用颜色自定义</string>
-	<key>OPEN_FOLDER_BG</key>
-	<string>隐藏打开的文件夹背景</string>
-	<key>OPEN_FOLDER_ICON_BG</key>
-	<string>隐藏文件夹图标背景</string>
-	<key>OPEN_FOLDER_TITLE</key>
-	<string>隐藏打开的文件夹标题</string>
-	<key>PAGES</key>
-	<string>页面</string>
-	<key>PLACE_FACE_DOWN_TO_LOCK</key>
-	<string>屏幕朝下放置锁定</string>
-	<key>PLAYBACK</key>
-	<string>后台播放</string>
-	<key>PLAYBACK_SUBTITLE</key>
-	<string>Safari在后台继续工作</string>
-	<key>POWER</key>
-	<string>电源</string>
-	<key>POWER_VIBRATION</key>
-	<string>充电振动</string>
-	<key>REMOVE_DOCK</key>
-	<string>主界面移除Dock</string>
-	<key>ROTATION_SUBTITLE</key>
-	<string>在(X)设备和iPad上推荐</string>
-	<key>SCREENSHOTS</key>
-	<string>屏幕截图</string>
-	<key>SCROLL_BARS</key>
-	<string>滚动条</string>
-	<key>SCROLL_SUBTITLE</key>
-	<string>在系统范围内隐藏垂直滚动条</string>
-	<key>SEARCH_BARS</key>
-	<string>搜索栏</string>
-	<key>SEARCH_BG_SUBTITLE</key>
-	<string>去除背景以保持干净外观</string>
-	<key>SEARCH_SUBTITLE</key>
-	<string>禁用搜索手势和指示条</string>
-	<key>SELECT_DARK_APPS</key>
-	<string>选择深色模式程序</string>
-	<key>SELECT_LIGHT_APPS</key>
-	<string>选择浅色模式程序</string>
-	<key>SELECT_MODERN_APPS</key>
-	<string>选择现代风格程序</string>
-	<key>SELECT_PINNED_APPS</key>
-	<string>选择固定的应用</string>
-	<key>SELECT_TINTED_APPS</key>
-	<string>选择着色应用</string>
-	<key>SEPARATORS</key>
-	<string>分隔符</string>
-	<key>SEPARATOR_SUBTITLE</key>
-	<string>隐藏水平表视图分隔符</string>
-	<key>SHADOW_LINE</key>
-	<string>阴影线</string>
-	<key>SPOTLIGHT</key>
-	<string>Spotlight搜索</string>
-	<key>SPRINGBOARD</key>
-	<string>系统桌面</string>
-	<key>SWITCHES</key>
-	<string>开关</string>
-	<key>SYSTEM_WIDE</key>
-	<string>系统优化</string>
-	<key>TABLE_VIEWS</key>
-	<string>表格视图</string>
-	<key>TAB_BARS</key>
-	<string>标签栏</string>
-	<key>TAB_BAR_BADGES</key>
-	<string>标签栏角标</string>
-	<key>TINT</key>
-	<string>着色</string>
-	<key>TINTS_ALL_ELGIBILE_VIEWS</key>
-	<string>着色所有可见的视图</string>
-	<key>TINTS_CURRENT_WINDOW_ELEMENTS</key>
-	<string>着色当前窗口元素</string>
-	<key>TINTS_TAB_BAR_BADGES</key>
-	<string>着色角标标签</string>
-	<key>TINT_BADGES_SUBTITLE</key>
-	<string>着色应用</string>
-	<key>TOP_SHADOW_SUBTITLE</key>
-	<string>隐藏顶部阴影视图</string>
-	<key>USE_CUSTOM_HEIGHT</key>
-	<string>使用自定义高度</string>
-	<key>USE_CUSTOM_WIDTH</key>
-	<string>使用自定义宽度</string>
-	<key>USE_HAPTIC_FEEDBACK</key>
-	<string>使用振动反馈</string>
-	<key>USE_MODERN_STYLE</key>
-	<string>使用现代风格</string>
-	<key>USE_SMALL_TITLES</key>
-	<string>使用小标题</string>
-	<key>VIEW_TINT</key>
-	<string>界面颜色</string>
-	<key>AIRPLANE_MODE</key>
-	<string>  </string>
-	<key>AIRPLANE_MODE_DISABLE</key>
-	<string>  </string>
-	<key>AIRPLANE_MODE_DISABLE_SUBTITLE</key>
-	<string>  </string>
-	<key>AIRPLANE_MODE_SUBTITLE</key>
-	<string>  </string>
-	<key>APP_BLUR</key>
-	<string>  </string>
-	<key>AUTOMATICALLY_CLOSE_FOLDER</key>
-	<string>  </string>
-	<key>AUTOMATICALLY_CLOSE_FOLDER_SUBTITLE</key>
-	<string>  </string>
-	<key>BAR</key>
-	<string>  </string>
-	<key>BLUR_WALLPAPER</key>
-	<string>  </string>
-	<key>BLUR_WALLPAPER_SUBTITLE</key>
-	<string>  </string>
-	<key>CIRCLE</key>
-	<string>  </string>
-	<key>CLEAR_SPOTLIGHT</key>
-	<string>  </string>
-	<key>CLEAR_SPOTLIGHT_SUBTITLE</key>
-	<string>  </string>
-	<key>DARK</key>
-	<string>  </string>
-	<key>DEFAULT</key>
-	<string>  </string>
-	<key>DEVICE_INTERFACE</key>
-	<string>  </string>
-	<key>DISABLE_CC_ONLY</key>
-	<string>  </string>
-	<key>DISABLE_DOCK_BORDER</key>
-	<string>  </string>
-	<key>DISABLE_DOCK_BORDER_SUBTITLE</key>
-	<string>  </string>
-	<key>DISABLE_DOCK_LIBRARY</key>
-	<string>  </string>
-	<key>DISABLE_DOCK_LIBRARY_SUBTITLE</key>
-	<string>  </string>
-	<key>DISABLE_DOCK_SWITCHER</key>
-	<string>  </string>
-	<key>DISABLE_DOCK_SWITCHER_SUBTITLE</key>
-	<string>  </string>
-	<key>DISABLE_EDITING</key>
-	<string>  </string>
-	<key>DISABLE_EDITING_SUBTITLE</key>
-	<string>  </string>
-	<key>DISABLE_NO_SIM</key>
-	<string>  </string>
-	<key>DISABLE_NO_SIM_SUBTITLE</key>
-	<string>  </string>
-	<key>DISABLE_PARALLAX</key>
-	<string>  </string>
-	<key>DISABLE_PARALLAX_SUBTITLE</key>
-	<string>  </string>
-	<key>DISABLE_RECENTS</key>
-	<string>  </string>
-	<key>DISABLE_RECENTS_SUBTITLE</key>
-	<string>  </string>
-	<key>DISABLE_SOUND_SUBTITLE</key>
-	<string>  </string>
-	<key>DISABLE_SPOTLIGHT_SEARCH</key>
-	<string>  </string>
-	<key>DISABLE_SWITCHER_SWIPE</key>
-	<string>  </string>
-	<key>DISABLE_SWITCHER_SWIPE_SUBTITLE</key>
-	<string>  </string>
-	<key>DOCK_BACKGROUND_STYLE</key>
-	<string>  </string>
-	<key>DOCK_BACKGROUND_STYLE_SUBTITLE</key>
-	<string>  </string>
-	<key>DOCK_INDICATORS</key>
-	<string>  </string>
-	<key>DOCK_INDICATOR_COLOR</key>
-	<string>  </string>
-	<key>DOCK_INDICATOR_COLOR_SUBTITLE</key>
-	<string>  </string>
-	<key>ENABLED_NOTCHED</key>
-	<string>  </string>
-	<key>ENABLED_NOTCHED_SUBTITLE</key>
-	<string>  </string>
-	<key>ENABLE_EVERYWHERE_SUBTITLE</key>
-	<string>  </string>
-	<key>FLASHLIGHT</key>
-	<string>  </string>
-	<key>FLOATING_DOCK</key>
-	<string>  </string>
-	<key>FLOATING_DOCK_BLACKLIST</key>
-	<string>  </string>
-	<key>FLOATING_DOCK_BLACKLIST_SUBTITLE</key>
-	<string>  </string>
-	<key>FLOATING_DOCK_GESTURE</key>
-	<string>  </string>
-	<key>FLOATING_SPOTLIGHT</key>
-	<string>  </string>
-	<key>FLOATING_SPOTLIGHT_SUBTITLE</key>
-	<string>  </string>
-	<key>HAPTIC_KEYS_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_ALERT_BANNERS_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_DICTATION_KEY</key>
-	<string>  </string>
-	<key>HIDE_DICTATION_KEY_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_DONE_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_DOTS_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_HANDOFF</key>
-	<string>  </string>
-	<key>HIDE_HANDOFF_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_IN_CC</key>
-	<string>  </string>
-	<key>HIDE_LABELS_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_MENU_SEPARATORS</key>
-	<string>  </string>
-	<key>HIDE_MENU_SEPARATORS_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_PREVIEW_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_WIDGET_SUBTITLE</key>
-	<string>  </string>
-	<key>HOMESCREEN_BLUR</key>
-	<string>  </string>
-	<key>HOMESCREEN_BLUR_SUBTITLE</key>
-	<string>  </string>
-	<key>HOME_BAR_GESTURES</key>
-	<string>  </string>
-	<key>KNOB_TINT_SUBTITLE</key>
-	<string>  </string>
-	<key>LIGHT</key>
-	<string>  </string>
-	<key>MENUS</key>
-	<string>  </string>
-	<key>ON_COLOR_SUBTITLE</key>
-	<string>  </string>
-	<key>OPEN_FOLDER_BG_SUBTITLE</key>
-	<string>  </string>
-	<key>OPEN_FOLDER_ICON_BG_SUBTITLE</key>
-	<string>  </string>
-	<key>OPEN_FOLDER_TITLE_SUBTITLE</key>
-	<string>  </string>
-	<key>PINNED_APPS_SUBTITLE</key>
-	<string>  </string>
-	<key>PINNED_APPS_TOGGLE</key>
-	<string>  </string>
-	<key>PINNED_APPS_TOGGLE_SUBTITLE</key>
-	<string>  </string>
-	<key>PLACE_FACE_DOWN_TO_LOCK_SUBTITLE</key>
-	<string>  </string>
-	<key>RECENT_ICONS</key>
-	<string>  </string>
-	<key>RECENT_ICONS_SUBTITLE</key>
-	<string>  </string>
-	<key>REMOVE_DOCK_SUBTITLE</key>
-	<string>  </string>
-	<key>REPLACE_DICTATION_KEY</key>
-	<string>  </string>
-	<key>REPLACE_DICTATION_KEY_SUBTITLE</key>
-	<string>  </string>
-	<key>RESET_SCROLL</key>
-	<string>  </string>
-	<key>RESET_SCROLL_SUBTITLE</key>
-	<string>  </string>
-	<key>SELECT_BLURRED_APPS</key>
-	<string>  </string>
-	<key>SELECT_BLURRED_APPS_SUBTITLE</key>
-	<string>  </string>
-	<key>SELECT_DARK_APPS_SUBTITLE</key>
-	<string>  </string>
-	<key>SELECT_LIGHT_APPS_SUBTITLE</key>
-	<string>  </string>
-	<key>SELECT_PINNED_APPS_SUBTITLE</key>
-	<string>  </string>
-	<key>SHOW_APPS_MENU</key>
-	<string>  </string>
-	<key>SHOW_APPS_MENU_SUBTITLE</key>
-	<string>  </string>
-	<key>SHOW_DOCK_INDICATORS</key>
-	<string>  </string>
-	<key>SHOW_DOCK_INDICATORS_SUBTITLE</key>
-	<string>  </string>
-	<key>SHOW_SECTION_INDICES</key>
-	<string>  </string>
-	<key>SHOW_SECTION_INDICES_SUBTITLE</key>
-	<string>  </string>
-	<key>SPOTLIGHT_SEARCH_SUBTITLE</key>
-	<string>  </string>
-	<key>SPRINGBOARD_ALERTS</key>
-	<string>  </string>
-	<key>TRANSPARENT</key>
-	<string>  </string>
-	<key>TURN_OFF_AUTOMATICALLY</key>
-	<string>  </string>
-	<key>TURN_OFF_AUTOMATICALLY_SUBTITLE</key>
-	<string>  </string>
-	<key>USE_CUSTOM_HEIGHT_SUBTITLE</key>
-	<string>  </string>
-	<key>USE_CUSTOM_SCROLLBAR_COLOR</key>
-	<string>  </string>
-	<key>USE_CUSTOM_SCROLLBAR_COLOR_SUBTITLE</key>
-	<string>  </string>
-	<key>USE_CUSTOM_STEPS</key>
-	<string>  </string>
-	<key>USE_CUSTOM_STEPS_SUBTITLE</key>
-	<string>  </string>
-	<key>USE_CUSTOM_WIDTH_SUBTITLE</key>
-	<string>  </string>
-	<key>USE_FLOATING_DOCK</key>
-	<string>  </string>
-	<key>USE_FLOATING_DOCK_SUBTITLE</key>
-	<string>  </string>
-	<key>USE_HAPTIC_FEEDBACK_SUBTITLE</key>
-	<string>  </string>
-	<key>USE_IPAD_KEYBOARD</key>
-	<string>  </string>
-	<key>USE_IPAD_KEYBOARD_SUBTITLE</key>
-	<string>  </string>
-	<key>USE_SMALL_TITLES_SUBTITLE</key>
-	<string>  </string>
-	<key>VOLUME</key>
-	<string>  </string>
-	<key>WALLPAPER</key>
-	<string>  </string>
-</dict>
-</plist>
+"APP_INTERFACE_STYLE" = "应用界面风格";
+"SELECT_DARK_APPS" = "深色应用";
+"SELECT_DARK_APPS_SUBTITLE" = "界面始终为深色";
+"SELECT_LIGHT_APPS" = "浅色应用";
+"SELECT_LIGHT_APPS_SUBTITLE" = "界面始终为浅色";
+"ALERT_BANNERS" = "弹出提示";
+"HIDE_ALERT_BANNERS" = "隐藏弹出提示";
+"HIDE_ALERT_BANNERS_SUBTITLE" = "禁用粘贴和设备通知";
+"POWER" = "电源";
+"POWER_VIBRATION" = "禁用电源振动";
+"DISABLE_CHARGING_HAPTICS" = "充电时关闭反馈";
+"PLACE_FACE_DOWN_TO_LOCK" = "面朝下锁定";
+"PLACE_FACE_DOWN_TO_LOCK_SUBTITLE" = "自动锁定设备";
+"DOCK" = "Dock";
+"FLOATING_DOCK" = "浮动 Dock";
+"BACKGROUND" = "隐藏背景";
+"HIDE_BLURRED_BACKGROUND" = "隐藏模糊背景";
+"DIVIDER" = "移除分隔线";
+"IPAD_DIVIDER" = "隐藏浮动 Dock 上的分隔线";
+"SPRINGBOARD" = "全局系统";
+"REMOVE_DOCK" = "完全隐藏 Dock";
+"REMOVE_DOCK_SUBTITLE" = "从全局系统中移除 Dock";
+"HOMESCREEN" = "主屏幕";
+"DOUBLE_TAP_LOCK" = "锁定手势";
+"DOUBLE_TAP_LOCK_SUBTITLE" = "在主屏幕背景上双击以锁定";
+"DISABLE_ROTATION" = "禁用旋转";
+"ROTATION_SUBTITLE" = "适用于 (+) 设备和 iPad";
+"DISABLE_SPOTLIGHT_SEARCH" = "禁用 Spotlight 搜索";
+"SPOTLIGHT_SEARCH_SUBTITLE" = "在主屏幕上禁用向下滑动搜索手势";
+"HIDE_DONE" = "隐藏完成按钮";
+"HIDE_DONE_SUBTITLE" = "在主屏幕编辑时禁用“完成”按钮";
+"HIDE_WIDGET" = "隐藏小组件按钮";
+"HIDE_WIDGET_SUBTITLE" = "在主屏幕编辑时禁用“添加小组件”按钮";
+"SPOTLIGHT" = "Spotlight";
+"SELECT_PINNED_APPS" = "固定的应用";
+"SELECT_PINNED_APPS_SUBTITLE" = "选择默认应用";
+"FOLDERS" = "文件夹";
+"OPEN_FOLDER_BG" = "隐藏文件夹背景";
+"OPEN_FOLDER_BG_SUBTITLE" = "打开时禁用文件夹背景";
+"OPEN_FOLDER_TITLE" = "隐藏文件夹标题";
+"OPEN_FOLDER_TITLE_SUBTITLE" = "打开时禁用文件夹标题";
+"OPEN_FOLDER_ICON_BG" = "隐藏图标背景";
+"OPEN_FOLDER_ICON_BG_SUBTITLE" = "关闭文件夹时禁用背景模糊";
+"SEPARATORS" = "分隔线";
+"HIDE_SEPARATORS" = "隐藏分隔线";
+"SEPARATOR_SUBTITLE" = "禁用水平表视图分隔线";
+"TABLE_VIEWS" = "表视图";
+"USE_MODERN_STYLE" = "使用插入表样式";
+"MODERN_SUBTITLE" = "使用表插图";
+"SELECT_MODERN_APPS" = "选择插入应用";
+"SCROLL_BARS" = "滚动条";
+"HIDE_SCROLL_BARS" = "隐藏滚动条";
+"SCROLL_SUBTITLE" = "系统范围内隐藏垂直滚动条";
+"SEARCH_BARS" = "搜索栏";
+"HIDE_COMPLETELY" = "完全隐藏";
+"SEARCH_SUBTITLE" = "禁用搜索手势和搜索栏";
+"HIDE_BACKGROUND" = "隐藏背景";
+"SEARCH_BG_SUBTITLE" = "去除背景以获得清晰的外观";
+"HOME_BAR" = "主屏幕栏";
+"HOME_BAR_GESTURES" = "主屏幕栏手势";
+"DISABLE_SWITCHER_SWIPE" = "禁用滑动手势";
+"DISABLE_SWITCHER_SWIPE_SUBTITLE" = "禁用滑动返回上一个应用";
+"HIDE_EVERYWHERE" = "主屏幕和应用";
+"DISABLE_GLOBALLY" = "在主屏幕和打开的应用中禁用";
+"HIDE_ON_LOCKSCREEN" = "锁屏界面";
+"DISABLE_LS_ONLY" = "在锁屏界面禁用";
+"USE_CUSTOM_HEIGHT" = "自定义高度";
+"USE_CUSTOM_HEIGHT_SUBTITLE" = "设置主屏幕栏高度";
+"USE_CUSTOM_WIDTH" = "自定义宽度";
+"USE_CUSTOM_WIDTH_SUBTITLE" = "设置主屏幕栏宽度";
+"NAVIGATION_BARS" = "导航栏";
+"USE_SMALL_TITLES" = "小标题";
+"USE_SMALL_TITLES_SUBTITLE" = "强制使用导航栏小标题";
+"SHADOW_LINE" = "阴影线";
+"TOP_SHADOW_SUBTITLE" = "隐藏顶部阴影视图";
+"SWITCHES" = "开关";
+"ON_COLOR" = "启用颜色";
+"ON_COLOR_SUBTITLE" = "启用时切换颜色，向左滑动以设置颜色";
+"KEYBOARD" = "键盘";
+"HAPTIC_KEYS" = "使用触觉按键";
+"ALERTS" = "警告";
+"ALERT_SUBTITLE" = "在按钮之间隐藏分隔符";
+"TAB_BARS" = "标签栏";
+"TAB_BAR_BADGES" = "标签栏徽标";
+"TINT_BADGES_SUBTITLE" = "使用应用程序主题颜色";
+"BOTTOM_SHADOW_SUBTITLE" = "隐藏底部阴影视图";
+"HIDE_LABELS" = "隐藏标签";
+"HIDE_LABELS_SUBTITLE" = "移除按钮标题";
+"USE_HAPTIC_FEEDBACK" = "使用触觉反馈";
+"USE_HAPTIC_FEEDBACK_SUBTITLE" = "按钮点击时的振动";
+"PAGES" = "页面";
+"HIDE_DOTS" = "隐藏点";
+"HIDE_DOTS_SUBTITLE" = "在主屏幕页面上移除点";
+"SCREENSHOTS" = "截图";
+"HIDE_PREVIEW" = "隐藏预览";
+"HIDE_PREVIEW_SUBTITLE" = "禁用带有截图预览的角弹出窗口";
+"DISABLE_SOUND" = "禁用声音";
+"DISABLE_SOUND_SUBTITLE" = "停止播放快门声音";
+"DRAG_DROP" = "拖放";
+"ENABLE_EVERYWHERE" = "全局启用";
+"ENABLE_EVERYWHERE_SUBTITLE" = "在所有应用中拖放";
+"SYSTEM_WIDE" = "全局系统";
+"KNOB_TINT" = "旋钮颜色";
+"KNOB_TINT_SUBTITLE" = "开关的外观颜色，向左滑动以设置颜色";
+"HIDE_IN_CC" = "控制中心";
+"DISABLE_CC_ONLY" = "在控制中心中禁用";
+"USE_FLOATING_DOCK" = "浮动 Dock";
+"USE_FLOATING_DOCK_SUBTITLE" = "使用浮动 Dock";
+"DISABLE_EDITING" = "禁用图标编辑";
+"DISABLE_EDITING_SUBTITLE" = "禁止移动和删除";
+"VOLUME" = "音量";
+"USE_CUSTOM_STEPS" = "使用自定义步骤";
+"USE_CUSTOM_STEPS_SUBTITLE" = "默认值 = 16";
+"TURN_OFF_AUTOMATICALLY" = "使用手电筒超时";
+"FLASHLIGHT" = "手电筒";
+"TURN_OFF_AUTOMATICALLY_SUBTITLE" = "在设定的时间后关闭手电筒";
+"SPRINGBOARD_ALERTS" = "SpringBoard 提示";
+"AIRPLANE_MODE" = "禁用飞行模式提示";
+"AIRPLANE_MODE_SUBTITLE" = "禁用飞行模式启用提示";
+"AIRPLANE_MODE_DISABLE" = "添加禁用按钮";
+"AIRPLANE_MODE_DISABLE_SUBTITLE" = "从提示中关闭飞行模式";
+"WALLPAPER" = "壁纸";
+"BLUR_WALLPAPER" = "添加背景模糊";
+"BLUR_WALLPAPER_SUBTITLE" = "在主屏幕壁纸上添加可自定义的模糊效果";
+"CLEAR_SPOTLIGHT" = "清除 Spotlight 文本";
+"CLEAR_SPOTLIGHT_SUBTITLE" = "始终重置搜索栏";
+"DARK" = "深色";
+"LIGHT" = "浅色";
+"DEFAULT" = "默认";
+"KEYBOARD" = "键盘";
+"AUTOMATICALLY_CLOSE_FOLDER" = "自动关闭文件夹";
+"AUTOMATICALLY_CLOSE_FOLDER_SUBTITLE" = "打开包含的应用时关闭文件夹";
+"DOCK_INDICATORS" = "Dock 指示器";
+"SHOW_DOCK_INDICATORS" = "显示运行指示器";
+"SHOW_DOCK_INDICATORS_SUBTITLE" = "为运行的应用程序图标添加小圆点";
+"DOCK_INDICATOR_COLOR" = "Dock 指示器颜色";
+"DOCK_INDICATOR_COLOR_SUBTITLE" = "运行指示器的背景颜色";
+"CIRCLE" = "圆形";
+"BAR" = "线条";
+"FLOATING_DOCK_GESTURE" = "浮动 Dock";
+"FLOATING_DOCK_BLACKLIST" = "禁用的应用";
+"FLOATING_DOCK_BLACKLIST_SUBTITLE" = "选择 Dock 显示的条件";
+"SHOW_SECTION_INDICES" = "弹出节标题";
+"SHOW_SECTION_INDICES_SUBTITLE" = "在节更改时显示提醒";
+"MENUS" = "菜单";
+"HIDE_MENU_SEPARATORS" = "隐藏菜单分隔线";
+"HIDE_MENU_SEPARATORS_SUBTITLE" = "删除菜单项之间的线条";
+"DISABLE_RECENTS" = "禁用最近使用的应用";
+"DISABLE_RECENTS_SUBTITLE" = "隐藏最近打开的应用";
+"DISABLE_DOCK_LIBRARY" = "禁用应用库";
+"DISABLE_DOCK_LIBRARY_SUBTITLE" = "隐藏 Dock App 资源库图标";
+"APP_BLUR" = "应用模糊";
+"SELECT_BLURRED_APPS" = "模糊的应用";
+"SELECT_BLURRED_APPS_SUBTITLE" = "在应用后显示模糊的壁纸";
+"RESET_SCROLL" = "显示首个主屏幕页面";
+"RESET_SCROLL_SUBTITLE" = "解锁时始终返回到第一个主屏幕页面";
+"FLOATING_SPOTLIGHT" = "使用浮动窗口";
+"FLOATING_SPOTLIGHT_SUBTITLE" = "像 iPadOS 一样呈现 Spotlight";
+"SHOW_APPS_MENU" = "显示应用菜单";
+"SHOW_APPS_MENU_SUBTITLE" = "在文件夹中显示包含应用程序的三维触控菜单列表";
+"USE_CUSTOM_SCROLLBAR_COLOR" = "使用自定义颜色";
+"USE_CUSTOM_SCROLLBAR_COLOR_SUBTITLE" = "向左滑动以设置颜色";
+"DISABLE_DOCK_SWITCHER" = "在应用切换器中禁用";
+"DISABLE_DOCK_SWITCHER_SUBTITLE" = "防止 Dock 出现在切换器中";
+"DOCK_BACKGROUND_STYLE" = "背景样式";
+"DOCK_BACKGROUND_STYLE_SUBTITLE" = "更改 Dock 模糊样式";
+"DISABLE_NO_SIM" = "禁用“无 SIM 卡”提示";
+"DISABLE_NO_SIM_SUBTITLE" = "当未安装 SIM 卡时移除弹窗";
+"KEYBOARD" = "键盘";
+"HAPTIC_KEYS" = "触觉反馈";
+"HAPTIC_KEYS_SUBTITLE" = "按键时振动";
+"USE_IPAD_KEYBOARD" = "使用完整键盘";
+"USE_IPAD_KEYBOARD_SUBTITLE" = "在 iPad 上显示全尺寸键盘";
+"HIDE_DICTATION_KEY" = "隐藏语音输入键";
+"HIDE_DICTATION_KEY_SUBTITLE" = "从键盘中移除语音输入键";
+"TRANSPARENT" = "透明";
+"HOMESCREEN_BLUR" = "模糊类型";
+"HOMESCREEN_BLUR_SUBTITLE" = "设置叠加模糊样式";
+"PINNED_APPS_SUBTITLE" = "每行的应用数量";
+"PINNED_APPS_TOGGLE" = "自定义应用数量";
+"PINNED_APPS_TOGGLE_SUBTITLE" = "设置自定义每行应用数量";
+"DISABLE_DOCK_BORDER" = "隐藏 Dock 边框";
+"DISABLE_DOCK_BORDER_SUBTITLE" = "移除 Dock 背景边缘的细线";
+"DEVICE_INTERFACE" = "设备界面";
+"ENABLED_NOTCHED" = "启用流畅手势";
+"ENABLED_NOTCHED_SUBTITLE" = "模拟 iPhone X 接口手势，状态栏可以单独启用";
+"RECENT_ICONS" = "最近使用的应用图标";
+"RECENT_ICONS_SUBTITLE" = "最近应用的数量";
+"DISABLE_PARALLAX" = "禁用视差效果";
+"DISABLE_PARALLAX_SUBTITLE" = "从主屏幕壁纸中移除运动效果";
+"REPLACE_DICTATION_KEY" = "替换语音输入键";
+"REPLACE_DICTATION_KEY_SUBTITLE" = "在语音输入键位置添加隐藏键盘按钮";
+"HIDE_HANDOFF" = "隐藏传递项目";
+"HIDE_HANDOFF_SUBTITLE" = "从建议部分中移除传递建议";

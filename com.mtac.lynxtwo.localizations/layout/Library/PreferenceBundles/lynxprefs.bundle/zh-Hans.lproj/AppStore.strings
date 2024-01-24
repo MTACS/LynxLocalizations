@@ -1,14 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>APP_STORE</key>
-	<string>软件商城</string>
-	<key>TAB_BAR</key>
-	<string>标签栏</string>
-	<key>USE_UPDATES_BUTTON</key>
-	<string>用[更新]替换[游戏推荐]</string>
-	<key>USE_UPDATES_BUTTON_SUBTITLE</key>
-	<string>  </string>
-</dict>
-</plist>
+"TAB_BAR" = "选项卡栏";
+"USE_UPDATES_BUTTON" = "使用更新按钮";
+"USE_UPDATES_BUTTON_SUBTITLE" = "将游戏按钮替换为更新页面";
+"APP_STORE" = "苹果应用商店";

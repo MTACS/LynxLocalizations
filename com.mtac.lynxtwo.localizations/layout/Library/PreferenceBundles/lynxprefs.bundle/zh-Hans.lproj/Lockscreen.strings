@@ -1,292 +1,137 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>ALWAYS_DND</key>
-	<string>始终启用深色样式</string>
-	<key>AUTO_EXPAND</key>
-	<string>自动展开</string>
-	<key>BATTERY_SUBTITLE</key>
-	<string>充电时隐藏电池弹窗</string>
-	<key>BATTERY_VIEW</key>
-	<string>电池视图</string>
-	<key>BOLD</key>
-	<string>粗体</string>
-	<key>CAMERA</key>
-	<string>相机设置</string>
-	<key>CC_GRABBER</key>
-	<string>控制中心拉手</string>
-	<key>CC_GRABBER_SUBTITLE</key>
-	<string>隐藏右上角的小横线</string>
-	<key>CENTER</key>
-	<string>居中</string>
-	<key>CHARGING_VIEW</key>
-	<string>充电视图</string>
-	<key>CHOOSE_CUSTOM_FONT</key>
-	<string>选择自定义字体</string>
-	<key>CLOCK</key>
-	<string>时钟</string>
-	<key>CLOCK_FONT</key>
-	<string>时间字体</string>
-	<key>CLOCK_PLACEHOLDER</key>
-	<string>默认: 80</string>
-	<key>CLOCK_WEIGHT</key>
-	<string>使用自定义时钟权重</string>
-	<key>DATE_LABEL_PLACEHOLDER</key>
-	<string>日期标签透明度: 1.0</string>
-	<key>DEFAULT</key>
-	<string>默认</string>
-	<key>DISABLE_CAMERA_SWIPE</key>
-	<string>禁用滑动打开相机</string>
-	<key>DISABLE_ICON_ANIMATION</key>
-	<string>禁用飞入动画</string>
-	<key>DO_NOT_DISTURB</key>
-	<string>请勿打扰</string>
-	<key>Distance: %i</key>
-	<string>距离: %i</string>
-	<key>ENTER_PASSCODE_PLACEHOLDER</key>
-	<string>输入密码</string>
-	<key>FACE_ID</key>
-	<string>面容</string>
-	<key>FORCE_ENABLE_CAMERA</key>
-	<string>强制启用相机</string>
-	<key>FORCE_ENABLE_CAMERA_SUBTITLE</key>
-	<string>在禁用滑动的情况下效果最佳</string>
-	<key>GRABBER</key>
-	<string>拉手</string>
-	<key>HIDE_AUDIO_SOURCE_BUTTON</key>
-	<string>隐藏音频源按钮</string>
-	<key>HIDE_BACKSPACE_BUTTON</key>
-	<string>隐藏删除按钮</string>
-	<key>HIDE_BANNER</key>
-	<string>横幅</string>
-	<key>HIDE_BANNER_SUBTITLE</key>
-	<string>在锁屏上隐藏免打扰横幅</string>
-	<key>HIDE_BOTH</key>
-	<string>相机和手电都隐藏</string>
-	<key>HIDE_BUTTON_BACKGROUND</key>
-	<string>隐藏按钮背景</string>
-	<key>HIDE_BUTTON_IMAGES</key>
-	<string>隐藏按钮图像</string>
-	<key>HIDE_CAMERA_BUTTON</key>
-	<string>隐藏相机按钮</string>
-	<key>HIDE_CANCEL_BUTTON</key>
-	<string>隐藏取消按钮</string>
-	<key>HIDE_DATE_LABEL</key>
-	<string>隐藏日期标签</string>
-	<key>HIDE_EMERGENCY_BUTTON</key>
-	<string>隐藏紧急按钮</string>
-	<key>HIDE_ENTER_PASSCODE</key>
-	<string>隐藏输入密码文本</string>
-	<key>HIDE_FLASHLIGHT_BUTTON</key>
-	<string>隐藏手电按钮</string>
-	<key>HIDE_MEDIA_CONTROLS</key>
-	<string>隐藏媒体控件</string>
-	<key>HIDE_NOW_PLAYING_APP_ICON</key>
-	<string>隐藏正在播放的程序图标</string>
-	<key>HIDE_NO_NOTIFICATIONS</key>
-	<string>隐藏“没有更早的通知”</string>
-	<key>HIDE_NUMBER_BUTTON_BACKGROUND</key>
-	<string>隐藏数字按钮背景</string>
-	<key>HIDE_ON_LOCKSCREEN</key>
-	<string>在锁屏上隐藏</string>
-	<key>HIDE_PAGE_DOTS</key>
-	<string>隐藏翻页点</string>
-	<key>HIDE_PROGRESS_VIEW</key>
-	<string>隐藏进度视图</string>
-	<key>HIDE_SWIPE_PRESS</key>
-	<string>隐藏“向上轻扫/按压”解锁文本</string>
-	<key>HIDE_SWIPE_SEPARATORS</key>
-	<string>隐藏滑动分隔符</string>
-	<key>HIDE_TIME_LABEL</key>
-	<string>隐藏时间标签</string>
-	<key>HIDE_VOLUME_SLIDER</key>
-	<string>隐藏音量滑块</string>
-	<key>HIDING</key>
-	<string>隐藏</string>
-	<key>ICON_SIZE_SUBTITLE</key>
-	<string>增加图标大小并添加阴影</string>
-	<key>ITALIC</key>
-	<string>斜体</string>
-	<key>LEFT</key>
-	<string>居左</string>
-	<key>LOCKSCREEN</key>
-	<string>锁屏界面</string>
-	<key>LOCK_ICON</key>
-	<string>锁图标</string>
-	<key>LOCK_ICON_SUBTITLE</key>
-	<string>在锁屏上隐藏锁头</string>
-	<key>LYNX_PLACEHOLDER</key>
-	<string>简体中文:妖刀</string>
-	<key>MAGSAFE</key>
-	<string>MagSafe</string>
-	<key>MAGSAFE_SUBTITLE</key>
-	<string>充电时显示MagSafe</string>
-	<key>MEDIUM</key>
-	<string>中等</string>
-	<key>MUSIC_PLAYER</key>
-	<string>音乐播放器</string>
-	<key>NATIVE_ANIMATION</key>
-	<string>原生动画</string>
-	<key>NOTIFICATIONS_AND_BANNERS</key>
-	<string>通知和横幅</string>
-	<key>NOTIFICATIONS_LIST_WARNING</key>
-	<string>正值使通知向下移动，负值使通知向上移动，预设为0。</string>
-	<key>NOTIFICATION_CENTER_TEXT</key>
-	<string>通知中心文本</string>
-	<key>NOTIFICATION_LIST</key>
-	<string>通知清单</string>
-	<key>OLDER_NOTIFICATIONS</key>
-	<string>更早的通知</string>
-	<key>OUTER_SHADOW</key>
-	<string>外部阴影</string>
-	<key>Offset: %i</key>
-	<string>偏移量: %i</string>
-	<key>PAGE_DOT_SUBTITLE</key>
-	<string>适用于非刘海设备</string>
-	<key>PASSCODE_AUTHORIZATION</key>
-	<string>密码和身份验证视图</string>
-	<key>PULL_TO_CLEAR</key>
-	<string>下拉清除</string>
-	<key>QUICK_ACTION_BUTTONS</key>
-	<string>快速启动按钮</string>
-	<key>RIGHT</key>
-	<string>居右</string>
-	<key>SHADOW_COLOR</key>
-	<string>阴影颜色</string>
-	<key>SHADOW_SUBTITLE</key>
-	<string>向通知单元格添加边框阴影</string>
-	<key>SHOW_IMMEDIATELY</key>
-	<string>立即显示</string>
-	<key>SIMPLE</key>
-	<string>简单</string>
-	<key>STYLE</key>
-	<string>风格</string>
-	<key>SWIPE_SEPARATORS_SUBTITLE</key>
-	<string>隐藏按钮之间的垂直线</string>
-	<key>TIME_LABEL_PLACEHOLDER</key>
-	<string>时间标签透明度: 1.0</string>
-	<key>UNLOCK_ANIMATION</key>
-	<string>解锁动画</string>
-	<key>UNLOCK_SUBTITLE</key>
-	<string>始终显示解锁文本</string>
-	<key>UNLOCK_TEXT</key>
-	<string>解锁文本</string>
-	<key>USE_CUSTOM_CLOCK_FONT</key>
-	<string>使用自定义时间字体</string>
-	<key>USE_CUSTOM_PASSCODE_TEXT</key>
-	<string>使用自定义密码提示</string>
-	<key>USE_CUSTOM_TEXT</key>
-	<string>使用自定义文本</string>
-	<key>USE_HAPTIC_FEEDBACK</key>
-	<string>使用震动反馈</string>
-	<key>USE_MODERN_ICONS</key>
-	<string>使用摩登图标</string>
-	<key>USE_NUMBER_OF_NOTIFICATIONS</key>
-	<string>使用通知数目</string>
-	<key>USE_SMOOTH_SWIPING</key>
-	<string>启用平滑滑动</string>
-	<key>ALWAYS_DND_SUBTITLE</key>
-	<string>  </string>
-	<key>AUTO_EXPAND_SUBTITLE</key>
-	<string>  </string>
-	<key>BLUR_WALLPAPER</key>
-	<string>  </string>
-	<key>BLUR_WALLPAPER_SUBTITLE</key>
-	<string>  </string>
-	<key>CARPLAY</key>
-	<string>  </string>
-	<key>CARPLAY_SUBTITLE</key>
-	<string>  </string>
-	<key>CARPLAY_TITLE</key>
-	<string>  </string>
-	<key>CLOCK_FONT_FOOTER</key>
-	<string>  </string>
-	<key>CLOCK_SECONDS</key>
-	<string>  </string>
-	<key>CLOCK_SECONDS_SUBTITLE</key>
-	<string>  </string>
-	<key>CONTROL_CENTER</key>
-	<string>  </string>
-	<key>CUSTOMIZE_WALLPAPER</key>
-	<string>  </string>
-	<key>CUSTOM_FONT</key>
-	<string>  </string>
-	<key>CUSTOM_FONT_SUBTITLE</key>
-	<string>  </string>
-	<key>DISABLE_CAMERA_SWIPE_SUBTITLE</key>
-	<string>  </string>
-	<key>DISABLE_CUSTOMIZE_WALLPAPER</key>
-	<string>  </string>
-	<key>DISABLE_CUSTOMIZE_WALLPAPER_SUBTITLE</key>
-	<string>  </string>
-	<key>DISABLE_ICON_ANIMATION_SUBTITLE</key>
-	<string>  </string>
-	<key>DISABLE_SPOTLIGHT_SWIPE</key>
-	<string>  </string>
-	<key>DISABLE_SPOTLIGHT_SWIPE_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_DATE_LABEL_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_NO_NOTIFICATIONS_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_ON_LOCKSCREEN_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_SWIPE_PRESS_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_TIME_LABEL_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_TOP_HINT</key>
-	<string>  </string>
-	<key>HIDE_TOP_HINT_SUBTITLE</key>
-	<string>  </string>
-	<key>LEGAL_PLACEHOLDER</key>
-	<string>  </string>
-	<key>LEGAL_TEXT</key>
-	<string>  </string>
-	<key>LOCKSCREEN_BLUR</key>
-	<string>  </string>
-	<key>LOCKSCREEN_BLUR_SUBTITLE</key>
-	<string>  </string>
-	<key>MUSIC_PLAYER_STYLE</key>
-	<string>  </string>
-	<key>PAGE_DOTS</key>
-	<string>  </string>
-	<key>PASSCODE_BUTTONS</key>
-	<string>  </string>
-	<key>PASSCODE_ENTRY_TEXT</key>
-	<string>  </string>
-	<key>PULL_TO_CLEAR_SUBTITLE</key>
-	<string>  </string>
-	<key>SHOW_FULL_NOTIFICATION</key>
-	<string>  </string>
-	<key>SHOW_FULL_NOTIFICATION_SUBTITLE</key>
-	<string>  </string>
-	<key>SHOW_LEGAL_TEXT</key>
-	<string>  </string>
-	<key>SHOW_LEGAL_TEXT_SUBTITLE</key>
-	<string>  </string>
-	<key>SPOTLIGHT</key>
-	<string>  </string>
-	<key>SWIPE_ACTIONS</key>
-	<string>  </string>
-	<key>TAP_OPEN</key>
-	<string>  </string>
-	<key>TAP_OPEN_SUBTITLE</key>
-	<string>  </string>
-	<key>USE_CUSTOM_CLOCK_FONT_SUBTITLE</key>
-	<string>  </string>
-	<key>USE_CUSTOM_TEXT_SUBTITLE</key>
-	<string>  </string>
-	<key>USE_EXPANDED_PLAYER</key>
-	<string>  </string>
-	<key>USE_EXPANDED_PLAYER_SUBTITLE</key>
-	<string>  </string>
-	<key>USE_NUMBER_OF_NOTIFICATIONS_SUBTITLE</key>
-	<string>  </string>
-	<key>USE_SMOOTH_SWIPING_SUBTITLE</key>
-	<string>  </string>
-	<key>WALLPAPER</key>
-	<string>  </string>
-</dict>
-</plist>
+"MAGSAFE" = "磁吸充电";
+"NATIVE_ANIMATION" = "原生动画";
+"MAGSAFE_SUBTITLE" = "在充电时显示 MagSafe 环";
+"CLOCK" = "时钟";
+"HIDE_TIME_LABEL" = "隐藏时间标签";
+"HIDE_TIME_LABEL_SUBTITLE" = "移除时钟数字";
+"TIME_LABEL_PLACEHOLDER" = "时间标签透明度：1.0";
+"HIDE_DATE_LABEL" = "隐藏日期标签";
+"HIDE_DATE_LABEL_SUBTITLE" = "在时钟下方移除日期";
+"DATE_LABEL_PLACEHOLDER" = "日期标签透明度：1.0";
+"LEFT" = "左";
+"CENTER" = "中";
+"RIGHT" = "右";
+"CLOCK_FONT" = "时钟字体";
+"CLOCK_FONT_FOOTER" = "选择字体粗细";
+"CUSTOM_FONT" = "使用自定义字体";
+"CUSTOM_FONT_SUBTITLE" = "设置字体家、大小和粗细";
+"CLOCK_PLACEHOLDER" = "默认：80";
+"DEFAULT" = "默认";
+"ITALIC" = "斜体";
+"BOLD" = "粗体";
+"MEDIUM" = "中等";
+"USE_CUSTOM_CLOCK_FONT" = "时钟字体";
+"USE_CUSTOM_CLOCK_FONT_SUBTITLE" = "使用自定义字体";
+"CHOOSE_CUSTOM_FONT" = "选择字体";
+"CONTROL_CENTER" = "控制中心";
+"CC_GRABBER" = "CC抓手";
+"CC_GRABBER_SUBTITLE" = "隐藏右上角的线条";
+"CHARGING_VIEW" = "充电界面";
+"BATTERY_VIEW" = "电池界面";
+"BATTERY_SUBTITLE" = "在充电时隐藏电池弹窗";
+"STYLE" = "样式";
+"ALWAYS_DND" = "始终使用 DND 深色样式";
+"ALWAYS_DND_SUBTITLE" = "始终使用 DND 深色样式";
+"UNLOCK_TEXT" = "解锁文本";
+"HIDE_SWIPE_PRESS" = "隐藏解锁文本标签";
+"HIDE_SWIPE_PRESS_SUBTITLE" = "隐藏'向上滑动'或'按压解锁'";
+"USE_CUSTOM_TEXT" = "自定义文本";
+"USE_CUSTOM_TEXT_SUBTITLE" = "设置自定义解锁信息";
+"LYNX_PLACEHOLDER" = "Lynx 2";
+"SHOW_IMMEDIATELY" = "立即显示";
+"UNLOCK_SUBTITLE" = "始终显示解锁文本";
+"PAGE_DOTS" = "页面指示点";
+"HIDE_PAGE_DOTS" = "隐藏页面指示点";
+"PAGE_DOT_SUBTITLE" = "在非刘海屏设备上很有用";
+"DO_NOT_DISTURB" = "勿扰模式";
+"HIDE_BANNER" = "隐藏指示器";
+"HIDE_BANNER_SUBTITLE" = "在锁屏界面隐藏勿扰模式指示器";
+"PULL_TO_CLEAR" = "下拉以清除";
+"PULL_TO_CLEAR_SUBTITLE" = "向下拖动以全部清除";
+"USE_MODERN_ICONS" = "使用现代图标";
+"ICON_SIZE_SUBTITLE" = "增加图标大小并添加阴影";
+"HIDE_SWIPE_SEPARATORS" = "隐藏滑动分隔线";
+"SWIPE_SEPARATORS_SUBTITLE" = "隐藏按钮之间的垂直线条";
+"USE_SMOOTH_SWIPING" = "平滑滑动";
+"USE_SMOOTH_SWIPING_SUBTITLE" = "一次完整滑动即可删除";
+"NOTIFICATIONS_LIST_WARNING" = "正值将通知向下移动，负值将通知向上移动。默认值为0";
+"NOTIFICATIONS_AND_BANNERS" = "通知和横幅";
+"OUTER_SHADOW" = "外阴影";
+"SHADOW_SUBTITLE" = "向左滑动设置颜色";
+"SHADOW_COLOR" = "阴影颜色";
+"FACE_ID" = "面容 ID";
+"LOCK_ICON" = "锁屏图标";
+"LOCK_ICON_SUBTITLE" = "在锁屏界面上隐藏挂锁";
+"PASSCODE_BUTTONS" = "密码输入按钮";
+"PASSCODE_ENTRY_TEXT" = "密码输入文本";
+"HIDE_CANCEL_BUTTON" = "隐藏取消按钮";
+"HIDE_EMERGENCY_BUTTON" = "隐藏紧急按钮";
+"HIDE_BACKSPACE_BUTTON" = "隐藏退格按钮";
+"HIDE_NUMBER_BUTTON_BACKGROUND" = "隐藏按钮背景";
+"USE_HAPTIC_FEEDBACK" = "使用触觉反馈";
+"HIDE_ENTER_PASSCODE" = "隐藏输入密码文字";
+"USE_CUSTOM_PASSCODE_TEXT" = "使用自定义密码文字";
+"ENTER_PASSCODE_PLACEHOLDER" = "输入密码";
+"QUICK_ACTION_BUTTONS" = "快速操作按钮";
+"HIDE_BUTTON_IMAGES" = "隐藏按钮图像";
+"HIDE_BOTH" = "隐藏两个按钮";
+"HIDE_FLASHLIGHT_BUTTON" = "隐藏手电筒按钮";
+"HIDE_CAMERA_BUTTON" = "隐藏相机按钮";
+"HIDE_BUTTON_BACKGROUND" = "隐藏按钮背景";
+"CAMERA" = "相机";
+"DISABLE_CAMERA_SWIPE" = "禁用相机滑动";
+"DISABLE_CAMERA_SWIPE_SUBTITLE" = "移除滑动手势，但保留功能";
+"FORCE_ENABLE_CAMERA" = "强制启用相机";
+"FORCE_ENABLE_CAMERA_SUBTITLE" = "与禁用滑动手势效果最好";
+"MUSIC_PLAYER" = "音乐播放器";
+"MUSIC_PLAYER_STYLE" = "音乐播放器外观";
+"HIDE_ON_LOCKSCREEN" = "在锁屏时隐藏";
+"HIDE_ON_LOCKSCREEN_SUBTITLE" = "完全移除媒体播放器视图";
+"DEFAULT" = "默认";
+"SIMPLE" = "简单";
+"HIDE_VOLUME_SLIDER" = "隐藏音量滑块";
+"HIDE_PROGRESS_VIEW" = "隐藏进度视图";
+"HIDE_MEDIA_CONTROLS" = "隐藏媒体控制";
+"HIDE_AUDIO_SOURCE_BUTTON" = "隐藏音频来源按钮";
+"HIDE_NOW_PLAYING_APP_ICON" = "隐藏媒体应用图标";
+"OLDER_NOTIFICATIONS" = "更早的通知";
+"HIDE_NO_NOTIFICATIONS" = "以前的通知文字";
+"HIDE_NO_NOTIFICATIONS_SUBTITLE" = "隐藏'没有更早的通知'文字";
+"NOTIFICATION_CENTER_TEXT" = "通知中心文字";
+"USE_NUMBER_OF_NOTIFICATIONS" = "通知计数";
+"USE_NUMBER_OF_NOTIFICATIONS_SUBTITLE" = "在标题中显示通知数量";
+"UNLOCK_ANIMATION" = "解锁动画";
+"DISABLE_ICON_ANIMATION" = "隐藏解锁动画";
+"DISABLE_ICON_ANIMATION_SUBTITLE" = "解锁时禁用飞入动画";
+"LOCKSCREEN" = "锁屏";
+"AUTO_EXPAND" = "自动展开";
+"AUTO_EXPAND_SUBTITLE" = "始终显示横幅内容";
+"WALLPAPER" = "壁纸";
+"BLUR_WALLPAPER" = "添加背景模糊";
+"BLUR_WALLPAPER_SUBTITLE" = "为锁屏壁纸添加可自定义的模糊效果";
+"HIDE_TOP_HINT" = "禁用解锁提示";
+"HIDE_TOP_HINT_SUBTITLE" = "隐藏'上滑解锁'提示";
+"CARPLAY" = "CarPlay";
+"CARPLAY_TITLE" = "禁用覆盖层";
+"CARPLAY_SUBTITLE" = "隐藏 CarPlay 连接屏幕";
+"CLOCK_SECONDS" = "显示秒数";
+"CLOCK_SECONDS_SUBTITLE" = "在时钟标签上添加秒数";
+"TAP_OPEN" = "轻触打开";
+"TAP_OPEN_SUBTITLE" = "始终在第一次轻触时打开通知";
+"SHOW_FULL_NOTIFICATION" = "显示完整消息";
+"SHOW_FULL_NOTIFICATION_SUBTITLE" = "调整横幅大小以适应完整的通知消息";
+"SWIPE_ACTIONS" = "滑动设置值和重置";
+"LEGAL_TEXT" = "法律文本";
+"SHOW_LEGAL_TEXT" = "显示法律信息";
+"SHOW_LEGAL_TEXT_SUBTITLE" = "在锁屏底部显示文本字符串";
+"LEGAL_PLACEHOLDER" = "输入自定义法律文本";
+"SPOTLIGHT" = "Spotlight";
+"DISABLE_SPOTLIGHT_SWIPE" = "禁用 Spotlight 滑动";
+"DISABLE_SPOTLIGHT_SWIPE_SUBTITLE" = "移除下拉打开 Spotlight 的手势";
+"CUSTOMIZE_WALLPAPER" = "壁纸定制";
+"DISABLE_CUSTOMIZE_WALLPAPER" = "禁用手势";
+"DISABLE_CUSTOMIZE_WALLPAPER_SUBTITLE" = "移除长按编辑壁纸的功能";
+"LOCKSCREEN_BLUR" = "模糊类型";
+"LOCKSCREEN_BLUR_SUBTITLE" = "设置覆盖层模糊样式";
+"USE_EXPANDED_PLAYER" = "使用扩展播放器";
+"USE_EXPANDED_PLAYER_SUBTITLE" = "始终使用扩展播放器";

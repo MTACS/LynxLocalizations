@@ -1,54 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>12 Hour</key>
-	<string>12小时制</string>
-	<key>24 Hour</key>
-	<string>24小时制</string>
-	<key>CALLS</key>
-	<string>通话记录</string>
-	<key>CALL_BUTTON</key>
-	<string>呼叫按钮</string>
-	<key>DIALER_BUTTONS</key>
-	<string>拨号按钮</string>
-	<key>HIDE_BACKGROUND</key>
-	<string>隐藏背景</string>
-	<key>HIDE_FAVORITES_TAB</key>
-	<string>隐藏收藏夹</string>
-	<key>HIDE_NUMBER_BUTTON_BACKGROUND</key>
-	<string>隐藏数字按钮背景</string>
-	<key>HIDE_THIRD_PARTY_CALLS</key>
-	<string>隐藏第三方通话</string>
-	<key>HIDE_VOICEMAIL_TAB</key>
-	<string>隐藏语音信箱</string>
-	<key>PHONE</key>
-	<string>电话程序</string>
-	<key>SHOW_EXACT_TIME</key>
-	<string>显示准确时间</string>
-	<key>TAB_BAR</key>
-	<string>标签栏</string>
-	<key>TINT_COLOR</key>
-	<string>设定颜色</string>
-	<key>USE_CUSTOM_CALL_BUTTON_COLOR</key>
-	<string>使用自定义按钮颜色</string>
-	<key>HIDE_BACKGROUND_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_CONTACTS_TAB</key>
-	<string>  </string>
-	<key>HIDE_DIALER_TAB</key>
-	<string>  </string>
-	<key>HIDE_NUMBER_BUTTON_BACKGROUND_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_RECENTS_TAB</key>
-	<string>  </string>
-	<key>HIDE_THIRD_PARTY_CALLS_SUBTITLE</key>
-	<string>  </string>
-	<key>RECENTS</key>
-	<string>  </string>
-	<key>SHOW_EXACT_TIME_SUBTITLE</key>
-	<string>  </string>
-	<key>USE_CUSTOM_CALL_BUTTON_COLOR_SUBTITLE</key>
-	<string>  </string>
-</dict>
-</plist>
+"DIALER_BUTTONS" = "拨号按钮";
+"HIDE_NUMBER_BUTTON_BACKGROUND" = "隐藏按钮背景";
+"HIDE_NUMBER_BUTTON_BACKGROUND_SUBTITLE" = "移除键盘数字按钮的颜色视图";
+"RECENTS" = "最近通话";
+"SHOW_EXACT_TIME" = "显示精确时间";
+"SHOW_EXACT_TIME_SUBTITLE" = "显示通话接收时间";
+"HIDE_THIRD_PARTY_CALLS" = "隐藏第三方通话";
+"HIDE_THIRD_PARTY_CALLS_SUBTITLE" = "仅显示通过原生电话应用进行的通话";
+"TAB_BAR" = "选项卡栏";
+"HIDE_VOICEMAIL_TAB" = "隐藏语音邮件选项卡";
+"CALL_BUTTON" = "拨号按钮";
+"HIDE_BACKGROUND" = "隐藏背景";
+"HIDE_BACKGROUND_SUBTITLE" = "将按钮颜色设置为视图背景颜色";
+"USE_CUSTOM_CALL_BUTTON_COLOR" = "自定义按钮颜色";
+"USE_CUSTOM_CALL_BUTTON_COLOR_SUBTITLE" = "向左滑动以设置颜色";
+"TINT_COLOR" = "着色";
+"PHONE" = "电话";
+"HIDE_FAVORITES_TAB" = "隐藏收藏夹选项卡";
+"HIDE_RECENTS_TAB" = "隐藏最近通话选项卡";
+"HIDE_CONTACTS_TAB" = "隐藏联系人选项卡";
+"HIDE_DIALER_TAB" = "隐藏拨号选项卡";
+"HIDE_VOICEMAIL_TAB" = "隐藏语音邮件选项卡";

@@ -1,19 +1,17 @@
-"PHOTOS" = "Photos";
-"SKIP_DELETION_CONFIRMATION" = "Skip Confirmation";
-"SKIP_DELETION_CONFIRMATION_SUBTITLE" = "Automatically put media in Trash";
-"USE_INFINITE_ZOOM" = "Increase Zoom Limit";
-"USE_INFINITE_ZOOM_SUBTITLE" = "Allow infinite zoom on media";
-"HIDE_SCRUBBER" = "Hide Media Slider";
-"HIDE_SCRUBBER_SUBTITLE" = "Remove preview tiles under photo / video";
-"PHOTO_PREVIEW" = "Photo Preview";
-"DELETION" = "Deletion";
-"ALBUMS" = "Albums";
-"LOCK_HIDDEN_ALBUM" = "Lock Hidden Album";
-"LOCK_HIDDEN_ALBUM_SUBTITLE" = "Protect hidden album with biometrics";
-"DELETE_PERMANENTLY" = "Delete Permanently";
-"DELETE_PERMANENTLY_SUBTITLE" = "Skip putting media in trash & remove forever";
-"VIDEOS" = "Videos";
-"AUTO_REPLAY" = "Loop Videos";
-"AUTO_REPLAY_SUBTITLE" = "Automatically restart videos from beginning";
-
-
+"PHOTOS" = "照片";
+"SKIP_DELETION_CONFIRMATION" = "跳过确认";
+"SKIP_DELETION_CONFIRMATION_SUBTITLE" = "自动将媒体放入回收站";
+"USE_INFINITE_ZOOM" = "增加缩放限制";
+"USE_INFINITE_ZOOM_SUBTITLE" = "允许对媒体进行无限缩放";
+"HIDE_SCRUBBER" = "隐藏媒体滑块";
+"HIDE_SCRUBBER_SUBTITLE" = "移除照片/视频下的预览缩略图";
+"PHOTO_PREVIEW" = "照片预览";
+"DELETION" = "删除";
+"ALBUMS" = "相册";
+"LOCK_HIDDEN_ALBUM" = "锁定隐藏相册";
+"LOCK_HIDDEN_ALBUM_SUBTITLE" = "用 Face ID 保护隐藏相册";
+"DELETE_PERMANENTLY" = "永久删除";
+"DELETE_PERMANENTLY_SUBTITLE" = "跳过将媒体放入回收站并永久移除";
+"VIDEOS" = "视频";
+"AUTO_REPLAY" = "循环播放视频";
+"AUTO_REPLAY_SUBTITLE" = "自动从开始重新播放视频";

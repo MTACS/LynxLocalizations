@@ -1,16 +1,13 @@
-"UP_NEXT_POPUP" = "'Up Next' Popup";
-"HIDE_QUEUE_POPUP" = "Hide Queue Popup";
-"HIDE_QUEUE_POPUP_SUBTITLE" = "Remove view when queueing songs";
-"RECENTLY_ADDED" = "Recently Added";
-"SHOW_ALL_SONGS" = "Show All Songs";
-"SHOW_ALL_SONGS_SUBTITLE" = "Remove display limit on recently added lists";
-"MUSIC_LIBRARY_LAYOUT" = "Music Library Layout";
-"THREE_COLUMNS" = "Use 3 Column Layout";
-"THREE_COLUMNS_SUBTITLE" = "Show recently added music in 3 columns";
-"MUSIC" = "Music";
-"MUSIC_NOTIFICATIONS" = "Notifications";
-"MUSIC_BANNER" = "Show Now Playing Banner";
-"MUSIC_BANNER_SUBTITLE" = "Send notification when song changes";
-
-
-
+"UP_NEXT_POPUP" = "'接下来' 弹出窗口";
+"HIDE_QUEUE_POPUP" = "隐藏队列弹窗";
+"HIDE_QUEUE_POPUP_SUBTITLE" = "在排队歌曲时移除视图";
+"RECENTLY_ADDED" = "最近添加";
+"SHOW_ALL_SONGS" = "显示所有歌曲";
+"SHOW_ALL_SONGS_SUBTITLE" = "移除最近添加列表的显示限制";
+"MUSIC_LIBRARY_LAYOUT" = "音乐库布局";
+"THREE_COLUMNS" = "使用三列布局";
+"THREE_COLUMNS_SUBTITLE" = "以三列显示最近添加的音乐";
+"MUSIC" = "音乐";
+"MUSIC_NOTIFICATIONS" = "通知";
+"MUSIC_BANNER" = "显示正在播放的横幅";
+"MUSIC_BANNER_SUBTITLE" = "歌曲更改时发送通知";

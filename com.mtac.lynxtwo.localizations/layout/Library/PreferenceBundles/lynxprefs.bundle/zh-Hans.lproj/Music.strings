@@ -1,32 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>HIDE_QUEUE_POPUP</key>
-	<string>隐藏队列弹出窗口</string>
-	<key>MUSIC</key>
-	<string>苹果音乐</string>
-	<key>MUSIC_LIBRARY_LAYOUT</key>
-	<string>音乐库布局</string>
-	<key>RECENTLY_ADDED</key>
-	<string>最近添加的</string>
-	<key>SHOW_ALL_SONGS</key>
-	<string>显示所有歌曲</string>
-	<key>THREE_COLUMNS</key>
-	<string>使用三列布局</string>
-	<key>UP_NEXT_POPUP</key>
-	<string>下一曲弹出窗口</string>
-	<key>HIDE_QUEUE_POPUP_SUBTITLE</key>
-	<string>  </string>
-	<key>MUSIC_BANNER</key>
-	<string>  </string>
-	<key>MUSIC_BANNER_SUBTITLE</key>
-	<string>  </string>
-	<key>MUSIC_NOTIFICATIONS</key>
-	<string>  </string>
-	<key>SHOW_ALL_SONGS_SUBTITLE</key>
-	<string>  </string>
-	<key>THREE_COLUMNS_SUBTITLE</key>
-	<string>  </string>
-</dict>
-</plist>
+"UP_NEXT_POPUP" = "'接下来' 弹出窗口";
+"HIDE_QUEUE_POPUP" = "隐藏队列弹窗";
+"HIDE_QUEUE_POPUP_SUBTITLE" = "在排队歌曲时移除视图";
+"RECENTLY_ADDED" = "最近添加";
+"SHOW_ALL_SONGS" = "显示所有歌曲";
+"SHOW_ALL_SONGS_SUBTITLE" = "移除最近添加列表的显示限制";
+"MUSIC_LIBRARY_LAYOUT" = "音乐库布局";
+"THREE_COLUMNS" = "使用三列布局";
+"THREE_COLUMNS_SUBTITLE" = "以三列显示最近添加的音乐";
+"MUSIC" = "音乐";
+"MUSIC_NOTIFICATIONS" = "通知";
+"MUSIC_BANNER" = "显示正在播放的横幅";
+"MUSIC_BANNER_SUBTITLE" = "歌曲更改时发送通知";
