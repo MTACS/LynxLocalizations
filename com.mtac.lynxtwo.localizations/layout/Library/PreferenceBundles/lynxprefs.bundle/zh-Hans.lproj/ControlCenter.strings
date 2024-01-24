@@ -1,90 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>AVAILABILITY</key>
-	<string>可用性</string>
-	<key>BLUETOOTH_WIFI</key>
-	<string>蓝牙和WiFi</string>
-	<key>BLUETOOTH_WIFI_SUBTITLE</key>
-	<string>真实关闭模块</string>
-	<key>CAMERA_MICROPHONE</key>
-	<string>摄像头和麦克风</string>
-	<key>CAMERA_MICROPHONE_SUBTITLE</key>
-	<string>隐藏最近使用的应用程序</string>
-	<key>CHEVRON</key>
-	<string>拉手</string>
-	<key>CONNECTIVITY_MODULE</key>
-	<string>连接模块</string>
-	<key>CONTROL_CENTER</key>
-	<string>控制中心</string>
-	<key>DISABLE_CC_COMPLETELY</key>
-	<string>完全禁用控制中心</string>
-	<key>Distance: %i</key>
-	<string>距离: %i</string>
-	<key>HIDE_CHEVRON</key>
-	<string>隐藏拉手</string>
-	<key>MODULES</key>
-	<string>模块</string>
-	<key>SHADOW_COLOR</key>
-	<string>阴影颜色</string>
-	<key>SLIDERS</key>
-	<string>滑条</string>
-	<key>STATUS_BAR</key>
-	<string>状态栏</string>
-	<key>USE_OUTER_SHADOW</key>
-	<string>使用外部阴影</string>
-	<key>USE_ROUNDED_MODULES</key>
-	<string>圆形模块</string>
-	<key>VOLUME_BRIGHTNESS</key>
-	<string>音量和亮度</string>
-	<key>VOLUME_BRIGHTNESS_SUBTITLE</key>
-	<string>显示当前百分比</string>
-	<key>BACKGROUND</key>
-	<string>  </string>
-	<key>BACKGROUND_BLUR</key>
-	<string>  </string>
-	<key>BACKGROUND_BLUR_SUBTITLE</key>
-	<string>  </string>
-	<key>CONNECTIVITY_COLORS</key>
-	<string>  </string>
-	<key>CONNECTIVITY_COLORS_SUBTITLE</key>
-	<string>  </string>
-	<key>CONNECTIVITY_COLUMNS</key>
-	<string>  </string>
-	<key>CONNECTIVITY_ROWS</key>
-	<string>  </string>
-	<key>CONNECTIVITY_SIZE_SUBTITLE</key>
-	<string>  </string>
-	<key>DISABLE_CC_COMPLETELY_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_CHEVRON_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_COMPLETELY</key>
-	<string>  </string>
-	<key>HIDE_COMPLETELY_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_ENABLED_BACKGROUND</key>
-	<string>  </string>
-	<key>HIDE_ENABLED_BACKGROUND_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_SENSOR</key>
-	<string>  </string>
-	<key>HIDE_SENSOR_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_TOGGLE_HINTS</key>
-	<string>  </string>
-	<key>HIDE_TOGGLE_HINTS_SUBTITLE</key>
-	<string>  </string>
-	<key>MODULE_BACKGROUND_BLUR_STYLE</key>
-	<string>  </string>
-	<key>MODULE_BACKGROUND_BLUR_STYLE_SUBTITLE</key>
-	<string>  </string>
-	<key>TOGGLE_HINTS</key>
-	<string>  </string>
-	<key>USE_OUTER_SHADOW_SUBTITLE</key>
-	<string>  </string>
-	<key>USE_ROUNDED_MODULES_SUBTITLE</key>
-	<string>  </string>
-</dict>
-</plist>
+"AVAILABILITY" = "可用性";
+"DISABLE_CC_COMPLETELY" = "完全禁用";
+"DISABLE_CC_COMPLETELY_SUBTITLE" = "移除打开控制中心的功能";
+"CONNECTIVITY_MODULE" = "连接模块";
+"BLUETOOTH_WIFI" = "蓝牙和 WiFi";
+"BLUETOOTH_WIFI_SUBTITLE" = "切换时实际禁用";
+"STATUS_BAR" = "状态栏";
+"HIDE_SENSOR" = "隐藏传感器指示器";
+"HIDE_SENSOR_SUBTITLE" = "移除设备传感器指示器视图";
+"MODULES" = "模块";
+"USE_ROUNDED_MODULES" = "使用圆形模块";
+"USE_ROUNDED_MODULES_SUBTITLE" = "使模块呈现为圆形";
+"USE_OUTER_SHADOW" = "使用外部阴影";
+"USE_OUTER_SHADOW_SUBTITLE" = "向左滑动设置颜色";
+"SHADOW_COLOR" = "阴影颜色";
+"SLIDERS" = "滑块";
+"VOLUME_BRIGHTNESS" = "音量和亮度";
+"VOLUME_BRIGHTNESS_SUBTITLE" = "显示当前滑块值";
+"CHEVRON" = "箭头";
+"HIDE_CHEVRON" = "隐藏箭头";
+"HIDE_CHEVRON_SUBTITLE" = "从控制中心顶部移除箭头";
+"CONTROL_CENTER" = "控制中心";
+"TOGGLE_HINTS" = "切换提示";
+"HIDE_TOGGLE_HINTS_SUBTITLE" = "在连接切换更改时移除文本";
+"HIDE_TOGGLE_HINTS" = "隐藏切换提示";
+"HIDE_COMPLETELY" = "隐藏状态栏";
+"HIDE_COMPLETELY_SUBTITLE" = "从控制中心顶部移除状态栏";
+"BACKGROUND" = "背景";
+"BACKGROUND_BLUR" = "模糊样式";
+"BACKGROUND_BLUR_SUBTITLE" = "更改覆盖层的模糊效果";
+"CONNECTIVITY_COLORS" = "更改按钮颜色";
+"CONNECTIVITY_COLORS_SUBTITLE" = "设置连接按钮的颜色";
+"HIDE_ENABLED_BACKGROUND" = "隐藏切换背景";
+"HIDE_ENABLED_BACKGROUND_SUBTITLE" = "移除已启用的切换模块的背景";
+"MODULE_BACKGROUND_BLUR_STYLE" = "背景模糊";
+"MODULE_BACKGROUND_BLUR_STYLE_SUBTITLE" = "设置模块背景的外观";
+"CONNECTIVITY_COLUMNS" = "模块列数";
+"CONNECTIVITY_ROWS" = "模块行数";
+"CONNECTIVITY_SIZE_SUBTITLE" = "向左滑动设置数值";
