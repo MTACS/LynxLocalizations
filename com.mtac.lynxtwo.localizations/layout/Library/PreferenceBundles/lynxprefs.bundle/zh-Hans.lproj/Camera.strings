@@ -1,32 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>CAMERA</key>
-	<string>相机程序</string>
-	<key>CAMERA_STYLE</key>
-	<string>相机风格</string>
-	<key>DISABLE_SHUTTER_SOUND</key>
-	<string>禁用快门声音</string>
-	<key>DOUBLE_TAP_FLIP</key>
-	<string>双击</string>
-	<key>DOUBLE_TAP_FLIP_SUBTITLE</key>
-	<string>双击可翻转</string>
-	<key>RECENT_PHOTOS</key>
-	<string>近的图片</string>
-	<key>RECENT_PHOTOS_SUBTITLE</key>
-	<string>隐藏最近的图片预览</string>
-	<key>RECENT_PHOTO_PREVIEW</key>
-	<string>预览</string>
-	<key>SHUTTER_SOUND</key>
-	<string>快门声</string>
-	<key>USE_IPAD_STYLE</key>
-	<string>使用iPad风格</string>
-	<key>VIEWFINDER</key>
-	<string>取景器</string>
-	<key>DISABLE_SHUTTER_SOUND_SUBTITLE</key>
-	<string>  </string>
-	<key>USE_IPAD_STYLE_SUBTITLE</key>
-	<string>  </string>
-</dict>
-</plist>
+"CAMERA_STYLE" = "相机风格";
+"USE_IPAD_STYLE" = "使用 iPad 风格";
+"USE_IPAD_STYLE_SUBTITLE" = "将控件移动到屏幕侧边";
+"RECENT_PHOTO_PREVIEW" = "最近照片预览";
+"RECENT_PHOTOS" = "最近照片";
+"RECENT_PHOTOS_SUBTITLE" = "隐藏最近拍摄的照片";
+"SHUTTER_SOUND" = "快门声音";
+"DISABLE_SHUTTER_SOUND" = "禁用快门声音";
+"DISABLE_SHUTTER_SOUND_SUBTITLE" = "拍照时不播放声音";
+"CAMERA" = "相机";
+"VIEWFINDER" = "取景器";
+"DOUBLE_TAP_FLIP" = "双击翻转";
+"DOUBLE_TAP_FLIP_SUBTITLE" = "双击两次翻转";
