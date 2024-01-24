@@ -192,3 +192,4 @@
 "REPLACE_DICTATION_KEY_SUBTITLE" = "在语音输入键位置添加隐藏键盘按钮";
 "HIDE_HANDOFF" = "隐藏传递项目";
 "HIDE_HANDOFF_SUBTITLE" = "从建议部分中移除传递建议";
+"Volume Steps: %i" = "音量步进: %i";

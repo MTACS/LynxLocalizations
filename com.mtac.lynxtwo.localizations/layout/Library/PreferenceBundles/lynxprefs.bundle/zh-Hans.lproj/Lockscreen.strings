@@ -135,3 +135,5 @@
 "LOCKSCREEN_BLUR_SUBTITLE" = "设置覆盖层模糊样式";
 "USE_EXPANDED_PLAYER" = "使用扩展播放器";
 "USE_EXPANDED_PLAYER_SUBTITLE" = "始终使用扩展播放器";
+"Font Size: %i" = "字体大小: %i";
+"List Offset: %i" = "列表偏移: %i";

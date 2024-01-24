@@ -101,3 +101,4 @@
 "NOTCH" = "刘海/灵动岛";
 "HIDE_NOTCH" = "隐藏刘海/灵动岛";
 "HIDE_NOTCH_SUBTITLE" = "添加视图隐藏刘海/灵动岛";
+"Signal Bars: %i" = "信号条数: %i";

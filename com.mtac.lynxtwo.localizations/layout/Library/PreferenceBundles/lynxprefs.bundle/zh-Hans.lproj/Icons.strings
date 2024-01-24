@@ -65,7 +65,7 @@
 "DISABLE_CLOCK_ANIMATION_SUBTITLE" = "停止时钟图标的指针动画";
 "ICON_SCALE" = "图标缩放";
 "USE_CUSTOM_HOMESCREEN_SCALE" = "自定义主屏幕缩放";
-"USE_CUSTOM_DOCK_SCALE= "自定义 Dock 缩放";
+"USE_CUSTOM_DOCK_SCALE" = "自定义 Dock 缩放";
 "USE_CUSTOM_APP_LIBRARY_SCALE" = "自定义 App 资源库缩放";
 "EDITING" = "编辑";
 "DISABLE_ICON_JITTER" = "禁用编辑动画";
@@ -85,3 +85,5 @@
 "RENAME" = "重命名";
 "LOCK_APP" = "锁定";
 "UNLOCK_APP" = "解锁";
+"Font Size: %i" = "字体大小: %i";
+"Scale: %i" = "比例大小: %i";

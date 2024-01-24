@@ -29,3 +29,4 @@
 "DISABLE_WIDGETS_HOMESCREEN_SUBTITLE" = "取消从主屏滑动";
 "HIDE_EDIT_BUTTON" = "隐藏编辑按钮";
 "HIDE_EDIT_BUTTON_SUBTITLE" = "移除小组件视图底部的“编辑”按钮";
+"Distance: %i" = "间距: %i";
