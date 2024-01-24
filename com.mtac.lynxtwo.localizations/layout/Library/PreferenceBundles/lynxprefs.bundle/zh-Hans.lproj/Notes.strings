@@ -1,26 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>AUTOMATICALLY_COLLAPSE</key>
-	<string>  </string>
-	<key>AUTOMATICALLY_COLLAPSE_SUBTITLE</key>
-	<string>  </string>
-	<key>NOTES</key>
-	<string>  </string>
-	<key>OBSCURE_DETAILS</key>
-	<string>  </string>
-	<key>OBSCURE_DETAILS_SUBTITLE</key>
-	<string>  </string>
-	<key>SECURITY</key>
-	<string>  </string>
-	<key>TINT</key>
-	<string>  </string>
-	<key>TOOLBAR</key>
-	<string>  </string>
-	<key>USE_TINT_COLOR</key>
-	<string>  </string>
-	<key>USE_TINT_COLOR_SUBTITLE</key>
-	<string>  </string>
-</dict>
-</plist>
+"NOTES" = "笔记";
+"TOOLBAR" = "工具栏";
+"AUTOMATICALLY_COLLAPSE" = "自动隐藏";
+"AUTOMATICALLY_COLLAPSE_SUBTITLE" = "默认关闭键盘工具栏";
+"SECURITY" = "安全";
+"OBSCURE_DETAILS" = "隐藏笔记详情";
+"OBSCURE_DETAILS_SUBTITLE" = "模糊化笔记详情文本";
+"TINT" = "着色";
+"USE_TINT_COLOR" = "使用着色";
+"USE_TINT_COLOR_SUBTITLE" = "设置自定义元素颜色";
