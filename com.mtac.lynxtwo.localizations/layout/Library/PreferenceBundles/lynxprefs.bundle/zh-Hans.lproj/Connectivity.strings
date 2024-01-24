@@ -1,26 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>AIRDROP</key>
-	<string>  </string>
-	<key>AIRPLANE_MODE</key>
-	<string>  </string>
-	<key>BLUETOOTH</key>
-	<string>  </string>
-	<key>CELLULAR_DATA</key>
-	<string>  </string>
-	<key>COLOR_PICKER</key>
-	<string>  </string>
-	<key>COLOR_PICKER_DISABLED</key>
-	<string>  </string>
-	<key>COLOR_PICKER_SUBTITLE</key>
-	<string>  </string>
-	<key>CONNECTIVITY</key>
-	<string>  </string>
-	<key>HOTSPOT</key>
-	<string>  </string>
-	<key>WIFI</key>
-	<string>  </string>
-</dict>
-</plist>
+"CONNECTIVITY" = "连接";
+"AIRPLANE_MODE" = "飞行模式";
+"CELLULAR_DATA" = "蜂窝数据";
+"WIFI" = "WiFi";
+"BLUETOOTH" = "蓝牙";
+"AIRDROP" = "隔空投送";
+"HOTSPOT" = "个人热点";
+"COLOR_PICKER_SUBTITLE" = "向左滑动设置颜色";
+"COLOR_PICKER" = "自定义启用颜色";
+"COLOR_PICKER_DISABLED" = "自定义禁用颜色";
