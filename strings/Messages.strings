@@ -12,7 +12,7 @@
 "HIDE_PINNED_PREVIEW_SUBTITLE" = "从置顶的联系人视图中移除消息标签";
 "SENDING" = "消息发送";
 "SWITCH_MESSAGE_TYPE" = "切换消息类型";
-"SWITCH_MESSAGE_TYPE_SUBTITLE" = "长按对话联系人头部以切换消息类型（iMessage / 短信）";
+"SWITCH_MESSAGE_TYPE_SUBTITLE" = "长按对话联系人头部以切换消息类型（ iMessage / 短信）";
 "DELAY_MESSAGE_SEND" = "延迟发送消息";
 "DELAY_MESSAGE_SUBTITLE" = "在发送消息之前添加延迟";
 "MESSAGE_DELAY" = "延迟时间";
