@@ -2,7 +2,7 @@
 "DISABLE_CC_COMPLETELY" = "完全禁用";
 "DISABLE_CC_COMPLETELY_SUBTITLE" = "移除打开控制中心的功能";
 "CONNECTIVITY_MODULE" = "连接模块";
-"BLUETOOTH_WIFI" = "蓝牙和WiFi";
+"BLUETOOTH_WIFI" = "蓝牙和 WiFi";
 "BLUETOOTH_WIFI_SUBTITLE" = "切换时实际禁用";
 "STATUS_BAR" = "状态栏";
 "HIDE_SENSOR" = "隐藏传感器指示器";
