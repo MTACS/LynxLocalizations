@@ -1,22 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>ADDRESS_BAR</key>
-	<string>  </string>
-	<key>PLAYBACK</key>
-	<string>  </string>
-	<key>PLAYBACK_GLOBAL</key>
-	<string>  </string>
-	<key>PLAYBACK_GLOBAL_SUBTITLE</key>
-	<string>  </string>
-	<key>PLAYBACK_SUBTITLE</key>
-	<string>  </string>
-	<key>SAFARI</key>
-	<string>  </string>
-	<key>SAFARI_ADDRESS_BAR</key>
-	<string>  </string>
-	<key>SAFARI_ADDRESS_BAR_SUBTITLE</key>
-	<string>  </string>
-</dict>
-</plist>
+"SAFARI" = "Safari";
+"ADDRESS_BAR" = "地址栏";
+"SAFARI_ADDRESS_BAR" = "移除背景";
+"SAFARI_ADDRESS_BAR_SUBTITLE" = "隐藏变暗的背景视图";
+"PLAYBACK" = "播放";
+"PLAYBACK_SUBTITLE" = "在后台继续播放 Safari 内容";
+"PLAYBACK_GLOBAL" = "WebKit 播放";
+"PLAYBACK_GLOBAL_SUBTITLE" = "允许 Safari 内容应用作为后台媒体来源";
