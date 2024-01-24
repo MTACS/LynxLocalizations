@@ -1,94 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>APP_LIBRARY</key>
-	<string>应用资源库</string>
-	<key>DISABLE_APP_LIBRARY</key>
-	<string>禁用资源库</string>
-	<key>DISABLING</key>
-	<string>禁用</string>
-	<key>HAPTICS</key>
-	<string>振动反馈</string>
-	<key>HAPTIC_CLOSE</key>
-	<string>关闭振动</string>
-	<key>HAPTIC_OPEN</key>
-	<string>开启振动</string>
-	<key>HIDE_APP_LABELS</key>
-	<string>隐藏应用标签</string>
-	<key>HIDE_BACKGROUND_BLUR</key>
-	<string>隐藏背景模糊</string>
-	<key>HIDE_CATEGORY_NAME</key>
-	<string>隐藏类别名称</string>
-	<key>HIDE_FOLDER_TITLES</key>
-	<string>隐藏文件夹标题</string>
-	<key>HIDE_MAGNIFYING_GLASS</key>
-	<string>隐藏放大镜</string>
-	<key>HIDE_OFFLINE_CLOUD</key>
-	<string>隐藏离线云</string>
-	<key>HIDE_SEARCH_BAR_BLUR</key>
-	<string>隐藏搜索栏模糊</string>
-	<key>LISTMODE_SUBTITLE</key>
-	<string>以列表模式打开</string>
-	<key>OPEN_LIST_MODE</key>
-	<string>模块文件夹</string>
-	<key>PODS</key>
-	<string>模块</string>
-	<key>POD_FOLDERS</key>
-	<string>模块文件夹</string>
-	<key>SEARCH_BAR</key>
-	<string>搜索栏</string>
-	<key>SHOW_DELETE_LIST</key>
-	<string>显示删除图标</string>
-	<key>STYLE</key>
-	<string>风格</string>
-	<key>ACTIVATION</key>
-	<string>  </string>
-	<key>CATEGORIES</key>
-	<string>  </string>
-	<key>CATEGORIES_FOOTER</key>
-	<string>  </string>
-	<key>DISABLE_APP_LIBRARY_SUBTITLE</key>
-	<string>  </string>
-	<key>DISABLE_PULL_SEARCH</key>
-	<string>  </string>
-	<key>DISABLE_PULL_SEARCH_SUBTITLE</key>
-	<string>  </string>
-	<key>DONE</key>
-	<string>  </string>
-	<key>EDIT_CATEGORIES</key>
-	<string>  </string>
-	<key>ENABLE_POD_EDITING</key>
-	<string>  </string>
-	<key>HAPTIC_CLOSE_SUBTITLE</key>
-	<string>  </string>
-	<key>HAPTIC_OPEN_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_APP_LABELS_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_BACKGROUND_BLUR_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_CATEGORY_NAME_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_FOLDER_TITLES_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_MAGNIFYING_GLASS_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_OFFLINE_CLOUD_SUBTITLE</key>
-	<string>  </string>
-	<key>HIDE_SEARCH_BAR_BLUR_SUBTITLE</key>
-	<string>  </string>
-	<key>OPEN_CATEGORY_EDITING</key>
-	<string>  </string>
-	<key>POD_NAME_ARRAY</key>
-	<string>  </string>
-	<key>REPLACE_SPOTLIGHT</key>
-	<string>  </string>
-	<key>REPLACE_SPOTLIGHT_SUBTITLE</key>
-	<string>  </string>
-	<key>REVERSE_POD_ORDER</key>
-	<string>  </string>
-	<key>REVERSE_POD_ORDER_SUBTITLE</key>
-	<string>  </string>
-</dict>
-</plist>
+"DISABLING" = "禁用中";
+"DISABLE_APP_LIBRARY" = "移除 App 资源库";
+"DISABLE_APP_LIBRARY_SUBTITLE" = "完全禁用 App 资源库的打开";
+"STYLE" = "风格";
+"OPEN_LIST_MODE" = "以列表模式打开";
+"LISTMODE_SUBTITLE" = "自动打开应用列表";
+"PODS" = "Pods";
+"HIDE_BACKGROUND_BLUR" = "隐藏背景模糊";
+"HIDE_BACKGROUND_BLUR_SUBTITLE" = "从类别图标中移除效果";
+"HIDE_CATEGORY_NAME" = "隐藏类别名称";
+"HIDE_CATEGORY_NAME_SUBTITLE" = "移除类别 Pod 图标标签";
+"POD_FOLDERS" = "Pod 文件夹";
+"HIDE_APP_LABELS" = "隐藏应用标签";
+"HIDE_APP_LABELS_SUBTITLE" = "移除 Pod 文件夹应用标签";
+"HIDE_FOLDER_TITLES" = "隐藏文件夹标题";
+"HIDE_FOLDER_TITLES_SUBTITLE" = "移除打开文件夹的标题";
+"HIDE_OFFLINE_CLOUD" = "隐藏离线云";
+"HIDE_OFFLINE_CLOUD_SUBTITLE" = "从离线应用中移除云图标";
+"SEARCH_BAR" = "搜索栏";
+"HIDE_SEARCH_BAR_BLUR" = "隐藏搜索背景";
+"HIDE_SEARCH_BAR_BLUR_SUBTITLE" = "移除搜索栏后面的模糊效果";
+"HIDE_MAGNIFYING_GLASS" = "隐藏搜索图标";
+"HIDE_MAGNIFYING_GLASS_SUBTITLE" = "移除放大镜图标";
+"HAPTICS" = "触觉反馈";
+"HAPTIC_OPEN" = "打开反馈";
+"HAPTIC_OPEN_SUBTITLE" = "打开资源库时振动";
+"HAPTIC_CLOSE" = "关闭反馈";
+"HAPTIC_CLOSE_SUBTITLE" = "关闭资源库时振动";
+"APP_LIBRARY" = "App 资源库";
+"DISABLE_PULL_SEARCH" = "禁用下拉搜索";
+"DISABLE_PULL_SEARCH_SUBTITLE" = "移除搜索手势";
+"ACTIVATION" = "激活";
+"REPLACE_SPOTLIGHT" = "替换 Spotlight";
+"REPLACE_SPOTLIGHT_SUBTITLE" = "向下滑动打开应用库";
+"REVERSE_POD_ORDER" = "颠倒 Pod 顺序";
+"REVERSE_POD_ORDER_SUBTITLE" = "以倒序显示 Pod";
+"ENABLE_POD_EDITING" = "启用 Pod 编辑";
+"POD_NAME_ARRAY" = "输入以逗号分隔的 Pod 名称";
+"CATEGORIES" = "类别";
+"CATEGORIES_FOOTER" = "要从主屏幕编辑应用库类别，请在库中强制按住一个图标，然后从 3D Touch 菜单中选择“编辑类别”选项";
+"OPEN_CATEGORY_EDITING" = "打开库类别编辑器";
+"EDIT_CATEGORIES" = "编辑类别";
+"DONE" = "完成";
