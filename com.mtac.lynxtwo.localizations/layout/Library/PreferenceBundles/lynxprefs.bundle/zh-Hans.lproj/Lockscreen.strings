@@ -60,7 +60,7 @@
 "SHADOW_SUBTITLE" = "向左滑动设置颜色";
 "SHADOW_COLOR" = "发光颜色";
 "FACE_ID" = "面容 ID";
-"LOCK_ICON" = "锁屏图标";
+"LOCK_ICON" = "Face ID 解锁图标";
 "LOCK_ICON_SUBTITLE" = "在锁屏界面上隐藏 Face ID 图标";
 "PASSCODE_BUTTONS" = "密码输入按钮";
 "PASSCODE_ENTRY_TEXT" = "密码输入文本";
