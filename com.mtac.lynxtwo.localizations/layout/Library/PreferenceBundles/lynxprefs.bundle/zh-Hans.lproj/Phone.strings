@@ -7,7 +7,6 @@
 "HIDE_THIRD_PARTY_CALLS" = "隐藏第三方通话";
 "HIDE_THIRD_PARTY_CALLS_SUBTITLE" = "仅显示通过原生电话应用进行的通话";
 "TAB_BAR" = "选项卡栏";
-"HIDE_VOICEMAIL_TAB" = "隐藏语音邮件选项卡";
 "CALL_BUTTON" = "拨号按钮";
 "HIDE_BACKGROUND" = "隐藏背景";
 "HIDE_BACKGROUND_SUBTITLE" = "将按钮颜色设置为视图背景颜色";
@@ -15,10 +14,10 @@
 "USE_CUSTOM_CALL_BUTTON_COLOR_SUBTITLE" = "向左滑动以设置颜色";
 "TINT_COLOR" = "着色";
 "PHONE" = "电话";
-"HIDE_FAVORITES_TAB" = "隐藏收藏夹选项卡";
-"HIDE_RECENTS_TAB" = "隐藏最近通话选项卡";
-"HIDE_CONTACTS_TAB" = "隐藏联系人选项卡";
-"HIDE_DIALER_TAB" = "隐藏拨号选项卡";
-"HIDE_VOICEMAIL_TAB" = "隐藏语音邮件选项卡";
+"HIDE_FAVORITES_TAB" = "隐藏收藏夹";
+"HIDE_RECENTS_TAB" = "隐藏最近通话";
+"HIDE_CONTACTS_TAB" = "隐藏通讯录";
+"HIDE_DIALER_TAB" = "隐藏拨号键盘";
+"HIDE_VOICEMAIL_TAB" = "隐藏语音留言";
 "12 Hour" = "12 小时";
 "24 Hour" = "24 小时";
