@@ -6,7 +6,7 @@
 "ICONS" = "图标";
 "HIDE_CELL_ICONS" = "隐藏单元格图标";
 "USE_ROUND_CELL_ICONS" = "使用圆形单元格图标";
-"CHEVRONS" = "矢车菊";
+"CHEVRONS" = "人字形";
 "HIDE_DISCLOSURE_ARROW" = "隐藏展开箭头";
 "SECTIONS" = "部分";
 "HIDE_THIRD_PARTY" = "隐藏第三方应用";
@@ -27,7 +27,7 @@
 "USE_MODERN_ACCOUNT_SUBTITLE" = "用头像按钮替换账户单元格";
 "SEARCH_BARS" = "搜索栏";
 "HIDE_SEARCH_BAR" = "隐藏搜索栏";
-"HIDE_SEARCH_BAR_SUBTITLE" = "移除主设置页面的搜索栏";
+"HIDE_SEARCH_BAR_SUBTITLE" = "隐藏主设置页面的搜索栏";
 "SHOW_DATA_USAGE" = "显示数据使用情况";
 "SHOW_DATA_USAGE_SUBTITLE" = "显示当前期间使用的移动数据量";
 "BACKGROUND" = "背景";
