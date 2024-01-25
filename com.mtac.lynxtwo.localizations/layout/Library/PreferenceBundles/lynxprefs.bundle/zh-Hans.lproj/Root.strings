@@ -36,8 +36,8 @@
 "EXPERIMENTAL_SUBTITLE" = "状态栏，屏幕，Safari";
 "ABOUT" = "关于";
 "ABOUT_SUBTITLE" = "插件信息，支持，重置";
-"SECTION_ENABLED" = "未启用";
-"SECTION_DISABLED" = "已启用";
+"SECTION_ENABLED" = "已启用";
+"SECTION_DISABLED" = "未启用";
 "SYSTEM_HEADER" = "系统";
 "APPS_HEADER" = "应用";
 "MORE_HEADER" = "更多";
