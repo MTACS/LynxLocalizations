@@ -1,6 +1,6 @@
 "STYLE" = "Stil";
 "USE_GRID_STYLE" = "Raster-Stil verwenden";
-"GRID_STYLE_SUBTITLE" = "4x4-Layout aktivieren";
+"GRID_STYLE_SUBTITLE" = "4x4-Layout aktivieren.";
 "USE_PAGE_STYLE" = "Seiten-Stil verwenden";
 "APP_SUGGESTIONS" = "App-Vorschläge";
 "SUGGGESTION_BANNER" = "Vorschlagsbanner";
@@ -29,14 +29,14 @@
 "PRESS_TO_KILL_SUBTITLE" = "3D-Touch auf einer beliebigen laufenden App, um alle zu beenden.";
 "SWITCHER_STYLE" = "Switcher-Layout";
 "PRESS_TO_KILL" = "Zum Leeren Drücken";
-"HIDE_CARD_LABELS_SUBTITLE" = "Beschriftung mit dem Anwendungsnamen entfernen";
-"HIDE_CARD_ICONS_SUBTITLE" = "Anwendungs-Icon entfernen";
+"HIDE_CARD_LABELS_SUBTITLE" = "Beschriftung mit dem Anwendungsnamen entfernen.";
+"HIDE_CARD_ICONS_SUBTITLE" = "Anwendungs-Icon entfernen.";
 "CLEAR" = "Leeren";
 "SWIPE_TO_KILL_SUBTITLE" = "Bei einer laufenden App nach unten wischen, um alle zu beenden.";
 "CANCEL" = "Abbrechen";
 "SWIPE_TO_KILL" = "Zum Leeren Wischen";
-"SWITCHER_STYLE_SUBTITLE" = "Stil von Switcher-Karten setzen. Gilt sofort";
-"CUSTOM_PAGE_SCALING_SUBTITLE" = "Skalierungsfaktor der Seiten festlegen";
+"SWITCHER_STYLE_SUBTITLE" = "Stil von Switcher-Karten setzen. Gilt sofort!";
+"CUSTOM_PAGE_SCALING_SUBTITLE" = "Skalierungsfaktor der Seiten festlegen.";
 "PAGES" = "Seiten";
 "SELECT_LOCKED_APPS" = "Gesperrte Apps wählen";
-"CUSTOM_GRID_SPACING_SUBTITLE" = "Abstand zwischen den Rasterseiten festlegen";
+"CUSTOM_GRID_SPACING_SUBTITLE" = "Abstand zwischen den Rasterseiten festlegen.";
