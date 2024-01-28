@@ -1,7 +1,7 @@
-"TRANSLATIONS" = "Translations";
-"ADD_UPDATE_TRANSLATION" = "Add/Update Translation";
-"OPEN_LOCALIZATIONS" = "Localizations";
-"OPEN_LOCALIZATIONS_SUBTITLE" = "Translate Lynx into your language";
+"TRANSLATIONS" = "翻譯";
+"ADD_UPDATE_TRANSLATION" = "新增/更新翻譯";
+"OPEN_LOCALIZATIONS" = "翻譯";
+"OPEN_LOCALIZATIONS_SUBTITLE" = "翻譯 Lynx";
 "FRENCH" = "法文";
 "GERMAN" = "德文";
 "TURKISH" = "土耳其文";
