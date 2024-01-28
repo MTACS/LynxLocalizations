@@ -1,16 +1,16 @@
-"UP_NEXT_POPUP" = "'Up Next' Popup";
-"HIDE_QUEUE_POPUP" = "Hide Queue Popup";
-"HIDE_QUEUE_POPUP_SUBTITLE" = "Remove view when queueing songs";
-"RECENTLY_ADDED" = "Recently Added";
-"SHOW_ALL_SONGS" = "Show All Songs";
-"SHOW_ALL_SONGS_SUBTITLE" = "Remove display limit on recently added lists";
-"MUSIC_LIBRARY_LAYOUT" = "Music Library Layout";
-"THREE_COLUMNS" = "Use 3 Column Layout";
-"THREE_COLUMNS_SUBTITLE" = "Show recently added music in 3 columns";
-"MUSIC" = "Music";
-"MUSIC_NOTIFICATIONS" = "Notifications";
-"MUSIC_BANNER" = "Show Now Playing Banner";
-"MUSIC_BANNER_SUBTITLE" = "Send notification when song changes";
+"UP_NEXT_POPUP" = "「下一首」彈出式視窗";
+"HIDE_QUEUE_POPUP" = "隱藏序列彈出式視窗";
+"HIDE_QUEUE_POPUP_SUBTITLE" = "在增加新曲子時停用序列彈出式視窗";
+"RECENTLY_ADDED" = "最近新增";
+"SHOW_ALL_SONGS" = "顯示所有歌曲";
+"SHOW_ALL_SONGS_SUBTITLE" = "在最近新增曲子清單內移除顯示限制";
+"MUSIC_LIBRARY_LAYOUT" = "音樂資料庫編排";
+"THREE_COLUMNS" = "使用三列編排";
+"THREE_COLUMNS_SUBTITLE" = "最近新增項目將以三列呈現";
+"MUSIC" = "音樂";
+"MUSIC_NOTIFICATIONS" = "通知";
+"MUSIC_BANNER" = "顯示正在播放橫幅";
+"MUSIC_BANNER_SUBTITLE" = "切換歌曲時顯示通知";
 
 
 
