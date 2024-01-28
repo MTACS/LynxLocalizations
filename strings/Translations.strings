@@ -2,8 +2,9 @@
 "ADD_UPDATE_TRANSLATION" = "Add/Update Translation";
 "OPEN_LOCALIZATIONS" = "Localizations";
 "OPEN_LOCALIZATIONS_SUBTITLE" = "Translate Lynx into your language";
-"FRENCH" = "French";
-"GERMAN" = "German";
-"TURKISH" = "Turkish";
-"SPANISH" = "Spanish";
-"CHINESE" = "Chinese";
+"FRENCH" = "法文";
+"GERMAN" = "德文";
+"TURKISH" = "土耳其文";
+"SPANISH" = "西班牙文";
+"SIMPLIFIED_CHINESE" = "簡體中文";
+"TRADITIONAL_CHINESE" = "繁體中文"
