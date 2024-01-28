@@ -9,5 +9,5 @@
 "VIEWFINDER" = "Fokus";
 "DOUBLE_TAP_FLIP" = "Doppeltippen";
 "DOUBLE_TAP_FLIP_SUBTITLE" = "Zweimal tippen, um zu spiegeln.";
-"DISABLE_SHUTTER_SOUND_SUBTITLE" = "  ";
-"USE_IPAD_STYLE_SUBTITLE" = "  ";
+"DISABLE_SHUTTER_SOUND_SUBTITLE" = "Beim Aufnehmen von Fotos wird kein Ton wiedergegeben.";
+"USE_IPAD_STYLE_SUBTITLE" = "Steuerelemente an die Seite des Bildschirms verschieben.";
