@@ -1,0 +1,10 @@
+"CONNECTIVITY" = "连接";
+"AIRPLANE_MODE" = "飞行模式";
+"CELLULAR_DATA" = "蜂窝数据";
+"WIFI" = "WiFi";
+"BLUETOOTH" = "蓝牙";
+"AIRDROP" = "隔空投送";
+"HOTSPOT" = "个人热点";
+"COLOR_PICKER_SUBTITLE" = "向左滑动设置颜色";
+"COLOR_PICKER" = "自定义启用颜色";
+"COLOR_PICKER_DISABLED" = "自定义禁用颜色";

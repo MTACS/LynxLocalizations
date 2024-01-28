@@ -5,3 +5,9 @@
 "MUSIC_LIBRARY_LAYOUT" = "Musikbibliotheken-Layout";
 "THREE_COLUMNS" = "3-Spalten-Layout verwenden";
 "MUSIC" = "Musik";
+"HIDE_QUEUE_POPUP_SUBTITLE" = "  ";
+"SHOW_ALL_SONGS_SUBTITLE" = "  ";
+"MUSIC_BANNER_SUBTITLE" = "  ";
+"THREE_COLUMNS_SUBTITLE" = "  ";
+"MUSIC_BANNER" = "  ";
+"MUSIC_NOTIFICATIONS" = "  ";

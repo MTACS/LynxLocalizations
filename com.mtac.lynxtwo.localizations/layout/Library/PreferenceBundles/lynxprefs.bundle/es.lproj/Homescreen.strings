@@ -1,6 +1,6 @@
 "HOMESCREEN_EDITING" = "Editar Pantalla de Inicio";
 "QUICK_SETTINGS" = "Ajustes Rápidos";
-"QUICK_SETTINGS_SUBTITLE" = "Tocar en el botón "Agregar Widget" para más";
+"QUICK_SETTINGS_SUBTITLE" = "Tocar en el botón 'Agregar Widget' para más";
 "HOMESCREEN" = "Pantalla de Inicio";
 "HS_ROWS_SUBTITLE" = "Por defecto: 6";
 "CUSTOM_HOMESCREEN_ROWS" = "Filas personalizadas";
@@ -16,3 +16,10 @@
 "CUSTOM_DOCK_ICONS_SUBTITLE" = "Por defecto: 4";
 "APPLY" = "Aplicar";
 "HOMESCREEN" = "Pantalla de Inicio";
+"RESET_ALL_SUBTITLE" = "  ";
+"EDIT_LAYOUT" = "  ";
+"RESET_ALL" = "  ";
+"SWIPE_ACTIONS" = "  ";
+"ADD_WIDGET" = "  ";
+"HS_LAYOUT" = "  ";
+"HS_LAYOUT_SUBTITLE" = "  ";

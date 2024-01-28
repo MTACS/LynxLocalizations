@@ -18,3 +18,8 @@
 "HOMESCREEN" = "Écran d'Accueil";
 "HS_LAYOUT" = "Utiliser une Disposition Personnalisée";
 "HS_LAYOUT_SUBTITLE" = "Définir les Lignes & Colonnes";
+"RESET_ALL_SUBTITLE" = "  ";
+"ADD_WIDGET" = "  ";
+"EDIT_LAYOUT" = "  ";
+"SWIPE_ACTIONS" = "  ";
+"RESET_ALL" = "  ";

@@ -18,3 +18,8 @@
 "HOMESCREEN" = "Home-Bildschirm";
 "HS_LAYOUT" = "HS-Layout";
 "HS_LAYOUT_SUBTITLE" = "Aktiviert das HS-Layout";
+"RESET_ALL_SUBTITLE" = "  ";
+"ADD_WIDGET" = "  ";
+"EDIT_LAYOUT" = "  ";
+"SWIPE_ACTIONS" = "  ";
+"RESET_ALL" = "  ";
