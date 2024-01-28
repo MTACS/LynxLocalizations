@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CARPLAY</key>
+	<string>  </string>
+	<key>CUSTOM_ICON_LAYOUT</key>
+	<string>  </string>
+	<key>CUSTOM_ICON_LAYOUT_SUBTITLE</key>
+	<string>  </string>
+	<key>HIDE_LABELS</key>
+	<string>  </string>
+	<key>HIDE_LABELS_SUBTITLE</key>
+	<string>  </string>
+	<key>HIDE_LABEL_BACKGROUND</key>
+	<string>  </string>
+	<key>HIDE_LABEL_BACKGROUND_SUBTITLE</key>
+	<string>  </string>
+	<key>ICONS</key>
+	<string>  </string>
+	<key>RESET_WALLPAPER</key>
+	<string>  </string>
+	<key>SET_CUSTOM_WALLPAPER</key>
+	<string>  </string>
+	<key>SET_CUSTOM_WALLPAPER_SUBTITLE</key>
+	<string>  </string>
+	<key>SHOW_BATTERY</key>
+	<string>  </string>
+	<key>SHOW_BATTERY_SUBTITLE</key>
+	<string>  </string>
+	<key>SHOW_WEATHER</key>
+	<string>  </string>
+	<key>SHOW_WEATHER_SUBTITLE</key>
+	<string>  </string>
+	<key>STATUS_BAR</key>
+	<string>  </string>
+	<key>STATUS_BAR_EDGE</key>
+	<string>  </string>
+	<key>STATUS_BAR_EDGE_SUBTITLE</key>
+	<string>  </string>
+	<key>TERMINATE</key>
+	<string>  </string>
+	<key>USE_AVERAGE_BADGES</key>
+	<string>  </string>
+	<key>USE_AVERAGE_BADGES_SUBTITLE</key>
+	<string>  </string>
+	<key>WALLPAPER</key>
+	<string>  </string>
+</dict>
+</plist>

@@ -9,3 +9,5 @@
 "VIEWFINDER" = "Bulucuyu Görüntüle";
 "DOUBLE_TAP_FLIP" = "Çift Dokunma";
 "DOUBLE_TAP_FLIP_SUBTITLE" = "Çevirmek için İki Kez Dokunun";
+"DISABLE_SHUTTER_SOUND_SUBTITLE" = "  ";
+"USE_IPAD_STYLE_SUBTITLE" = "  ";

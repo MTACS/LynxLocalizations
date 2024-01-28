@@ -1,19 +1,19 @@
-"PHOTOS" = "Photos";
-"SKIP_DELETION_CONFIRMATION" = "Skip Confirmation";
-"SKIP_DELETION_CONFIRMATION_SUBTITLE" = "Automatically put media in Trash";
-"USE_INFINITE_ZOOM" = "Increase Zoom Limit";
-"USE_INFINITE_ZOOM_SUBTITLE" = "Allow infinite zoom on media";
-"HIDE_SCRUBBER" = "Hide Media Slider";
-"HIDE_SCRUBBER_SUBTITLE" = "Remove preview tiles under photo / video";
-"PHOTO_PREVIEW" = "Photo Preview";
-"DELETION" = "Deletion";
-"ALBUMS" = "Albums";
-"LOCK_HIDDEN_ALBUM" = "Lock Hidden Album";
-"LOCK_HIDDEN_ALBUM_SUBTITLE" = "Protect hidden album with biometrics";
-"DELETE_PERMANENTLY" = "Delete Permanently";
-"DELETE_PERMANENTLY_SUBTITLE" = "Skip putting media in trash & remove forever";
-"VIDEOS" = "Videos";
-"AUTO_REPLAY" = "Loop Videos";
-"AUTO_REPLAY_SUBTITLE" = "Automatically restart videos from beginning";
+"PHOTOS" = "照片";
+"SKIP_DELETION_CONFIRMATION" = "略過確認";
+"SKIP_DELETION_CONFIRMATION_SUBTITLE" = "刪除時直接放入「最近刪除」";
+"USE_INFINITE_ZOOM" = "移除放大限制";
+"USE_INFINITE_ZOOM_SUBTITLE" = "允許無限放大照片/影片";
+"HIDE_SCRUBBER" = "隱藏影片滑桿";
+"HIDE_SCRUBBER_SUBTITLE" = "播放影片時隱藏下方預覽滑桿";
+"PHOTO_PREVIEW" = "預覽照片";
+"DELETION" = "刪除選項";
+"ALBUMS" = "相簿";
+"LOCK_HIDDEN_ALBUM" = "鎖定「已隱藏」相簿";
+"LOCK_HIDDEN_ALBUM_SUBTITLE" = "使用 TouchID/FaceID 保護「已隱藏」相簿";
+"DELETE_PERMANENTLY" = "自動永久刪除";
+"DELETE_PERMANENTLY_SUBTITLE" = "刪除時直接永久刪除而不放入「最近刪除」之中";
+"VIDEOS" = "影片";
+"AUTO_REPLAY" = "自動重複播放影片";
+"AUTO_REPLAY_SUBTITLE" = "影片播放完畢時將自動重頭播放";
 
 

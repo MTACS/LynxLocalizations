@@ -16,7 +16,13 @@
 "CUSTOM_DOCK_ICONS_SUBTITLE" = "Orijinal: 4";
 "APPLY" = "Uygula";
 "HOMESCREEN" = "Ana Ekran";
-
+"RESET_ALL_SUBTITLE" = "  ";
+"EDIT_LAYOUT" = "  ";
+"RESET_ALL" = "  ";
+"SWIPE_ACTIONS" = "  ";
+"ADD_WIDGET" = "  ";
+"HS_LAYOUT" = "  ";
+"HS_LAYOUT_SUBTITLE" = "  ";
 
 
 

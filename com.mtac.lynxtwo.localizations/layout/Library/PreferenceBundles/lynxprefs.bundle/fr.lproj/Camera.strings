@@ -9,4 +9,6 @@
 "VIEWFINDER" = "Basculement d'Objectif";
 "DOUBLE_TAP_FLIP" = "Double Toucher";
 "DOUBLE_TAP_FLIP_SUBTITLE" = "Toucher deux fois pour basculer";
+"DISABLE_SHUTTER_SOUND_SUBTITLE" = "  ";
+"USE_IPAD_STYLE_SUBTITLE" = "  ";
 

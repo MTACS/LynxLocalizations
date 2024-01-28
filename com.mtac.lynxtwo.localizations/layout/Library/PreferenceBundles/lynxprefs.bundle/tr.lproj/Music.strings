@@ -5,6 +5,9 @@
 "MUSIC_LIBRARY_LAYOUT" = "Müzik Kitaplığı Düzeni";
 "THREE_COLUMNS" = "3 Sütun Düzeni Kullan";
 "MUSIC" = "Müzik";
-
-
-
+"HIDE_QUEUE_POPUP_SUBTITLE" = "  ";
+"SHOW_ALL_SONGS_SUBTITLE" = "  ";
+"MUSIC_BANNER_SUBTITLE" = "  ";
+"THREE_COLUMNS_SUBTITLE" = "  ";
+"MUSIC_BANNER" = "  ";
+"MUSIC_NOTIFICATIONS" = "  ";

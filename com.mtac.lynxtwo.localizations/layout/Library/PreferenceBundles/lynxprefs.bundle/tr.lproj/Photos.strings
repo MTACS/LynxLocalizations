@@ -3,6 +3,17 @@
 "USE_INFINITE_ZOOM" = "Sonsuz Yakınlaştırma Kullan";
 "SHOW_IMAGE_METADATA" = "Görüntü Verilerini Göster";
 "SHOW_IMAGE_METADATA_SUBTITLE" = "Boyut, tarih ve boyutları gösterin";
-
-
-
+"USE_INFINITE_ZOOM_SUBTITLE" = "  ";
+"DELETE_PERMANENTLY_SUBTITLE" = "  ";
+"AUTO_REPLAY" = "  ";
+"DELETION" = "  ";
+"VIDEOS" = "  ";
+"LOCK_HIDDEN_ALBUM" = "  ";
+"HIDE_SCRUBBER" = "  ";
+"LOCK_HIDDEN_ALBUM_SUBTITLE" = "  ";
+"SKIP_DELETION_CONFIRMATION_SUBTITLE" = "  ";
+"AUTO_REPLAY_SUBTITLE" = "  ";
+"HIDE_SCRUBBER_SUBTITLE" = "  ";
+"ALBUMS" = "  ";
+"DELETE_PERMANENTLY" = "  ";
+"PHOTO_PREVIEW" = "  ";
