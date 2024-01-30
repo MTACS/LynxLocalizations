@@ -21,7 +21,7 @@
 "HIDE_BATTERY" = "隐藏电池";
 "HIDE_BATTERY_BOLT" = "隐藏电池闪电";
 "HIDE_BATTERY_PERCENTAGE" = "隐藏电池百分比";
-"SHOW_PERCENTAGE_INSIDE" = "在内部显示百分比";
+"SHOW_PERCENTAGE_INSIDE" = "内部显示百分比";
 "DISABLE_CHARGING_ANIMATION" = "禁用充电动画";
 "STATUS_ITEMS" = "状态项目";
 "HIDE_WIFI_SIGNAL" = "隐藏 WiFi 信号";
@@ -103,3 +103,5 @@
 "HIDE_NOTCH_SUBTITLE" = "添加视图隐藏刘海/灵动岛";
 "Signal Bars: %i" = "信号条数: %i";
 "Show Percentage Inside" = "显示内部百分比";
+"HORIZONTAL_OFFSET" = "水平偏移量";
+"HORIZONTAL_OFFSET_SUBTITLE" = "调整速度标签宽度";
