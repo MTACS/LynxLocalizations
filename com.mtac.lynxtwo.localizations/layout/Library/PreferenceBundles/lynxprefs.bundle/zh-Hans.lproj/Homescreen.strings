@@ -1,6 +1,6 @@
 "HOMESCREEN_EDITING" = "主屏幕编辑";
 "QUICK_SETTINGS" = "快速设置";
-"QUICK_SETTINGS_SUBTITLE" = "点击“添加小部件”按钮以获取更多选项";
+"QUICK_SETTINGS_SUBTITLE" = "点击“添加小组件”按钮以获取更多选项";
 "HOMESCREEN" = "主屏幕";
 "HS_ROWS_SUBTITLE" = "默认: 6";
 "CUSTOM_HOMESCREEN_ROWS" = "自定义主屏幕行数";
@@ -11,7 +11,7 @@
 "CUSTOM_FOLDER_ROWS_SUBTITLE" = "默认: 3";
 "CUSTOM_FOLDER_COLUMNS" = "自定义文件夹列数";
 "CUSTOM_FOLDER_COLUMNS_SUBTITLE" = "默认: 3";
-"DOCK" = "底部栏";
+"DOCK" = "Dock";
 "CUSTOM_DOCK_ICONS" = "自定义底部栏图标";
 "CUSTOM_DOCK_ICONS_SUBTITLE" = "默认: 4";
 "APPLY" = "应用";
@@ -21,5 +21,5 @@
 "SWIPE_ACTIONS" = "向左滑动设置数值和重置";
 "RESET_ALL" = "重置布局";
 "RESET_ALL_SUBTITLE" = "恢复默认的图标布局";
-"ADD_WIDGET" = "添加小部件";
+"ADD_WIDGET" = "添加小组件";
 "EDIT_LAYOUT" = "编辑布局";

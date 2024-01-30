@@ -3,7 +3,7 @@
 "RESET_SETTINGS" = "重置设置";
 "RESET_SETTINGS_SUBTITLE" = "删除所有数据并注销";
 "BUG_REPORT" = "报告错误";
-"BUG_REPORT_SUBTITLE" = "发送有关插件异常的通知";
+"BUG_REPORT_SUBTITLE" = "发送有关插件异常的报告";
 "FEATURE_REQUEST" = "功能请求";
 "FEATURE_REQUEST_SUBTITLE" = "请求将功能添加到 Lynx 中";
 "EXPORT_SETTINGS" = "导出设置";
