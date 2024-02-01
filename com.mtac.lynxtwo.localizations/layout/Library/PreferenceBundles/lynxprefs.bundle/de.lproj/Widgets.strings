@@ -23,7 +23,7 @@
 "DISABLE_SWIPE_TO_SEARCH_SUBTITLE" = "Bricht die Wischgeste nach unten unabhängig ab.";
 "ADD_OUTER_SHADOW_SUBTITLE" = "Wische nach links, um die Schattenfarbe festzulegen.";
 "DISABLE_WIDGETS_LOCKSCREEN_SUBTITLE" = "Bricht die Wischgeste auf dem Sperrbildschirm und im Benachrichtigungszentrum ab.";
-"TAP_FOR_LOW_POWER_MODE_SUBTITLE" = "Tippe zweimal auf das Batteriesymbol, um in den Energiesparmodus zu wechseln";
+"TAP_FOR_LOW_POWER_MODE_SUBTITLE" = "Tippe zweimal auf das Batteriesymbol, um in den Stromsparmodus zu wechseln.";
 "HIDE_EDIT_BUTTON" = "  ";
 "HIDE_EDIT_BUTTON_SUBTITLE" = "  ";
 "HIDE_SEPARATOR_LINES_SIRI_SUBTITLE" = "  ";
