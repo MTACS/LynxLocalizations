@@ -24,8 +24,8 @@
 "ADD_OUTER_SHADOW_SUBTITLE" = "Wische nach links, um die Schattenfarbe festzulegen.";
 "DISABLE_WIDGETS_LOCKSCREEN_SUBTITLE" = "Bricht die Wischgeste auf dem Sperrbildschirm und im Benachrichtigungszentrum ab.";
 "TAP_FOR_LOW_POWER_MODE_SUBTITLE" = "Tippe zweimal auf das Batteriesymbol, um in den Stromsparmodus zu wechseln.";
-"HIDE_EDIT_BUTTON" = "  ";
-"HIDE_EDIT_BUTTON_SUBTITLE" = "  ";
-"HIDE_SEPARATOR_LINES_SIRI_SUBTITLE" = "  ";
-"DISABLE_WIDGETS_HOMESCREEN_SUBTITLE" = "  ";
-"HIDE_EMPTY_RINGS_SUBTITLE" = "  ";
+"HIDE_EDIT_BUTTON" = "Bearbeiten ausblenden";
+"HIDE_EDIT_BUTTON_SUBTITLE" = "Entfernt die Schaltfläche 'Bearbeiten' unten in der Widget-Ansicht.";
+"HIDE_SEPARATOR_LINES_SIRI_SUBTITLE" = "Zeilen zwischen Siri-Vorschlägen entfernen (4x4).";
+"DISABLE_WIDGETS_HOMESCREEN_SUBTITLE" = "Wischen vom Startbildschirm deaktivieren";
+"HIDE_EMPTY_RINGS_SUBTITLE" = "Zeigt nur die Laderinge angeschlossener Geräte an.";
