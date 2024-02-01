@@ -1,4 +1,4 @@
-"SYSTEM_WIDE" = "System";
+"SYSTEM_WIDE" = "SpringBoard";
 "LOCKSCREEN" = "Sperrbildschirm";
 "APP_LIBRARY" = "App-Mediathek";
 "STATUS_BAR" = "Statusleiste";
@@ -14,9 +14,9 @@
 "PHOTOS" = "Fotos";
 "MESSAGES" = "Nachrichten";
 "MORE" = "Mehr";
-"SYSTEM_WIDE_SUBTITLE" = "  ";
-"CANCEL" = "  ";
-"STATUS_BAR_SUBTITLE" = "  ";
+"SYSTEM_WIDE_SUBTITLE" = "SpringBoard, Dock, Strom, Warnungen.";
+"CANCEL" = "Abbrechen";
+"STATUS_BAR_SUBTITLE" = "Zeit, Netzbetreiber, Sonstiges ausblenden.";
 "CHANGELOG" = "  ";
 "SECTION_ENABLED" = "  ";
 "NOTES_SUBTITLE" = "  ";
