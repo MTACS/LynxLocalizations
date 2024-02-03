@@ -16,7 +16,7 @@
 "MORE" = "Mehr";
 "SYSTEM_WIDE_SUBTITLE" = "SpringBoard, Dock, Strom, Warnungen.";
 "CANCEL" = "Abbrechen";
-"STATUS_BAR_SUBTITLE" = "Zeit, Netzbetreiber, Sonstiges ausblenden.";
+"STATUS_BAR_SUBTITLE" = "Blendet Zeit, Netzbetreiber, Sonstiges aus.";
 "CHANGELOG" = "Änderungsprotokoll";
 "SECTION_ENABLED" = "Abschnitt aktiviert";
 "NOTES_SUBTITLE" = "Tönungsfarbe, Werkzeugleiste, Sicherheit.";
