@@ -56,7 +56,7 @@
 "SEARCH_SUBTITLE" = "禁用搜索手势和搜索栏";
 "HIDE_BACKGROUND" = "隐藏背景";
 "SEARCH_BG_SUBTITLE" = "去除背景以获得清晰的外观";
-"HOME_BAR" = "主屏幕栏";
+"HOME_BAR" = "手势小白条";
 "HOME_BAR_GESTURES" = "主屏幕栏手势";
 "DISABLE_SWITCHER_SWIPE" = "禁用滑动手势";
 "DISABLE_SWITCHER_SWIPE_SUBTITLE" = "禁用滑动返回上一个应用";
@@ -65,9 +65,9 @@
 "HIDE_ON_LOCKSCREEN" = "锁屏界面";
 "DISABLE_LS_ONLY" = "在锁屏界面禁用";
 "USE_CUSTOM_HEIGHT" = "自定义高度";
-"USE_CUSTOM_HEIGHT_SUBTITLE" = "设置主屏幕栏高度";
+"USE_CUSTOM_HEIGHT_SUBTITLE" = "设置手势小白条高度";
 "USE_CUSTOM_WIDTH" = "自定义宽度";
-"USE_CUSTOM_WIDTH_SUBTITLE" = "设置主屏幕栏宽度";
+"USE_CUSTOM_WIDTH_SUBTITLE" = "设置手势小白条宽度";
 "NAVIGATION_BARS" = "导航栏";
 "USE_SMALL_TITLES" = "小标题";
 "USE_SMALL_TITLES_SUBTITLE" = "强制使用导航栏小标题";
@@ -152,12 +152,12 @@
 "APP_BLUR" = "应用模糊";
 "SELECT_BLURRED_APPS" = "模糊的应用";
 "SELECT_BLURRED_APPS_SUBTITLE" = "在应用后显示模糊的壁纸";
-"RESET_SCROLL" = "显示首个主屏幕页面";
+"RESET_SCROLL" = "始终显示主屏幕页面";
 "RESET_SCROLL_SUBTITLE" = "解锁时始终返回到第一个主屏幕页面";
 "FLOATING_SPOTLIGHT" = "使用浮动窗口";
 "FLOATING_SPOTLIGHT_SUBTITLE" = "像 iPadOS 一样呈现 Spotlight";
 "SHOW_APPS_MENU" = "显示应用菜单";
-"SHOW_APPS_MENU_SUBTITLE" = "在文件夹中显示包含应用程序的三维触控菜单列表";
+"SHOW_APPS_MENU_SUBTITLE" = "在文件夹中显示包含应用程序的3D触控菜单列表";
 "USE_CUSTOM_SCROLLBAR_COLOR" = "使用自定义颜色";
 "USE_CUSTOM_SCROLLBAR_COLOR_SUBTITLE" = "向左滑动以设置颜色";
 "DISABLE_DOCK_SWITCHER" = "在应用切换器中禁用";
@@ -193,3 +193,5 @@
 "HIDE_HANDOFF" = "隐藏传递项目";
 "HIDE_HANDOFF_SUBTITLE" = "从建议部分中移除传递建议";
 "Volume Steps: %i" = "音量步进: %i";
+"2 Taps" = "双击";
+"3 Taps" = "三击";

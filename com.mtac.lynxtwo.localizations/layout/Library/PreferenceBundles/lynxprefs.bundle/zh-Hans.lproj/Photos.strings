@@ -14,4 +14,4 @@
 "DELETE_PERMANENTLY_SUBTITLE" = "跳过将媒体放入回收站并永久移除";
 "VIDEOS" = "视频";
 "AUTO_REPLAY" = "循环播放视频";
-"AUTO_REPLAY_SUBTITLE" = "自动从开始重新播放视频";
+"AUTO_REPLAY_SUBTITLE" = "自动重新开始播放视频";
