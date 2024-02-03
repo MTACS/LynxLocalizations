@@ -10,7 +10,7 @@
 "MODULES" = "模块";
 "USE_ROUNDED_MODULES" = "使用圆形模块";
 "USE_ROUNDED_MODULES_SUBTITLE" = "使模块呈现为圆形";
-"USE_OUTER_SHADOW" = "使用外部阴影";
+"USE_OUTER_SHADOW" = "使用外部发光";
 "USE_OUTER_SHADOW_SUBTITLE" = "向左滑动设置颜色";
 "SHADOW_COLOR" = "阴影颜色";
 "SLIDERS" = "滑块";

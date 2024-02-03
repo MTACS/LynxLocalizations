@@ -1,6 +1,6 @@
 "DISABLING" = "禁用中";
-"DISABLE_APP_LIBRARY" = "移除 App 资源库";
-"DISABLE_APP_LIBRARY_SUBTITLE" = "完全禁用 App 资源库的打开";
+"DISABLE_APP_LIBRARY" = "隐藏 App 资源库";
+"DISABLE_APP_LIBRARY_SUBTITLE" = "完全禁用 App 资源库的启用";
 "STYLE" = "风格";
 "OPEN_LIST_MODE" = "以列表模式打开";
 "LISTMODE_SUBTITLE" = "自动打开应用列表";
@@ -23,9 +23,9 @@
 "HIDE_MAGNIFYING_GLASS_SUBTITLE" = "移除放大镜图标";
 "HAPTICS" = "触觉反馈";
 "HAPTIC_OPEN" = "打开反馈";
-"HAPTIC_OPEN_SUBTITLE" = "打开资源库时振动";
+"HAPTIC_OPEN_SUBTITLE" = "打开 App 资源库时振动";
 "HAPTIC_CLOSE" = "关闭反馈";
-"HAPTIC_CLOSE_SUBTITLE" = "关闭资源库时振动";
+"HAPTIC_CLOSE_SUBTITLE" = "关闭 App 资源库时振动";
 "APP_LIBRARY" = "App 资源库";
 "DISABLE_PULL_SEARCH" = "禁用下拉搜索";
 "DISABLE_PULL_SEARCH_SUBTITLE" = "移除搜索手势";
