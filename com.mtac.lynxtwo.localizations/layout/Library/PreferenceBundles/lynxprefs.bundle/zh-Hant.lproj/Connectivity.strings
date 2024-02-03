@@ -1,0 +1,10 @@
+"CONNECTIVITY" = "連接";
+"AIRPLANE_MODE" = "飛航模式";
+"CELLULAR_DATA" = "行動數據";
+"WIFI" = "Wi-Fi";
+"BLUETOOTH" = "藍芽";
+"AIRDROP" = "Airdrop";
+"HOTSPOT" = "個人熱點";
+"COLOR_PICKER_SUBTITLE" = "向左滑動此文字以設定顏色r";
+"COLOR_PICKER" = "自訂「已啟用」顏色";
+"COLOR_PICKER_DISABLED" = "自訂「未啟用」顏色";

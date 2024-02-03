@@ -1,8 +1,8 @@
 "SAFARI" = "Safari";
-"ADDRESS_BAR" = "網址列";
-"SAFARI_ADDRESS_BAR" = "移除背景";
-"SAFARI_ADDRESS_BAR_SUBTITLE" = "隱藏暗背景";
-"PLAYBACK" = "背景回放";
-"PLAYBACK_SUBTITLE" = "在背景中繼續播放 Safari 影片";
-"PLAYBACK_GLOBAL" = "WebKit 背景回放";
-"PLAYBACK_GLOBAL_SUBTITLE" = "允許 Safari 影片在背景中播放";
+"ADDRESS_BAR" = "Address Bar";
+"SAFARI_ADDRESS_BAR" = "Remove Background";
+"SAFARI_ADDRESS_BAR_SUBTITLE" = "Hides darkened background view";
+"PLAYBACK" = "Playback";
+"PLAYBACK_SUBTITLE" = "Continue Safari content in background";
+"PLAYBACK_GLOBAL" = "WebKit Playback";
+"PLAYBACK_GLOBAL_SUBTITLE" = "Allow Safari content apps as media source in background";

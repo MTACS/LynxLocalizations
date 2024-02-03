@@ -1,7 +1,7 @@
 "MAGSAFE" = "MagSafe";
-"NATIVE_ANIMATION" = "Native Animation";
-"MAGSAFE_SUBTITLE" = "Show MagSafe ring when charging";
-"CLOCK" = "Clock";
+"NATIVE_ANIMATION" = "充電動畫";
+"MAGSAFE_SUBTITLE" = "充電時顯示 MagSafe 充電環";
+"CLOCK" = "時間";
 "HIDE_TIME_LABEL" = "Hide Time Label";
 "HIDE_TIME_LABEL_SUBTITLE" = "Remove clock digits";
 "TIME_LABEL_PLACEHOLDER" = "Time Label Alpha: 1.0";
