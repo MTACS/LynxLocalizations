@@ -5,9 +5,9 @@
 "MUSIC_LIBRARY_LAYOUT" = "Musikbibliotheken-Layout";
 "THREE_COLUMNS" = "3-Spalten-Layout verwenden";
 "MUSIC" = "Musik";
-"HIDE_QUEUE_POPUP_SUBTITLE" = "Animation des Hinzufügen von Songs in die Warteschlange entfernen.";
+"HIDE_QUEUE_POPUP_SUBTITLE" = "Entfernt die Animation des Hinzufügen von Songs in die Warteschlange.";
 "SHOW_ALL_SONGS_SUBTITLE" = "Entfernt das Anzeigelimit für kürzlich hinzugefügte Listen.";
-"MUSIC_BANNER_SUBTITLE" = "Benachrichtigung erhalten, wenn sich der Song ändert.";
-"THREE_COLUMNS_SUBTITLE" = "Zeige kürzlich hinzugefügte Musik in 3 Spalten.";
+"MUSIC_BANNER_SUBTITLE" = "Erhalte eine Benachrichtigung, wenn sich der Song ändert.";
+"THREE_COLUMNS_SUBTITLE" = "Zeigt kürzlich hinzugefügte Musik in 3 Spalten an.";
 "MUSIC_BANNER" = "Jetzt-Gespielt-Banner anzeigen.";
 "MUSIC_NOTIFICATIONS" = "Benachrichtigungen";
