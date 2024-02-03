@@ -1,7 +1,7 @@
 "OBSCURE_DETAILS_SUBTITLE" = "Verschleiere den Notiz-Detailtext.";
-"USE_TINT_COLOR" = "Verwende die Tönungsfarbe";
+"USE_TINT_COLOR" = "Tönungsfarbe verwenden";
 "NOTES" = "Notizen";
-"AUTOMATICALLY_COLLAPSE_SUBTITLE" = "Tastatur-Werkzeugleiste standardmäßig schließen.";
+"AUTOMATICALLY_COLLAPSE_SUBTITLE" = "Schließt Tastatur-Werkzeugleiste standardmäßig.";
 "AUTOMATICALLY_COLLAPSE" = "Automatisch ausblenden";
 "USE_TINT_COLOR_SUBTITLE" = "Eigene Elementfarbe festlegen.";
 "SECURITY" = "Sicherheit";
