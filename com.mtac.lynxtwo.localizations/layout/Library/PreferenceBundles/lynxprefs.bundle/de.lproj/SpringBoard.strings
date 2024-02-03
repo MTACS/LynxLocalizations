@@ -134,9 +134,9 @@
 "WALLPAPER" = "Hintergrundbild";
 "USE_CUSTOM_HEIGHT_SUBTITLE" = "Stelle die Höhe der Home-Bar ein.";
 "DEFAULT" = "Standard";
-"USE_CUSTOM_SCROLLBAR_COLOR_SUBTITLE" = "  ";
-"AIRPLANE_MODE_DISABLE_SUBTITLE" = "  ";
-"TURN_OFF_AUTOMATICALLY" = "  ";
+"USE_CUSTOM_SCROLLBAR_COLOR_SUBTITLE" = "Wische nach links, um die Farbe festzulegen.";
+"AIRPLANE_MODE_DISABLE_SUBTITLE" = "Deaktiviert die Flugmodus-Warnung.";
+"TURN_OFF_AUTOMATICALLY" = "Verwende das Taschenlampen-Timeout.";
 "HOMESCREEN_BLUR_SUBTITLE" = "  ";
 "PLACE_FACE_DOWN_TO_LOCK_SUBTITLE" = "  ";
 "REMOVE_DOCK_SUBTITLE" = "  ";
