@@ -194,7 +194,7 @@
 "DISABLE_DOCK_BORDER_SUBTITLE" = "Entfernt die dünne Linie am Rand des Dock-Hintergrunds.";
 "DISABLE_NO_SIM" = "'Keine SIM'-Warnung deaktivieren";
 "HIDE_HANDOFF_SUBTITLE" = "Handoff-Vorschläge aus dem vorgeschlagenen Abschnitt entfernen.";
-
+"HIDE_MENU_SEPARATORS_SUBTITLE" = "Entfernt die Linie zwischen den Menüpunkten.";
 "USE_CUSTOM_SCROLLBAR_COLOR" = "Eigene Farbe verwenden";
 "REPLACE_DICTATION_KEY" = "Diktiertaste ersetzen";
 "PINNED_APPS_TOGGLE_SUBTITLE" = "Legt eine eigene Anzahl von Apps pro Zeile fest.";
@@ -208,4 +208,4 @@
 "DISABLE_DOCK_LIBRARY_SUBTITLE" = "Blendet das Icon der App-Mediathek aus.";
 "KNOB_TINT_SUBTITLE" = "Knopffarbe des Schalters. Wische nach links, um die Farbe festzulegen.";
 "USE_HAPTIC_FEEDBACK_SUBTITLE" = "Vibration beim Klicken auf die Schaltfläche.";
-"DISABLE_NO_SIM_SUBTITLE" = "Popup entfernen, wenn keine SIM-Karte installiert ist.";
+"DISABLE_NO_SIM_SUBTITLE" = "Enfernt das Popup, wenn keine SIM-Karte installiert ist.";
