@@ -2,10 +2,10 @@
 "DISABLE_CC_COMPLETELY" = "Kontrollzentrum deaktivieren";
 "CONNECTIVITY_MODULE" = "Netzwerk Module";
 "BLUETOOTH_WIFI" = "Bluetooth & WLAN";
-"BLUETOOTH_WIFI_SUBTITLE" = "Komplett deaktivieren beim Drücken.";
+"BLUETOOTH_WIFI_SUBTITLE" = "Deaktivert WLAN komplett beim Drücken.";
 "STATUS_BAR" = "Statusleiste";
 "CAMERA_MICROPHONE" = "Kamera & Mikrofon";
-"CAMERA_MICROPHONE_SUBTITLE" = "Kürzlich verwendete Apps ausblenden.";
+"CAMERA_MICROPHONE_SUBTITLE" = "Blendet kürzlich verwendete Apps aus.";
 "MODULES" = "Module";
 "USE_ROUNDED_MODULES" = "Abgerundete Module verwenden";
 "USE_OUTER_SHADOW" = "Äußeren Schatten verwenden";
@@ -19,11 +19,11 @@
 "TOGGLE_HINTS" = "Tasten-Hinweise";
 "HIDE_TOGGLE_HINTS" = "Tasten-Hinweise ausblenden";
 "CONNECTIVITY_COLUMNS" = "Modulspalten";
-"MODULE_BACKGROUND_BLUR_STYLE_SUBTITLE" = "Erscheinungsbild des Modulhintergrunds festlegen.";
+"MODULE_BACKGROUND_BLUR_STYLE_SUBTITLE" = "Legt das Erscheinungsbild des Modulhintergrunds fest.";
 "HIDE_CHEVRON_SUBTITLE" = "Entfernt den Pfeil oben im Kontrollzentrum.";
 "HIDE_TOGGLE_HINTS_SUBTITLE" = "Entfernt den Text, wenn sich der Konnektivitätsschalter ändert.";
 "CONNECTIVITY_COLORS_SUBTITLE" = "Legt die Farben der Netzwerk-Schaltflächen fest.";
-"BACKGROUND_BLUR_SUBTITLE" = "Overlay-Unschärfe ändern.";
+"BACKGROUND_BLUR_SUBTITLE" = "Ändert die Overlay-Unschärfe.";
 "CONNECTIVITY_ROWS" = "Modulzeilen";
 "BACKGROUND" = "Hintergrund";
 "HIDE_ENABLED_BACKGROUND" = "Hintergrund ausblenden";
