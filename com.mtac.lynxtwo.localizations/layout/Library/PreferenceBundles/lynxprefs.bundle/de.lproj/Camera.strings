@@ -2,12 +2,12 @@
 "USE_IPAD_STYLE" = "iPad-Stil verwenden";
 "RECENT_PHOTO_PREVIEW" = "Aktuelle Fotovorschau";
 "RECENT_PHOTOS" = "Neueste Fotos";
-"RECENT_PHOTOS_SUBTITLE" = "Kürzlich aufgenommenes Bild ausblenden.";
+"RECENT_PHOTOS_SUBTITLE" = "Blendet das kürzlich aufgenommene Bild aus.";
 "SHUTTER_SOUND" = "Auslöser-Sound";
 "DISABLE_SHUTTER_SOUND" = "Auslöser-Sound deaktivieren";
 "CAMERA" = "Kamera";
 "VIEWFINDER" = "Fokus";
 "DOUBLE_TAP_FLIP" = "Doppeltippen";
-"DOUBLE_TAP_FLIP_SUBTITLE" = "Zweimal tippen, um zu spiegeln.";
+"DOUBLE_TAP_FLIP_SUBTITLE" = "Um zu spiegeln zweimal Tippen.";
 "DISABLE_SHUTTER_SOUND_SUBTITLE" = "Beim Aufnehmen von Fotos wird kein Ton wiedergegeben.";
-"USE_IPAD_STYLE_SUBTITLE" = "Steuerelemente an die Seite des Bildschirms verschieben.";
+"USE_IPAD_STYLE_SUBTITLE" = "Verschiebt die Steuerelemente an die Seite des Bildschirms.";
