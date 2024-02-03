@@ -17,7 +17,7 @@
 "APPLY" = "Bestätigen";
 "HOMESCREEN" = "Home-Bildschirm";
 "HS_LAYOUT" = "HB-Layout";
-"HS_LAYOUT_SUBTITLE" = "Aktiviert das HB-Layout.";
+"HS_LAYOUT_SUBTITLE" = "Aktiviert das Home-Bildschirm-Layout.";
 "RESET_ALL_SUBTITLE" = "Stellt das Standard-Layout wieder her.";
 "ADD_WIDGET" = "Widget hinzufügen";
 "EDIT_LAYOUT" = "Layout bearbeiten";
