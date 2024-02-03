@@ -1,11 +1,11 @@
 ﻿"ICONS" = "Icons";
 "USE_AVERAGE_BADGES_SUBTITLE" = "Kennzeichenfarbe basierend auf App-Icon.";
 "SHOW_BATTERY" = "Batterie anzeigen";
-"CUSTOM_ICON_LAYOUT_SUBTITLE" = "Anzahl der Icon-Spalten festlegen.";
+"CUSTOM_ICON_LAYOUT_SUBTITLE" = "Legt die Anzahl der Icon-Spalten fest.";
 "HIDE_LABEL_BACKGROUND" = "Beschriftungshintergrund ausblenden";
-"SHOW_BATTERY_SUBTITLE" = "Batterie-Icon bei Kabelverbindungen anzeigen.";
+"SHOW_BATTERY_SUBTITLE" = "Zeigt das Batterie-Icon bei Kabelverbindungen an.";
 "HIDE_LABELS" = "Beschriftungen verstecken";
-"HIDE_LABEL_BACKGROUND_SUBTITLE" = "Unschärfe hinter Beschriftungen entfernen.";
+"HIDE_LABEL_BACKGROUND_SUBTITLE" = "Entfernt die Unschärfe hinter den Beschriftungen.";
 "RESET_WALLPAPER" = "Hintergrundbild zurücksetzen";
 "STATUS_BAR_EDGE" = "Rand der Statusleiste";
 "STATUS_BAR" = "Statusleiste";
@@ -14,9 +14,9 @@
 "SET_CUSTOM_WALLPAPER" = "Hintergrundbild wählen";
 "TERMINATE" = "CarPlay neu starten";
 "CARPLAY" = "CarPlay";
-"WALLPAPER" = "Wallpaper";
+"WALLPAPER" = "Hintergrundbild";
 "SET_CUSTOM_WALLPAPER_SUBTITLE" = "Wähle ein eigenes Hintergrundbild. Starte CarPlay neu, um es anzuwenden. Zum Zurücksetzen wischen.";
-"HIDE_LABELS_SUBTITLE" = "Icon-Beschriftungen entfernen.";
+"HIDE_LABELS_SUBTITLE" = "Entfernt die Beschriftungen der Icons.";
 "STATUS_BAR_EDGE_SUBTITLE" = "Wähle aus, wo die Statusleiste angezeigt werden soll.";
 "CUSTOM_ICON_LAYOUT" = "Eigenes Layout verwenden";
-"SHOW_WEATHER_SUBTITLE" = "Aktuelle Temperatur in der Statusleiste anzeigen.";
+"SHOW_WEATHER_SUBTITLE" = "Zeigt die aktuelle Temperatur in der Statusleiste an.";
