@@ -1,11 +1,11 @@
 "FORCE_TOUCH_OPTIONS" = "3D Touch 設定";
 "HIDE_REMOVE_STACK" = "隱藏「移除堆疊」";
 "HIDE_CONFIGURE_WIDGET" = "隱藏「編輯小工具」";
-"HIDE_CONFIGURE_STACK" = "隱藏 'Edit Stack'";
-"HIDE_EDIT_HOMESCREEN" = "隱藏 'Edit Homescreen'";
-"HIDE_SHARE_APP" = "隱藏 'Share App'";
-"HIDE_DELETE_APP" = "隱藏 'Delete App'";
-"HIDE_PAUSE_DOWNLOAD" = "隱藏 'Pause Download'";
+"HIDE_CONFIGURE_STACK" = "隱藏「編輯堆疊」";
+"HIDE_EDIT_HOMESCREEN" = "隱藏「編輯主畫面」";
+"HIDE_SHARE_APP" = "隱藏「分享App」";
+"HIDE_DELETE_APP" = "隱藏「移除App」";
+"HIDE_PAUSE_DOWNLOAD" = "隱藏「暫停下載」";
 "HIDE_CANCEL_DOWNLOAD" = "隱藏 'Cancel Download'";
 "HIDE_PRIORITIZE_DOWNLOAD" = "隱藏 'Prioritize Download'";
 "HIDE_SEPARATORS" = "隱藏 Separators";
