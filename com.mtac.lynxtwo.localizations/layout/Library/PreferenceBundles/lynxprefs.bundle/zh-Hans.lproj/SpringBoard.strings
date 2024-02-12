@@ -195,3 +195,12 @@
 "Volume Steps: %i" = "音量步进: %i";
 "2 Taps" = "双击";
 "3 Taps" = "三击";
+"HIDE_HOMEBAR_GLOBALLY" = "全局隐藏小白条";
+"HIDE_HOMEBAR_GLOBALLY_SUBTITLE" = "全局隐藏手势小白条";
+"USE_CUSTOM_HOMEBAR_COLOR" = "自定义小白条颜色";
+"USE_CUSTOM_HOMEBAR_COLOR_SUBTITLE" = "自定义手势小白条颜色";
+"SHARE_SHEET" = "分享面板";
+"HIDE_SHARE_CONTACTS" = "隐藏分享联系人";
+"HIDE_SHARE_CONTACTS_SUBTITLE" = "隐藏分享联系人";
+"HIDE_SHARE_APPS" = "隐藏分享应用程序";
+"HIDE_SHARE_APPS_SUBTITLE" = "隐藏分享应用程序";
