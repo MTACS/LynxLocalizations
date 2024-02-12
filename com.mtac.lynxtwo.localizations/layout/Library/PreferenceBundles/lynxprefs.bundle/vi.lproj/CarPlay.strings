@@ -1,0 +1,23 @@
+"CARPLAY" = "CarPlay";
+"TERMINATE" = "Khởi động lại CarPlay";
+"ICONS" = "Biểu tượng";
+"HIDE_LABELS" = "Ẩn nhãn";
+"HIDE_LABELS_SUBTITLE" = "Xoá nhãn biểu tượng";
+"HIDE_LABEL_BACKGROUND" = "Ẩn nền nhãn";
+"HIDE_LABEL_BACKGROUND_SUBTITLE" = "Xoá hiệu ứng mờ phía sau nhãn";
+"STATUS_BAR" = "Thanh trạng thái";
+"SHOW_BATTERY" = "Hiển thị pin";
+"SHOW_BATTERY_SUBTITLE" = "Hiển thị biểu tượng pin khi kết nối dây";
+"STATUS_BAR_EDGE" = "Thanh trạng thái cạnh bên";
+"STATUS_BAR_EDGE_SUBTITLE" = "Chọn vị trí hiển thị thanh trạng thái";
+"USE_AVERAGE_BADGES" = "Average Badge Colors";
+"USE_AVERAGE_BADGES_SUBTITLE" = "Tô màu các huy hiệu dựa trên hình ảnh biểu tượng";
+"WALLPAPER" = "Hình nền";
+"SET_CUSTOM_WALLPAPER" = "Chọn hình nền";
+"SET_CUSTOM_WALLPAPER_SUBTITLE" = "Chọn hình nền tùy chỉnh. Khởi động lại CarPlay để áp dụng. Vuốt để đặt lại.";
+"CUSTOM_ICON_LAYOUT" = "Sử dụng bố cục tùy chỉnh";
+"CUSTOM_ICON_LAYOUT_SUBTITLE" = "Đặt số cột biểu tượng";
+"RESET_WALLPAPER" = "Đặt lại hình nền";
+"SHOW_WEATHER" = "Hiển thị thời tiết";
+"SHOW_WEATHER_SUBTITLE" = "Hiển thị nhiệt độ hiện tại trên thanh trạng thái";
+

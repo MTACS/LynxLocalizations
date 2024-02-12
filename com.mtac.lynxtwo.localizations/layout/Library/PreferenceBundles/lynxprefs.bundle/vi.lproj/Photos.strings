@@ -1,0 +1,17 @@
+"PHOTOS" = "Ảnh";
+"SKIP_DELETION_CONFIRMATION" = "Bỏ qua Xác nhận khi xoá";
+"SKIP_DELETION_CONFIRMATION_SUBTITLE" = "Tự động đặt phương tiện vào Thùng rác";
+"USE_INFINITE_ZOOM" = "Tăng giới hạn phóng to";
+"USE_INFINITE_ZOOM_SUBTITLE" = "Cho phép phóng to vô hạn trên phương tiện";
+"HIDE_SCRUBBER" = "Ẩn thanh trượt phương tiện";
+"HIDE_SCRUBBER_SUBTITLE" = "Loại bỏ các ô xem trước dưới ảnh / video";
+"PHOTO_PREVIEW" = "Xem trước Ảnh";
+"DELETION" = "Xóa";
+"ALBUMS" = "Albums";
+"LOCK_HIDDEN_ALBUM" = "Khóa Album ẩn";
+"LOCK_HIDDEN_ALBUM_SUBTITLE" = "Bảo vệ album ẩn bằng sinh trắc học";
+"DELETE_PERMANENTLY" = "Xóa Vĩnh Viễn";
+"DELETE_PERMANENTLY_SUBTITLE" = "Bỏ qua đặt phương tiện vào thùng rác và xóa mãi mãi";
+"VIDEOS" = "Videos";
+"AUTO_REPLAY" = "Lặp lại Videos";
+"AUTO_REPLAY_SUBTITLE" = "Tự động khởi động lại video từ đầu";

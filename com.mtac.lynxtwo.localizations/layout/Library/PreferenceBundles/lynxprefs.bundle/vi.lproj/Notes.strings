@@ -1,0 +1,10 @@
+"NOTES" = "Ghi chú";
+"TOOLBAR" = "Thanh công cụ";
+"AUTOMATICALLY_COLLAPSE" = "Tự động ẩn";
+"AUTOMATICALLY_COLLAPSE_SUBTITLE" = "Mặc định đóng thanh công cụ bàn phím";
+"SECURITY" = "Bảo mật";
+"OBSCURE_DETAILS" = "Ẩn chi tiết Ghi chú";
+"OBSCURE_DETAILS_SUBTITLE" = "Ẩn chi tiết văn bản ghi chú";
+"TINT" = "Màu tuỳ chỉnh";
+"USE_TINT_COLOR" = "Sử dụng màu tuỳ chỉnh";
+"USE_TINT_COLOR_SUBTITLE" = "Thiết lập màu sắc tùy chỉnh";

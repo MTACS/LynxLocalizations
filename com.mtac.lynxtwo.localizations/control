@@ -7,3 +7,6 @@ Maintainer: MTAC
 Author: MTAC
 Section: Tweaks
 Depends: com.mtac.lynxtwo
+Icon: https://mtac.app/repo/assets/com.mtac.lynxtwo.localizations/icon-rounded.png
+SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.lynxtwo.localizations.json
+
