@@ -1,8 +1,8 @@
-"TRANSLATIONS" = "Translations";
-"ADD_UPDATE_TRANSLATION" = "Add/Update Translation";
-"OPEN_LOCALIZATIONS" = "Localizations";
-"OPEN_LOCALIZATIONS_SUBTITLE" = "Translate Lynx into your language";
-"FRENCH" = "French";
-"GERMAN" = "German";
-"TURKISH" = "Turkish";
-"SPANISH" = "Spanish";
+"TRANSLATIONS" = "Übersetzungen";
+"ADD_UPDATE_TRANSLATION" = "Übersetzung hinzufügen/aktualisieren";
+"OPEN_LOCALIZATIONS" = "Lokalisierungen";
+"OPEN_LOCALIZATIONS_SUBTITLE" = "Übersetze Lynx in deine Sprache.";
+"FRENCH" = "Französisch";
+"GERMAN" = "Deutsch";
+"TURKISH" = "Türkisch";
+"SPANISH" = "Spanisch";

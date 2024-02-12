@@ -1,0 +1,20 @@
+"PINNED_CONVERSATIONS" = "Cuộc hội thoại đã ghim";
+"HIDE_CONTACT_IMAGE_GLOW" = "Ẩn đèn sáng hình ảnh;
+"HIDE_CONTACT_IMAGE_GLOW_SUBTITLE" = "Xoá đèn sáng / đổ bóng từ hình ảnh";
+"CONVERSATIONS" = "Cuộc hội thoại";
+"HIDE_SEPARATORS" = "Ẩn đường phân cách";
+"HIDE_SEPARATORS_SUBTITLE" = "Xoá đường phân cách giữa các cuộc hội thoại";
+"OTHER_TWEAKS" = "Tweaks khác";
+"MESSAGES" = "Tin nhắn";
+"SHOW_PROGRESS_BAR" = "Hiển thị thanh tiến trình";
+"SHOW_PROGRESS_BAR_SUBTITLE" = "Hiển thị tiến trình khi gửi tin nhắn";
+"HIDE_PINNED_PREVIEW" = "Ẩn xem trước tin nhắn";
+"HIDE_PINNED_PREVIEW_SUBTITLE" = "Xoá nhãn tin nhắn từ chế độ xem đã ghim";
+"SENDING" = "Đang gửi tin nhắn"; 
+"SWITCH_MESSAGE_TYPE" = "Chuyển đổi loại tin nhắn";
+"SWITCH_MESSAGE_TYPE_SUBTITLE" = "Nhấn và giữ trên tiêu đề liên lạc của cuộc hội thoại để thay đổi loại tin nhắn (iMessage/SMS)";
+"DELAY_MESSAGE_SEND" = "Chờ khi gửi tin nhắn";
+"DELAY_MESSAGE_SUBTITLE" = "Thêm độ trễ trước khi gửi tin nhắn";
+"MESSAGE_DELAY" = "Thời gian độ trễ tin nhắn";
+"MESSAGE_DELAY_SUBTITLE" = "Số giây";
+

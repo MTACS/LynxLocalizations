@@ -1,0 +1,13 @@
+"CAMERA_STYLE" = "Kiểu máy ảnh";
+"USE_IPAD_STYLE" = "Sử dụng kiểu ipad";
+"USE_IPAD_STYLE_SUBTITLE" = "Di chuyển các điều khiển về phía bên của màn hình";
+"RECENT_PHOTO_PREVIEW" = "Xem trước ảnh gần đây";
+"RECENT_PHOTOS" = "Ảnh gần đây";
+"RECENT_PHOTOS_SUBTITLE" = "Ẩn ảnh mới chụp gần đây";
+"SHUTTER_SOUND" = "Âm thanh chụp";
+"DISABLE_SHUTTER_SOUND" = "Tắt âm thanh chụp";
+"DISABLE_SHUTTER_SOUND_SUBTITLE" = "Không phát nhạc khi đang chụp ảnh";
+"CAMERA" = "Máy ảnh";
+"VIEWFINDER" = "Ngắm ảnh";
+"DOUBLE_TAP_FLIP" = "Chạm hai lần";
+"DOUBLE_TAP_FLIP_SUBTITLE" = "Chạm hai lần để lật";

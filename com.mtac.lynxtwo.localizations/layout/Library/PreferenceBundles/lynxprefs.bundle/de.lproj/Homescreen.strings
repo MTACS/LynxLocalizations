@@ -16,10 +16,10 @@
 "CUSTOM_DOCK_ICONS_SUBTITLE" = "Standard: 4";
 "APPLY" = "Bestätigen";
 "HOMESCREEN" = "Home-Bildschirm";
-"HS_LAYOUT" = "HS-Layout";
-"HS_LAYOUT_SUBTITLE" = "Aktiviert das HS-Layout";
-"RESET_ALL_SUBTITLE" = "  ";
-"ADD_WIDGET" = "  ";
-"EDIT_LAYOUT" = "  ";
-"SWIPE_ACTIONS" = "  ";
-"RESET_ALL" = "  ";
+"HS_LAYOUT" = "HB-Layout";
+"HS_LAYOUT_SUBTITLE" = "Aktiviert das Home-Bildschirm-Layout.";
+"RESET_ALL_SUBTITLE" = "Stellt das Standard-Layout wieder her.";
+"ADD_WIDGET" = "Widget hinzufügen";
+"EDIT_LAYOUT" = "Layout bearbeiten";
+"SWIPE_ACTIONS" = "Wische, um den Wert festzulegen und zurückzusetzen.";
+"RESET_ALL" = "Layout zurücksetzen";

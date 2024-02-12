@@ -1,0 +1,16 @@
+"UP_NEXT_POPUP" = "Cửa sổ thông báo 'Up Next'";
+"HIDE_QUEUE_POPUP" = "Ẩn cửa sổ thông báo Hàng đợi";
+"HIDE_QUEUE_POPUP_SUBTITLE" = "Loại bỏ hiển thị khi đang chờ bài hát";
+"RECENTLY_ADDED" = "Được thêm vào gần đây";
+"SHOW_ALL_SONGS" = "Hiển thị tất cả bài hát";
+"SHOW_ALL_SONGS_SUBTITLE" = "Loại bỏ giới hạn hiển thị trên danh sách gần đây thêm vào";
+"MUSIC_LIBRARY_LAYOUT" = "Bố cục thư viện âm nhạc";
+"THREE_COLUMNS" = "Sử dụng bố cục 3 cột";
+"THREE_COLUMNS_SUBTITLE" = "Hiển thị bài hát thêm vào gần đây trong 3 cột";
+"MUSIC" = "Bài hát";
+"MUSIC_NOTIFICATIONS" = "Thông báo bài hát";
+"MUSIC_BANNER" = "Hiển thị bảng thông báo đang phát";
+"MUSIC_BANNER_SUBTITLE" = "Gửi thông báo khi bài hát thay đổi";
+
+
+

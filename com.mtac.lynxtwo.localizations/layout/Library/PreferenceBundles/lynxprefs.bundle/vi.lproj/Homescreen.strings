@@ -1,0 +1,30 @@
+"HOMESCREEN_EDITING" = "Chỉnh sửa màn hình chính";
+"QUICK_SETTINGS" = "Cài đặt nhanh";
+"QUICK_SETTINGS_SUBTITLE" = "Nhấn vào nút 'Thêm Widget' để thêm nhiều hơn";
+"HOMESCREEN" = "Màn hình chính";
+"HS_ROWS_SUBTITLE" = "Mặc định: 6";
+"CUSTOM_HOMESCREEN_ROWS" = "Tuỳ chỉnh số hàng";
+"CUSTOM_HOMESCREEN_COLUMNS" = "Tuỳ chỉnh số cột";
+"CUSTOM_HOMESCREEN_COLUMNS_SUBTITLE" = "Mặc định: 4";
+"FOLDERS" = "Thư mục";
+"CUSTOM_FOLDER_ROWS" = "Tuỳ chỉnh số hàng thư mục";
+"CUSTOM_FOLDER_ROWS_SUBTITLE" = "Mặc định: 3";
+"CUSTOM_FOLDER_COLUMNS" = "Tuỳ chỉnh số cột thư mục";
+"CUSTOM_FOLDER_COLUMNS_SUBTITLE" = "Mặc định: 3";
+"DOCK" = "Thanh Dock";
+"CUSTOM_DOCK_ICONS" = "Tuỳ chỉnh số biểu tượng trong Thanh Dock";
+"CUSTOM_DOCK_ICONS_SUBTITLE" = "Mặc định: 4";
+"APPLY" = "Áp dụng";
+"HOMESCREEN" = "Màn hình chính";
+"HS_LAYOUT" = "Sử dụng bố cục tuỳ chỉnh";
+"HS_LAYOUT_SUBTITLE" = "Đặt số hàng và cột";
+"SWIPE_ACTIONS" = "Vuốt để đặt giá trị và đặt lại";
+"RESET_ALL" = "Đặt lại bố cục";
+"RESET_ALL_SUBTITLE" = "Khôi phục bố cục biểu tượng mặc định";
+"ADD_WIDGET" = "Thêm Widget";
+"EDIT_LAYOUT" = "Tuỳ chỉnh bố cục";
+
+
+
+
+
