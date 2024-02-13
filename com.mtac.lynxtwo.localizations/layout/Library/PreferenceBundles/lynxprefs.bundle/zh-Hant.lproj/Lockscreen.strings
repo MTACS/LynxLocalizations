@@ -90,8 +90,8 @@
 "DEFAULT" = "預設";
 "SIMPLE" = "簡化";
 "HIDE_VOLUME_SLIDER" = "隱藏音量滑桿";
-"HIDE_PROGRESS_VIEW" = "Hide Progress View";
-"HIDE_MEDIA_CONTROLS" = "Hide Media Controls";
+"HIDE_PROGRESS_VIEW" = "隱藏音樂進度條";
+"HIDE_MEDIA_CONTROLS" = "隱藏按鈕";
 "HIDE_AUDIO_SOURCE_BUTTON" = "Hide Audio Source Button";
 "HIDE_NOW_PLAYING_APP_ICON" = "Hide Media App Icon";
 "OLDER_NOTIFICATIONS" = "Older Notifications";
