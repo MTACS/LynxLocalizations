@@ -1,0 +1,23 @@
+"CARPLAY" = "CarPlay";
+"TERMINATE" = "重新啟動 CarPlay";
+"ICONS" = "Icons";
+"HIDE_LABELS" = "隱藏名稱標籤";
+"HIDE_LABELS_SUBTITLE" = "移除應用程式名稱";
+"HIDE_LABEL_BACKGROUND" = "隱藏名稱標籤背景";
+"HIDE_LABEL_BACKGROUND_SUBTITLE" = "移除應用程式名稱背景";
+"STATUS_BAR" = "狀態欄";
+"SHOW_BATTERY" = "顯示電池";
+"SHOW_BATTERY_SUBTITLE" = "連接電源時顯示電池圖示";
+"STATUS_BAR_EDGE" = "狀態欄位置";
+"STATUS_BAR_EDGE_SUBTITLE" = "調整狀態欄位置";
+"USE_AVERAGE_BADGES" = "動態通知勳章";
+"USE_AVERAGE_BADGES_SUBTITLE" = "將勳章顏色改為應用程式圖示顏色";
+"WALLPAPER" = "桌布";
+"SET_CUSTOM_WALLPAPER" = "選擇桌布";
+"SET_CUSTOM_WALLPAPER_SUBTITLE" = "選擇自訂桌布。重新啟動 CarPlay 以套用更動。向左滑動此文字以重設預設桌布";
+"CUSTOM_ICON_LAYOUT" = "使用自訂排版";
+"CUSTOM_ICON_LAYOUT_SUBTITLE" = "設定應用程式排數";
+"RESET_WALLPAPER" = "重設桌布";
+"SHOW_WEATHER" = "顯示天氣";
+"SHOW_WEATHER_SUBTITLE" = "在狀態欄中顯示天氣";
+
