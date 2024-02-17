@@ -105,3 +105,6 @@
 "Show Percentage Inside" = "显示内部百分比";
 "HORIZONTAL_OFFSET" = "水平偏移量";
 "HORIZONTAL_OFFSET_SUBTITLE" = "调整速度标签宽度";
+"DYNAMIC_ISLAND" = "灵动岛";
+"DISABLE_ISLAND_OUTLINE" = "禁用灵动岛轮廓";
+"DISABLE_ISLAND_OUTLINE_SUBTITLE" = "禁用灵动岛轮廓";
