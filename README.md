@@ -5,6 +5,63 @@ Download on [mtac.app](https://mtac.app/repo)
 
 For any questions regarding localization, contact me on [Twitter](https://twitter.com/mtac8) or [Discord](https://discordapp.com/users/451747491549806593)
 
+## New Strings
+
+Here is a list of new strings added by version. Use these to update translations to the latest version of Lynx
+
+<details>
+  <summary><h3><strong>2.4.8</strong><h3></summary>
+  
+  ### CarPlay.strings
+
+    "CUSTOM_ICON_LAYOUT_COLUMNS" = "Custom Columns";
+    "CUSTOM_ICON_LAYOUT_ROWS" = "Custom Rows";
+    "CUSTOM_ICON_LAYOUT_SUBTITLE" = "Change icon layout";
+    "CUSTOM_ICON_LAYOUT_SUBTITLE_COLUMNS" = "Set number of icon columns";
+    "CUSTOM_ICON_LAYOUT_SUBTITLE_ROWS" = "Set number of icon columns";
+    "CUSTOM_ICON_SIZE" = "Custom Icon Size";
+    "CUSTOM_ICON_SIZE_SUBTITLE" = "Set size of displayed icons";
+    "HIDE_BLUR_VIEW" = "Hide Blur View";
+    "HIDE_BLUR_VIEW_SUBTITLE" = "Remove blur from Status Bar";
+
+  ### Lockscreen.strings
+
+    "HIDE_LEGAL_TEXT" = "Hide Legal Text";
+    "HIDE_LEGAL_TEXT_SUBTITLE" = "Remove legal text from Lockscreen";
+
+  ### Settings.strings
+
+    "HIDE_VPN_SUBTITLE" = "Remove VPN cell from main Settings page. Can still be accessed via General -> VPN & Device Management";
+    "WALLPAPER_BLUR_STYLE" = "Blur Style";
+    "WALLPAPER_BLUR_STYLE_SUBTITLE" = "Choose wallpaper overlay blur style";
+
+  ### SpringBoard.strings
+
+    "HIDE_HANDOFF_SUBTITLE" = "Remove handoff suggestions from suggested section";
+    "SHARE_SHEET" = "Share Sheet";
+    "HIDE_SHARE_CONTACTS" = "Hide Contacts Row";
+    "HIDE_SHARE_CONTACTS_SUBTITLE" = "Remove contacts from share sheet";
+    "HIDE_SHARE_APPS" = "Hide Apps Row";
+    "HIDE_SHARE_APPS_SUBTITLE" = "Remove app suggestions from share sheet";
+    "USE_CUSTOM_HOMEBAR_COLOR" = "Custom Homebar Color";
+    "USE_CUSTOM_HOMEBAR_COLOR_SUBTITLE" = "Swipe left to set color";
+    "HIDE_HOMEBAR_GLOBALLY" = "Hide Everywhere";
+    "HIDE_HOMEBAR_GLOBALLY_SUBTITLE" = "Remove Home Bar from all views";
+
+  ### StatusBar.strings
+
+    "HIDE_NOTCH_SUBTITLE" = "Add view to hide notch/dynamic island";
+    "DISABLE_ISLAND_OUTLINE" = "Disable Outline";
+    "DISABLE_ISLAND_OUTLINE_SUBTITLE" = "Remove line from edge of dynamic island";
+    "DYNAMIC_ISLAND" = "Dynamic Island";
+
+  ### Translations.strings
+
+    "CHINESE" = "Chinese";
+    "VIETNAMESE" = "Vietnamese";
+    
+</details>
+
 # Adding a translation
 
 Partial translations exist for [Arabic](https://github.com/MTACS/LynxLocalizations/tree/main/com.mtac.lynxtwo.localizations/layout/Library/PreferenceBundles/lynxprefs.bundle/ar.lproj), [German](https://github.com/MTACS/LynxLocalizations/tree/main/com.mtac.lynxtwo.localizations/layout/Library/PreferenceBundles/lynxprefs.bundle/de.lproj), [Turkish](https://github.com/MTACS/LynxLocalizations/tree/main/com.mtac.lynxtwo.localizations/layout/Library/PreferenceBundles/lynxprefs.bundle/tr.lproj), [Spanish](https://github.com/MTACS/LynxLocalizations/tree/main/com.mtac.lynxtwo.localizations/layout/Library/PreferenceBundles/lynxprefs.bundle/es.lproj), [Chinese (Simplified)](https://github.com/MTACS/LynxLocalizations/tree/main/com.mtac.lynxtwo.localizations/layout/Library/PreferenceBundles/lynxprefs.bundle/zh-Hans.lproj) and [French](https://github.com/MTACS/LynxLocalizations/tree/main/com.mtac.lynxtwo.localizations/layout/Library/PreferenceBundles/lynxprefs.bundle/fr.lproj).
