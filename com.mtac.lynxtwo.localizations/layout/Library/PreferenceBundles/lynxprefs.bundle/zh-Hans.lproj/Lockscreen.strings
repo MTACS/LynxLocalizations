@@ -138,4 +138,4 @@
 "Font Size: %i" = "字体大小: %i";
 "List Offset: %i" = "列表偏移: %i";
 "HIDE_LEGAL_TEXT" = "隐藏法律文本";
-"HIDE_LEGAL_TEXT_SUBTITLE" = "隐藏法律文本";
+"HIDE_LEGAL_TEXT_SUBTITLE" = "从锁屏中移除法律文本";
