@@ -34,7 +34,6 @@
 "USE_TRANSLUCENT_BACKGROUND" = "半透明设置";
 "USE_TRANSLUCENT_BACKGROUND_SUBTITLE" = "在所有设置页面后面显示壁纸";
 "HIDE_VPN" = "隐藏 VPN";
-"HIDE_VPN_SUBTITLE" = "从主设置页面中移除 VPN 单元格。仍可通过“常规”->“VPN 和设备管理”访问";
-"WALLPAPER_BLUR_STYLE" = "壁纸模糊";
-"WALLPAPER_BLUR_STYLE_SUBTITLE" = "壁纸模糊风格";
-"AUTO" = "自动";
+"HIDE_VPN_SUBTITLE" = "从主设置页面中移除VPN选项。仍然可以通过“通用”->“VPN和设备管理”访问";
+"WALLPAPER_BLUR_STYLE" = "模糊样式";
+"WALLPAPER_BLUR_STYLE_SUBTITLE" = "选择壁纸叠加模糊样式";
