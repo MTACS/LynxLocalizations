@@ -85,3 +85,13 @@
 "RENAME" = "Rename";
 "LOCK_APP" = "Lock";
 "UNLOCK_APP" = "Unlock";
+"FONT_SIZE" = "Font Size";
+"SCALE" = "Scale";
+"FOLDER_BADGE_STYLE" = "Folder Style";
+"FOLDER_BADGE_STYLE_SUBTITLE" = "Choose styling of badges on folder icons";
+"HIGHEST_NUMBER" = "Highest Number";
+"FIRST_APPLICATION" = "First App";
+"COLOR_ALGORITHM" = "Background Color";
+"COLOR_ALGORITHM_SUBTITLE" = "Select method to find average color";
+"TEXT_COLOR_ALGORITHM" = "Text Color";
+"TEXT_COLOR_ALGORITHM_SUBTITLE" = "Select method to color badge text";

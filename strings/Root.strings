@@ -51,3 +51,8 @@
 "CANCEL" = "Cancel";
 "CARPLAY" = "CarPlay";
 "CARPLAY_SUBTITLE" = "Icons, wallpaper, layout";
+"DISMISS" = "Dismiss";
+"CURRENT_VALUE" = "Current Value";
+"APPLY" = "Apply";
+"SET_VALUE" = "Set Value";
+"RESET" = "Reset";

@@ -98,6 +98,15 @@
 "HIDE_NETWORKS_SPEED_SB_SUBTITLE" = "Remove speed label whilst on Homescreen";
 "VERTICAL_OFFSET" = "Vertical Offset";
 "VERTICAL_OFFSET_SUBTITLE" = "Adjust height of speed label";
+"HORIZONTAL_OFFSET" = "Horizontal Offset";
+"HORIZONTAL_OFFSET_SUBTITLE" = "Adjust horizontal position of speed label";
 "NOTCH" = "Notch/Dynamic Island";
 "HIDE_NOTCH" = "Hide Notch/Dynamic Island";
 "HIDE_NOTCH_SUBTITLE" = "Add view to hide notch/dynamic island";
+"DISABLE_ISLAND_OUTLINE" = "Disable Outline";
+"DISABLE_ISLAND_OUTLINE_SUBTITLE" = "Remove line from edge of dynamic island";
+"DYNAMIC_ISLAND" = "Dynamic Island";
+"SIGNAL_BARS" = "Signal Bars";
+"SHOW_LOCKSCREEN_STATUSBAR_TIME" = "Always Show Time";
+"SHOW_LOCKSCREEN_STATUSBAR_TIME_SUBTITLE" = "Display time in Status Bar on lockscreen (iPhone X+)";
+"HIDE_BEDTIME_ITEM" = "Hide Bedtime Icon";

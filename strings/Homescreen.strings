@@ -23,8 +23,13 @@
 "RESET_ALL_SUBTITLE" = "Restore stock icon layout";
 "ADD_WIDGET" = "Add Widget";
 "EDIT_LAYOUT" = "Edit Layout";
-
-
-
-
-
+"HOMESCREEN_ROWS" = "Homescreen Rows:";
+"COLUMNS" = "Columns:";
+"ROWS" = "Rows:";
+"TOP_INSET" = "Top Inset:";
+"BOTTOM_INSET" = "Bottom Inset:";
+"LEFT_INSET" = "Left Inset:";
+"RIGHT_INSET" = "Right Inset:";
+"HORIZONTAL_SPACING" = "Horizontal Spacing:";
+"VERTICAL_SPACING" = "Vertical Spacing:";
+"ICONS" = "Icons:";
