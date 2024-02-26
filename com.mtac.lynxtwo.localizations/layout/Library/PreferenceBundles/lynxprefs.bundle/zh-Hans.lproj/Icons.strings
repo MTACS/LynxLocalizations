@@ -87,3 +87,6 @@
 "UNLOCK_APP" = "解锁";
 "Font Size: %i" = "字体大小: %i";
 "Scale: %i" = "比例大小: %i";
+"UNLOCK_APP" = "解锁";
+"FONT_SIZE" = "字体大小";
+"SCALE" = "比例";
