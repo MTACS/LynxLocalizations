@@ -37,3 +37,6 @@
 "HIDE_VPN_SUBTITLE" = "从主设置页面中移除VPN选项。仍然可以通过“通用”->“VPN和设备管理”访问";
 "WALLPAPER_BLUR_STYLE" = "模糊样式";
 "WALLPAPER_BLUR_STYLE_SUBTITLE" = "选择壁纸叠加模糊样式";
+"TITLE" = "标题";
+"HIDE_SETTINGS_TITLE" = "隐藏标题";
+"HIDE_SETTINGS_TITLE_SUBTITLE" = "从主设置页面中删除'设置'标签";
