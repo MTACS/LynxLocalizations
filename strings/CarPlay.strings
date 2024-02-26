@@ -16,8 +16,16 @@
 "SET_CUSTOM_WALLPAPER" = "Choose Wallpaper";
 "SET_CUSTOM_WALLPAPER_SUBTITLE" = "Select custom wallpaper. Restart CarPlay to apply. Swipe to reset";
 "CUSTOM_ICON_LAYOUT" = "Use Custom Layout";
-"CUSTOM_ICON_LAYOUT_SUBTITLE" = "Set number of icon columns";
+"CUSTOM_ICON_LAYOUT_COLUMNS" = "Custom Columns";
+"CUSTOM_ICON_LAYOUT_ROWS" = "Custom Rows";
+"CUSTOM_ICON_LAYOUT_SUBTITLE" = "Change icon layout";
+"CUSTOM_ICON_LAYOUT_SUBTITLE_COLUMNS" = "Set number of icon columns";
+"CUSTOM_ICON_LAYOUT_SUBTITLE_ROWS" = "Set number of icon columns";
 "RESET_WALLPAPER" = "Reset Wallpaper";
 "SHOW_WEATHER" = "Show Weather";
 "SHOW_WEATHER_SUBTITLE" = "Display current temperature on Status Bar";
+"CUSTOM_ICON_SIZE" = "Custom Icon Size";
+"CUSTOM_ICON_SIZE_SUBTITLE" = "Set size of displayed icons";
+"HIDE_BLUR_VIEW" = "Hide Blur View";
+"HIDE_BLUR_VIEW_SUBTITLE" = "Remove blur from Status Bar";
 

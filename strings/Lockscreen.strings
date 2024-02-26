@@ -12,7 +12,7 @@
 "CENTER" = "Center";
 "RIGHT" = "Right";
 "CLOCK_FONT" = "Clock Font";
-"CLOCK_FONT_FOOTER" = "Select font weight";
+"CLOCK_FONT_FOOTER" = "Place custom fonts in (/var/jb)/var/mobile/Library/Preferences/Lynx/Fonts";
 "CUSTOM_FONT" = "Use Custom Font";
 "CUSTOM_FONT_SUBTITLE" = "Set font family, size & weight";
 "CLOCK_PLACEHOLDER" = "Default: 80";
@@ -135,3 +135,15 @@
 "LOCKSCREEN_BLUR_SUBTITLE" = "Set overlay blur style";
 "USE_EXPANDED_PLAYER" = "Use Expanded Player";
 "USE_EXPANDED_PLAYER_SUBTITLE" = "Always use large media platter";
+"HIDE_LEGAL_TEXT" = "Hide Legal Text";
+"HIDE_LEGAL_TEXT_SUBTITLE" = "Remove legal text from Lockscreen";
+"USE_CUSTOM_NOTIFICATION_TEXT" = "Use Custom Header Title";
+"USE_CUSTOM_NOTIFICATION_TEXT_SUBTITLE" = "Change 'Notification Center' label text";
+"CUSTOM_NOTIFICATION_CENTER_PLACEHOLDER" = "Notification Center";
+"SYSTEM_FONTS" = "System Fonts";
+"USER_FONTS" = "User Fonts";
+"LIST_OFFSET" = "List Offset:";
+"FONT_SIZE" = "Font Size:";
+"QUIET_MODE" = "Quiet Mode";
+"HIDE_QUIET_MODE_INDICATOR" = "Hide Sleep Indicator";
+"HIDE_QUIET_MODE_INDICATOR_SUBTITLE" = "Remove sleep indicator from bottom of Lockscreen when Bedtime focus is enabled";

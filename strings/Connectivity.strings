@@ -8,3 +8,6 @@
 "COLOR_PICKER_SUBTITLE" = "Swipe left to set color";
 "COLOR_PICKER" = "Custom Enabled Color";
 "COLOR_PICKER_DISABLED" = "Custom Disabled Color";
+"INVALID_VALUE" = "Invalid value";
+"NUMERICAL_VALUE" = "Please enter a numerical value";
+"MAXIMUM_VALUE" = "Maximum value: ";

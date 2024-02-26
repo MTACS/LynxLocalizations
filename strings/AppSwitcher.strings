@@ -34,3 +34,5 @@
 "IGNORE_MAPS_APP_SUBTITLE" = "Skip navigation application when clearing switcher";
 "CLEAR" = "Clear";
 "CANCEL" = "Cancel";
+"GRID_SPACING" = "Grid Spacing";
+"PAGE_SCALE" = "Page Scale";

@@ -35,3 +35,8 @@
 "USE_TRANSLUCENT_BACKGROUND_SUBTITLE" = "Show wallpaper behind all settings pages";
 "HIDE_VPN" = "Hide VPN";
 "HIDE_VPN_SUBTITLE" = "Remove VPN cell from main Settings page. Can still be accessed via General -> VPN & Device Management";
+"WALLPAPER_BLUR_STYLE" = "Blur Style";
+"WALLPAPER_BLUR_STYLE_SUBTITLE" = "Choose wallpaper overlay blur style";
+"TITLE" = "Title";
+"HIDE_SETTINGS_TITLE" = "Hide Title";
+"HIDE_SETTINGS_TITLE_SUBTITLE" = "Remove 'Settings' label from main settings page";

@@ -192,3 +192,13 @@
 "REPLACE_DICTATION_KEY_SUBTITLE" = "Add dismiss keyboard button in place of dictation key";
 "HIDE_HANDOFF" = "Hide Handoff Items";
 "HIDE_HANDOFF_SUBTITLE" = "Remove handoff suggestions from suggested section";
+"SHARE_SHEET" = "Share Sheet";
+"HIDE_SHARE_CONTACTS" = "Hide Contacts Row";
+"HIDE_SHARE_CONTACTS_SUBTITLE" = "Remove contacts from share sheet";
+"HIDE_SHARE_APPS" = "Hide Apps Row";
+"HIDE_SHARE_APPS_SUBTITLE" = "Remove app suggestions from share sheet";
+"USE_CUSTOM_HOMEBAR_COLOR" = "Custom Homebar Color";
+"USE_CUSTOM_HOMEBAR_COLOR_SUBTITLE" = "Swipe left to set color";
+"HIDE_HOMEBAR_GLOBALLY" = "Hide Everywhere";
+"HIDE_HOMEBAR_GLOBALLY_SUBTITLE" = "Remove Home Bar from all views";
+"VOLUME_STEPS" = "Volume Steps";

@@ -10,6 +10,77 @@ For any questions regarding localization, contact me on [Twitter](https://twitte
 Here is a list of new strings added by version. Use these to update translations to the latest version of Lynx
 
 <details>
+  <summary><h3><strong>2.4.9</strong><h3></summary>
+
+  ### AppSwitcher.strings
+
+    "CANCEL" = "Cancel";
+    "GRID_SPACING" = "Grid Spacing";
+    "PAGE_SCALE" = "Page Scale";
+
+  ### Connectivity.strings
+
+    "COLOR_PICKER_DISABLED" = "Custom Disabled Color";
+    "INVALID_VALUE" = "Invalid value";
+    "NUMERICAL_VALUE" = "Please enter a numerical value";
+    "MAXIMUM_VALUE" = "Maximum value: ";
+
+  ### Homescreen.strings
+
+    "HOMESCREEN_ROWS" = "Homescreen Rows:";
+    "COLUMNS" = "Columns:";
+    "ROWS" = "Rows:";
+    "TOP_INSET" = "Top Inset:";
+    "BOTTOM_INSET" = "Bottom Inset:";
+    "LEFT_INSET" = "Left Inset:";
+    "RIGHT_INSET" = "Right Inset:";
+    "HORIZONTAL_SPACING" = "Horizontal Spacing:";
+    "VERTICAL_SPACING" = "Vertical Spacing:";
+    "ICONS" = "Icons:";
+
+  ### Icons.strings
+
+    "UNLOCK_APP" = "Unlock";
+    "FONT_SIZE" = "Font Size";
+    "SCALE" = "Scale";
+
+  ### Lockscreen.strings
+
+    "CLOCK_FONT_FOOTER" = "Place custom fonts in (/var/jb)/var/mobile/Library/Preferences/Lynx/Fonts";
+    "HIDE_LEGAL_TEXT_SUBTITLE" = "Remove legal text from Lockscreen";
+    "USE_CUSTOM_NOTIFICATION_TEXT" = "Use Custom Header Title";
+    "USE_CUSTOM_NOTIFICATION_TEXT_SUBTITLE" = "Change 'Notification Center' label text";
+    "CUSTOM_NOTIFICATION_CENTER_PLACEHOLDER" = "Notification Center";
+    "SYSTEM_FONTS" = "System Fonts";
+    "USER_FONTS" = "User Fonts";
+    "LIST_OFFSET" = "List Offset:";
+    "FONT_SIZE" = "Font Size:";
+
+  ### Root.strings
+
+    "DISMISS" = "Dismiss";
+    "CURRENT_VALUE" = "Current Value";
+    "APPLY" = "Apply";
+    "SET_VALUE" = "Set Value";
+    "RESET" = "Reset";
+
+  ### Settings.strings
+
+    "TITLE" = "Title";
+    "HIDE_SETTINGS_TITLE" = "Hide Title";
+    "HIDE_SETTINGS_TITLE_SUBTITLE" = "Remove 'Settings' label from main settings page";
+
+  ### SpringBoard.strings
+
+    "VOLUME_STEPS" = "Volume Steps";
+
+  ### StatusBar.strings
+
+    "SIGNAL_BARS" = "Signal Bars";
+
+</details>
+
+<details>
   <summary><h3><strong>2.4.8</strong><h3></summary>
   
   ### CarPlay.strings
