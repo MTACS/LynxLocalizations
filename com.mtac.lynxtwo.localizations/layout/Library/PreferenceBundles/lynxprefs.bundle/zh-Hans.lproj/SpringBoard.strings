@@ -204,3 +204,4 @@
 "HIDE_SHARE_CONTACTS_SUBTITLE" = "从分享菜单中隐藏联系人";
 "HIDE_SHARE_APPS" = "隐藏分享应用程序";
 "HIDE_SHARE_APPS_SUBTITLE" = "从分享菜单中移除应用程序建议";
+"VOLUME_STEPS" = "音量步进";
