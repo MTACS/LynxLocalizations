@@ -23,3 +23,13 @@
 "RESET_ALL_SUBTITLE" = "恢复默认的图标布局";
 "ADD_WIDGET" = "添加小组件";
 "EDIT_LAYOUT" = "编辑布局";
+"HOMESCREEN_ROWS" = "主屏幕行数:";
+"COLUMNS" = "列数:";
+"ROWS" = "行数:";
+"TOP_INSET" = "顶部插入:";
+"BOTTOM_INSET" = "底部插入:";
+"LEFT_INSET" = "左侧插入:";
+"RIGHT_INSET" = "右侧插入:";
+"HORIZONTAL_SPACING" = "水平间距:";
+"VERTICAL_SPACING" = "垂直间距:";
+"ICONS" = "图标:";
