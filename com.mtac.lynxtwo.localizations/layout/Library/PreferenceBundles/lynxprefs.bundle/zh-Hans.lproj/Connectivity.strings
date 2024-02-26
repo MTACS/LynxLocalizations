@@ -8,3 +8,7 @@
 "COLOR_PICKER_SUBTITLE" = "向左滑动设置颜色";
 "COLOR_PICKER" = "自定义启用颜色";
 "COLOR_PICKER_DISABLED" = "自定义禁用颜色";
+"COLOR_PICKER_DISABLED" = "自定义禁用颜色";
+"INVALID_VALUE" = "无效的值";
+"NUMERICAL_VALUE" = "请输入一个数值";
+"MAXIMUM_VALUE" = "最大值: ";
