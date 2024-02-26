@@ -108,3 +108,4 @@
 "DISABLE_ISLAND_OUTLINE" = "禁用灵动岛轮廓";
 "DISABLE_ISLAND_OUTLINE_SUBTITLE" = "从灵动岛的边缘移除线条";
 "DYNAMIC_ISLAND" = "灵动岛";
+"SIGNAL_BARS" = "信号条";
