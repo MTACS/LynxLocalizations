@@ -139,3 +139,12 @@
 "List Offset: %i" = "列表偏移: %i";
 "HIDE_LEGAL_TEXT" = "隐藏法律文本";
 "HIDE_LEGAL_TEXT_SUBTITLE" = "从锁屏中移除法律文本";
+"CLOCK_FONT_FOOTER" = "将自定义字体放置在(/var/jb)/var/mobile/Library/Preferences/Lynx/Fonts";
+"HIDE_LEGAL_TEXT_SUBTITLE" = "从锁屏中移除法律文本";
+"USE_CUSTOM_NOTIFICATION_TEXT" = "使用自定义标题";
+"USE_CUSTOM_NOTIFICATION_TEXT_SUBTITLE" = "更改'通知中心'标签文本";
+"CUSTOM_NOTIFICATION_CENTER_PLACEHOLDER" = "通知中心";
+"SYSTEM_FONTS" = "系统字体";
+"USER_FONTS" = "用户字体";
+"LIST_OFFSET" = "列表偏移:";
+"FONT_SIZE" = "字体大小:";
