@@ -90,3 +90,11 @@
 "UNLOCK_APP" = "解锁";
 "FONT_SIZE" = "字体大小";
 "SCALE" = "比例";
+"FOLDER_BADGE_STYLE" = "文件夹样式";
+"FOLDER_BADGE_STYLE_SUBTITLE" = "选择文件夹图标上角标的样式";
+"HIGHEST_NUMBER" = "最大数字";
+"FIRST_APPLICATION" = "第一个应用";
+"COLOR_ALGORITHM" = "背景颜色";
+"COLOR_ALGORITHM_SUBTITLE" = "选择查找平均颜色的方法";
+"TEXT_COLOR_ALGORITHM" = "文本颜色";
+"TEXT_COLOR_ALGORITHM_SUBTITLE" = "选择给角标文本上色的方法";
