@@ -12,7 +12,7 @@
 "CENTER" = "中";
 "RIGHT" = "右";
 "CLOCK_FONT" = "时钟字体";
-"CLOCK_FONT_FOOTER" = "选择字体粗细";
+"CLOCK_FONT_FOOTER" = "将自定义字体放置在(/var/jb)/var/mobile/Library/Preferences/Lynx/Fonts";
 "CUSTOM_FONT" = "使用自定义字体";
 "CUSTOM_FONT_SUBTITLE" = "设置字体家、大小和粗细";
 "CLOCK_PLACEHOLDER" = "默认：80";
@@ -134,12 +134,10 @@
 "LOCKSCREEN_BLUR" = "模糊类型";
 "LOCKSCREEN_BLUR_SUBTITLE" = "设置覆盖层模糊样式";
 "USE_EXPANDED_PLAYER" = "使用扩展播放器";
-"USE_EXPANDED_PLAYER_SUBTITLE" = "始终使用扩展播放器";
 "Font Size: %i" = "字体大小: %i";
 "List Offset: %i" = "列表偏移: %i";
+"USE_EXPANDED_PLAYER_SUBTITLE" = "始终使用大型媒体播放器";
 "HIDE_LEGAL_TEXT" = "隐藏法律文本";
-"HIDE_LEGAL_TEXT_SUBTITLE" = "从锁屏中移除法律文本";
-"CLOCK_FONT_FOOTER" = "将自定义字体放置在(/var/jb)/var/mobile/Library/Preferences/Lynx/Fonts";
 "HIDE_LEGAL_TEXT_SUBTITLE" = "从锁屏中移除法律文本";
 "USE_CUSTOM_NOTIFICATION_TEXT" = "使用自定义标题";
 "USE_CUSTOM_NOTIFICATION_TEXT_SUBTITLE" = "更改'通知中心'标签文本";
@@ -148,3 +146,6 @@
 "USER_FONTS" = "用户字体";
 "LIST_OFFSET" = "列表偏移:";
 "FONT_SIZE" = "字体大小:";
+"QUIET_MODE" = "静音模式";
+"HIDE_QUIET_MODE_INDICATOR" = "隐藏睡眠指示器";
+"HIDE_QUIET_MODE_INDICATOR_SUBTITLE" = "当启用睡眠时间关注时，从锁屏底部移除睡眠指示器";
