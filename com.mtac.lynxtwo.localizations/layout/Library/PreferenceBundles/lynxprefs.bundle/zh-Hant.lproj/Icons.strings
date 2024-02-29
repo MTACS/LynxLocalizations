@@ -34,7 +34,7 @@
 "HIDE_BADGES" = "隱藏通知點";
 "HIDE_BADGES_SUBTITLE" = "移除所有通知點";
 "HIDE_BADGE_TEXT" = "隱藏通知點內的數字";
-"HIDE_BADGE_TEXT_SUBTITLE" = "隱藏通知點內通知數;
+"HIDE_BADGE_TEXT_SUBTITLE" = "隱藏通知點內通知數";
 "LAYOUT" = "Layout";
 "HOMESCREEN" = "主畫面";
 "HOMESCREEN_SUBTITLE" = "選擇排、行數";

@@ -102,7 +102,7 @@
 "USE_NUMBER_OF_NOTIFICATIONS_SUBTITLE" = "Hiển thị số lượng thông báo trong tiêu đề";
 "UNLOCK_ANIMATION" = " Hiệu ứng mở khóa";
 "DISABLE_ICON_ANIMATION" = "Ẩn hiệu ứng mở khóa";
-"DISABLE_ICON_ANIMATION_SUBTITLE" = "Tắt hiệu ứng
+"DISABLE_ICON_ANIMATION_SUBTITLE" = "Tắt hiệu ứng";
 "LOCKSCREEN" = "Màn hình Khóa";
 "AUTO_EXPAND" = "Hiện chi tiết thông báo tự động";
 "AUTO_EXPAND_SUBTITLE" = "Luôn hiển thị nội dung Banner";

@@ -13,7 +13,7 @@
 "USE_CONFIRMATION" = "Sử dụng xác nhận";
 "USE_CONFIRMATION_SUBTITLE" = "Kiểm tra trước khi đóng tất cả ứng dụng";
 "SELECT_LOCKED_APPS" = "Chọn ứng dụng được bảo vệ";
-"SELECT_LOCKED_APPS_SUBTITLE" = "Chọn các ứng dụng luôn được giữ trong đa nhiệm;
+"SELECT_LOCKED_APPS_SUBTITLE" = "Chọn các ứng dụng luôn được giữ trong đa nhiệm";
 "NOW_PLAYING" = "Now Playing";
 "NOW_PLAYING_APPS" = "Bỏ qua ứng dụng Media";
 "NOW_PLAYING_APPS_SUBTITLE" = "Bỏ qua ứng dụng đang phát khi xóa tất cả các ứng dụng";
