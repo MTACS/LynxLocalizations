@@ -34,5 +34,5 @@
 "IGNORE_MAPS_APP_SUBTITLE" = "清除多任务后台时跳过导航应用";
 "CLEAR" = "清除";
 "CANCEL" = "取消";
-"Grid Spacing: %i" = "网格间距: %i";
-"Page Scale: %i" = "页面比例: %i";
+“GRID_SPACING” = “网格间距：”;
+“PAGE_SCALE” = “页面比例：”;

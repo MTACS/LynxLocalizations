@@ -51,3 +51,8 @@
 "CANCEL" = "取消";
 "CARPLAY" = "CarPlay";
 "CARPLAY_SUBTITLE" = "图标，壁纸，布局";
+"DISMISS" = "取消";
+"CURRENT_VALUE" = "当前值";
+"APPLY" = "应用";
+"SET_VALUE" = "设置值";
+"RESET" = "重置";
