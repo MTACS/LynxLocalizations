@@ -1,0 +1,17 @@
+"PHOTOS" = "Фотографии";
+"SKIP_DELETION_CONFIRMATION" = "Пропустить Подтверждение";
+"SKIP_DELETION_CONFIRMATION_SUBTITLE" = "Автоматически перемещать медиа в корзину";
+"USE_INFINITE_ZOOM" = "Увеличить Предел Зума";
+"USE_INFINITE_ZOOM_SUBTITLE" = "Разрешить бесконечный зум на медиа";
+"HIDE_SCRUBBER" = "Скрыть Ползунок Медиа";
+"HIDE_SCRUBBER_SUBTITLE" = "Убрать превью тайлы под фото / видео";
+"PHOTO_PREVIEW" = "Предпросмотр Фото";
+"DELETION" = "Удаление";
+"ALBUMS" = "Альбомы";
+"LOCK_HIDDEN_ALBUM" = "Заблокировать Скрытый Альбом";
+"LOCK_HIDDEN_ALBUM_SUBTITLE" = "Защитить скрытый альбом биометрией";
+"DELETE_PERMANENTLY" = "Удалить Навсегда";
+"DELETE_PERMANENTLY_SUBTITLE" = "Пропустить перемещение медиа в корзину и удалить навсегда";
+"VIDEOS" = "Видео";
+"AUTO_REPLAY" = "Зацикливание Видео";
+"AUTO_REPLAY_SUBTITLE" = "Автоматически перезапускать видео с начала";

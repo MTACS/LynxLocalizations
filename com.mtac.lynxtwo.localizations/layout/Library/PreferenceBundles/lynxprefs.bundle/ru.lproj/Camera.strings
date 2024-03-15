@@ -1,0 +1,13 @@
+"CAMERA_STYLE" = "Стиль камеры";
+"USE_IPAD_STYLE" = "Использовать стиль iPad";
+"USE_IPAD_STYLE_SUBTITLE" = "Переместить элементы управления на боковую сторону экрана";
+"RECENT_PHOTO_PREVIEW" = "Просмотр недавних фотографий";
+"RECENT_PHOTOS" = "Недавние фотографии";
+"RECENT_PHOTOS_SUBTITLE" = "Скрыть недавно сделанные снимки";
+"SHUTTER_SOUND" = "Звук затвора";
+"DISABLE_SHUTTER_SOUND" = "Отключить звук затвора";
+"DISABLE_SHUTTER_SOUND_SUBTITLE" = "Не проигрывать звук при съемке";
+"CAMERA" = "Камера";
+"VIEWFINDER" = "Видоискатель";
+"DOUBLE_TAP_FLIP" = "Двойное нажатие";
+"DOUBLE_TAP_FLIP_SUBTITLE" = "Дважды коснитесь, чтобы перевернуть";

@@ -1,0 +1,10 @@
+"NOTES" = "Заметки";
+"TOOLBAR" = "Панель Инструментов";
+"AUTOMATICALLY_COLLAPSE" = "Автоматически Скрыть";
+"AUTOMATICALLY_COLLAPSE_SUBTITLE" = "Закрыть панель инструментов клавиатуры по умолчанию";
+"SECURITY" = "Безопасность";
+"OBSCURE_DETAILS" = "Скрыть Детали Заметки";
+"OBSCURE_DETAILS_SUBTITLE" = "Скрыть текст деталей заметки";
+"TINT" = "Цвет Окраски";
+"USE_TINT_COLOR" = "Использовать Цвет Окраски";
+"USE_TINT_COLOR_SUBTITLE" = "Установить пользовательский цвет элемента";

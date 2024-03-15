@@ -1,0 +1,13 @@
+"CONNECTIVITY" = "Связь";
+"AIRPLANE_MODE" = "Режим в самолете";
+"CELLULAR_DATA" = "Мобильные данные";
+"WIFI" = "WiFi";
+"BLUETOOTH" = "Bluetooth";
+"AIRDROP" = "AirDrop";
+"HOTSPOT" = "Точка доступа";
+"COLOR_PICKER_SUBTITLE" = "Проведите влево, чтобы установить цвет";
+"COLOR_PICKER" = "Пользовательский включенный цвет";
+"COLOR_PICKER_DISABLED" = "Пользовательский цвет отключения";
+"INVALID_VALUE" = "Недопустимое значение";
+"NUMERICAL_VALUE" = "Введите числовое значение";
+"MAXIMUM_VALUE" = "Максимальное значение: ";
