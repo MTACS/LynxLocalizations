@@ -1,0 +1,19 @@
+"PHOTOS" = "Foto";
+"SKIP_DELETION_CONFIRMATION" = "Salta Conferma Eliminazione";
+"SKIP_DELETION_CONFIRMATION_SUBTITLE" = "Automaticamente sposta nel cestino";
+"USE_INFINITE_ZOOM" = "Zoom Infinito";
+"USE_INFINITE_ZOOM_SUBTITLE" = "Permetti zoom infinito";
+"HIDE_SCRUBBER" = "Nascondi Slider Immagini";
+"HIDE_SCRUBBER_SUBTITLE" = "Rimuovi immagini di anteprima sotto le foto / video";
+"PHOTO_PREVIEW" = "Anteprima Foto";
+"DELETION" = "Eliminazione";
+"ALBUMS" = "Albums";
+"LOCK_HIDDEN_ALBUM" = "Blocca Album Nascosti";
+"LOCK_HIDDEN_ALBUM_SUBTITLE" = "Proteggi gli album nascosti con dati biometrici";
+"DELETE_PERMANENTLY" = "Elimina Permanentemente";
+"DELETE_PERMANENTLY_SUBTITLE" = "Permetti l'eliminazione diretta";
+"VIDEOS" = "Video";
+"AUTO_REPLAY" = "Video in loop";
+"AUTO_REPLAY_SUBTITLE" = "Ricomincia in automatico i video dall'inizio";
+
+

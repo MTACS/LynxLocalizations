@@ -1,0 +1,10 @@
+"NOTES" = "Note";
+"TOOLBAR" = "Barra Strumenti";
+"AUTOMATICALLY_COLLAPSE" = "Nascondi Automaticamente";
+"AUTOMATICALLY_COLLAPSE_SUBTITLE" = "Chiudi la tastiera degli strumenti di default";
+"SECURITY" = "Sicurezza";
+"OBSCURE_DETAILS" = "Nascondi Dettagli Nota";
+"OBSCURE_DETAILS_SUBTITLE" = "Oscura il testo della nota";
+"TINT" = "Colore";
+"USE_TINT_COLOR" = "Usa un colore";
+"USE_TINT_COLOR_SUBTITLE" = "Imposta il colore"; 

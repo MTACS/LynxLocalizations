@@ -1,0 +1,35 @@
+"TODAY_WIDGET_PAGE" = "Widget Notizie di oggi";
+"HIDE_SEARCH_BAR" = "Nascondi barra di ricerca";
+"HIDE_SEARCH_BAR_SUBTITLE" = "Disabilita anche lo scorrimento per cercare";
+"DISABLE_SWIPE_TO_SEARCH" = "Disabilita scorri per cercare";
+"DISABLE_SWIPE_TO_SEARCH_SUBTITLE" = "Disabilita solo la gesture dello scorrimento per cercare";
+"ELEMENTS" = "Elementi";
+"HIDE_LABELS_ON_HOMESCREEN" = "Nascondi Nomi sulla Schermata Home";
+"HIDE_LABELS_ON_HOMESCREEN_SUBTITLE" = "Nasconde i nomi delle App su";
+"HIDE_SCROLL_DOTS" = "Nascondi Indicatori delle pagine";
+"HIDE_SCROLL_DOTS_SUBTITLE" = "Nascondi gli indicatori alla destra dei widget";
+"ADD_OUTER_SHADOW" = "Aggiungi Ombra Esterna";
+"ADD_OUTER_SHADOW_SUBTITLE" = "SCorri a sinistra per impostare il colore dell'ombra";
+"SHADOW_COLOR" = "Colore Ombra";
+"BATTERIES_WIDGET" = "Widget Batterie";
+"TAP_FOR_LOW_POWER_MODE" = "Schortcut Risparmio Batteria";
+"TAP_FOR_LOW_POWER_MODE_SUBTITLE" = "Doppio tap per abilitare il risparmio batteria";
+"SHOW_PERCENTAGE_LABELS" = "Mostra la percentuale";
+"SHOW_PERCENTAGE_LABELS_SUBTITLE" = "Clicca sull'anello per vedere la percentuale";
+"HIDE_EMPTY_RINGS" = "Nascondi Anelli Vuoti";
+"HIDE_EMPTY_RINGS_SUBTITLE" = "Mostra solo gli anelli di caricamento dei dispositivi connessi";
+"HIDE_SEPARATOR_LINES" = "Nascondi Separatori";
+"HIDE_SEPARATOR_LINES_SUBTITLE" = "Rimuove le righe nel widget dispositivi (4x4)";
+"HIDE_SEPARATOR_LINES_SIRI_SUBTITLE" = "Rimuove le righe tra i suggerimenti di Siri (4x4)";
+"SIRI_WIDGET" = "Widget di Siri";
+"WIDGETS" = "Widgets";
+"DISABLE_WIDGETS_LOCKSCREEN" = "Disabilita sulla Schermata di Blocco";
+"DISABLE_WIDGETS_LOCKSCREEN_SUBTITLE" = "Cancel swipe on Lockscreen & in Notification Center";
+"DISABLE_WIDGETS_HOMESCREEN" = "Disabilita sulla Schermata Home";
+"DISABLE_WIDGETS_HOMESCREEN_SUBTITLE" = "Disabilita scorrimenti dalla Schermata Home";
+"HIDE_EDIT_BUTTON" = "Nascondi Pulsante Modifica";
+"HIDE_EDIT_BUTTON_SUBTITLE" = "Rimuove il pulsante 'Modifica' sotto ai widget";
+
+
+
+
