@@ -1,0 +1,16 @@
+"UP_NEXT_POPUP" = "'Prossima' Popup";
+"HIDE_QUEUE_POPUP" = Nascondi Coda Popup";
+"HIDE_QUEUE_POPUP_SUBTITLE" = "Rimuovi vista quando si aggiungono in coda canzoni";
+"RECENTLY_ADDED" = "Aggiunte di recente";
+"SHOW_ALL_SONGS" = "Mostra tutte le canzoni";
+"SHOW_ALL_SONGS_SUBTITLE" = "Rimuovi limite visivo di canzoni aggiunte di recente";
+"MUSIC_LIBRARY_LAYOUT" = "Layout Libreria Musicale";
+"THREE_COLUMNS" = "Usa Layout a 3 Colonne";
+"THREE_COLUMNS_SUBTITLE" = "Mostra musica aggiunta di recente in tre colonne";
+"MUSIC" = "Musica";
+"MUSIC_NOTIFICATIONS" = "Notifiche";
+"MUSIC_BANNER" = "Mostra banner in riproduzione";
+"MUSIC_BANNER_SUBTITLE" = "Invia notifica quando la canzone cambia";
+
+
+

@@ -1,0 +1,13 @@
+"CONNECTIVITY" = "Connettività";
+"AIRPLANE_MODE" = "Modalità Aereo";
+"CELLULAR_DATA" = "Connessione Dati";
+"WIFI" = "WiFi";
+"BLUETOOTH" = "Bluetooth";
+"AIRDROP" = "Airdrop";
+"HOTSPOT" = "HotSpot";
+"COLOR_PICKER_SUBTITLE" = "Scorri a sinistra per impostare il colore";
+"COLOR_PICKER" = "Colore personalizzato quando attivo";
+"COLOR_PICKER_DISABLED" = "Colore personalizzato quando non attivo";
+"INVALID_VALUE" = "Valore non valido";
+"NUMERICAL_VALUE" = "Inserire una valore numerico";
+"MAXIMUM_VALUE" = "Valore massimo: ";

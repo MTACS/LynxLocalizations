@@ -1,0 +1,20 @@
+"PINNED_CONVERSATIONS" = "Conversazioni Fissate";
+"HIDE_CONTACT_IMAGE_GLOW" = "Nascondi 'luminosità' immagine contatto";
+"HIDE_CONTACT_IMAGE_GLOW_SUBTITLE" = "Rimuove luminosità / ombra from dall'immagine del contatto";
+"CONVERSATIONS" = "Conversazioni";
+"HIDE_SEPARATORS" = "Nascondi Separatori";
+"HIDE_SEPARATORS_SUBTITLE" = "Rimuove le righe tra le conversazioni";
+"OTHER_TWEAKS" = "Altri Tweaks";
+"MESSAGES" = "Messaggi";
+"SHOW_PROGRESS_BAR" = "Mostra barra dei progressi";
+"SHOW_PROGRESS_BAR_SUBTITLE" = "Mostra progressi quando si invia un messaggio";
+"HIDE_PINNED_PREVIEW" = "Nascondi anteprima messaggio";
+"HIDE_PINNED_PREVIEW_SUBTITLE" = "Rimuovi etichetta del messaggio dai contatti fissati in alto";
+"SENDING" = "Invio messaggio"; 
+"SWITCH_MESSAGE_TYPE" = "Seleziona tipo di messaggio";
+"SWITCH_MESSAGE_TYPE_SUBTITLE" = "Pressione prolungata sul contatto per cambiare tipo di messaggio (iMessage/SMS)";
+"DELAY_MESSAGE_SEND" = "Ritarda invio del messaggio";
+"DELAY_MESSAGE_SUBTITLE" = "Aggiungi ritardo prima di inviare il messaggio";
+"MESSAGE_DELAY" = "Durata del ritardo";
+"MESSAGE_DELAY_SUBTITLE" = "Ammontare di secondi";
+
